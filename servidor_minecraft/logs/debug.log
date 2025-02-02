@@ -1742,3 +1742,7 @@ java.lang.UnsatisfiedLinkError: no netty_transport_native_epoll_x86_64 in java.l
 [02Feb2025 18:15:16.449] [Netty Epoll Server IO #1/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method <clinit>()V class io/izzel/arclight/common/mixin/core/network/handshake/ServerHandshakeNetHandlerMixin$1
 [02Feb2025 18:15:16.450] [Netty Epoll Server IO #1/DEBUG] [mixin/]: Mixing network.status.ServerStatusNetHandlerMixin from mixins.arclight.core.json into net.minecraft.network.status.ServerStatusNetHandler
 [02Feb2025 18:15:16.461] [Netty Epoll Server IO #1/DEBUG] [Implementer/SWITCH_TABLE]: Candidate switch enum method $SWITCH_TABLE$net$minecraft$EnumChatFormat()[I class org/bukkit/craftbukkit/v1_16_R3/util/CraftChatMessage$StringMessage
+[02Feb2025 18:20:05.645] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[02Feb2025 18:20:05.651] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[02Feb2025 18:25:05.639] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[02Feb2025 18:25:05.644] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
