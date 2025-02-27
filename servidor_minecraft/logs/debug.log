@@ -2204,3 +2204,171 @@ Caused by: java.lang.NullPointerException
 [27Feb2025 16:45:53.753] [Server thread/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:648]: 	at net.minecraft.world.chunk.ChunkStatus.func_223198_a(ChunkStatus.java:198)
 [27Feb2025 16:45:53.753] [Server thread/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:648]: 	at net.minecraft.world.server.ChunkManager.lambda$null$18(ChunkManagerMixin.java:524)
 [27Feb2025 16:45:53.753] [Server thread/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:648]: 	... 14 more
+[27Feb2025 16:48:25.695] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27Feb2025 16:48:25.698] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27Feb2025 16:52:58.162] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Liliana_YT issued server command: /mv create rpg normal -g Stratos
+[27Feb2025 16:53:07.999] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Liliana_YT issued server command: /mv create word normal -g Stratos
+[27Feb2025 16:53:08.000] [Server thread/INFO] [Console/]: Liliana_YT: Starting creation of world 'word'...
+[27Feb2025 16:53:08.000] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] Loading World & Settings - 'word' - Env: NORMAL - Type: NORMAL & generator: Stratos
+[27Feb2025 16:53:08.016] [Server thread/INFO] [Minecraft/]: -------- World Settings For [word] --------
+[27Feb2025 16:53:08.016] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[27Feb2025 16:53:08.016] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+[27Feb2025 16:53:08.017] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+[27Feb2025 16:53:08.017] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+[27Feb2025 16:53:08.017] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+[27Feb2025 16:53:08.017] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+[27Feb2025 16:53:08.017] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+[27Feb2025 16:53:08.017] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+[27Feb2025 16:53:08.017] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+[27Feb2025 16:53:08.017] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+[27Feb2025 16:53:08.017] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+[27Feb2025 16:53:08.017] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+[27Feb2025 16:53:08.018] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+[27Feb2025 16:53:08.018] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+[27Feb2025 16:53:08.018] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+[27Feb2025 16:53:08.018] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+[27Feb2025 16:53:08.018] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+[27Feb2025 16:53:08.018] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+[27Feb2025 16:53:08.018] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+[27Feb2025 16:53:08.018] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[27Feb2025 16:53:08.018] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[27Feb2025 16:53:08.019] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[27Feb2025 16:53:08.019] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[27Feb2025 16:53:08.019] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+[27Feb2025 16:53:08.019] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[27Feb2025 16:53:08.019] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+[27Feb2025 16:53:08.019] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+[27Feb2025 16:53:08.019] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+[27Feb2025 16:53:08.020] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+[27Feb2025 16:53:08.020] [Server thread/INFO] [Minecraft/]: View Distance: 10
+[27Feb2025 16:53:08.020] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+[27Feb2025 16:53:08.024] [Server thread/INFO] [STDERR/]: [com.civious.worldgenerator.c.a:a:73]: [STRATOS] ---------- The biome Swamp2 is not a valid biome name, it will be ignored in your world
+[27Feb2025 16:53:08.024] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: java.lang.NullPointerException
+[27Feb2025 16:53:08.024] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at com.civious.worldgenerator.a.d.a.c.a(SeaCenteredPositioning.java:45)
+[27Feb2025 16:53:08.024] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at com.civious.worldgenerator.a.d.a.d.b(TessellationPositioning.java:24)
+[27Feb2025 16:53:08.024] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at com.civious.worldgenerator.a.d.a.<init>(BiomeManager.java:106)
+[27Feb2025 16:53:08.024] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at com.civious.worldgenerator.f.a.a(CustomChunkGenerator.java:30)
+[27Feb2025 16:53:08.024] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at com.civious.worldgenerator.f.a.getDefaultPopulators(CustomChunkGenerator.java:112)
+[27Feb2025 16:53:08.025] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at net.minecraft.server.MinecraftServer.initWorld(MinecraftServerMixin.java:2091)
+[27Feb2025 16:53:08.025] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.createWorld(CraftServerMixin.java:1074)
+[27Feb2025 16:53:08.025] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at org.bukkit.Bukkit.createWorld(Bukkit.java:533)
+[27Feb2025 16:53:08.025] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at org.bukkit.WorldCreator.createWorld(WorldCreator.java:325)
+[27Feb2025 16:53:08.025] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at com.onarandombox.MultiverseCore.utils.WorldManager.doLoad(WorldManager.java:486)
+[27Feb2025 16:53:08.025] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at com.onarandombox.MultiverseCore.utils.WorldManager.addWorld(WorldManager.java:288)
+[27Feb2025 16:53:08.025] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at com.onarandombox.MultiverseCore.commands.CreateCommand.runCommand(CreateCommand.java:125)
+[27Feb2025 16:53:08.025] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at com.onarandombox.commandhandler.CommandHandler.checkAndRunCommand(CommandHandler.java:296)
+[27Feb2025 16:53:08.026] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at com.onarandombox.commandhandler.CommandHandler.processFoundCommands(CommandHandler.java:143)
+[27Feb2025 16:53:08.026] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at com.onarandombox.commandhandler.CommandHandler.locateAndRunCommand(CommandHandler.java:93)
+[27Feb2025 16:53:08.026] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at com.onarandombox.MultiverseCore.MultiverseCore.onCommand(MultiverseCore.java:839)
+[27Feb2025 16:53:08.026] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45)
+[27Feb2025 16:53:08.026] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:149)
+[27Feb2025 16:53:08.026] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.dispatchCommand(CraftServerMixin.java:761)
+[27Feb2025 16:53:08.027] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at net.minecraft.network.play.ServerPlayNetHandler.func_147361_d(ServerPlayNetHandlerMixin.java:2547)
+[27Feb2025 16:53:08.027] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at net.minecraft.network.play.ServerPlayNetHandler.func_147354_a(ServerPlayNetHandlerMixin.java:2397)
+[27Feb2025 16:53:08.027] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at net.minecraft.network.play.client.CChatMessagePacket.func_148833_a(CChatMessagePacketMixin.java:36)
+[27Feb2025 16:53:08.027] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at net.minecraft.network.play.client.CChatMessagePacket.func_148833_a(CChatMessagePacketMixin.java:9)
+[27Feb2025 16:53:08.027] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at net.minecraft.network.PacketThreadUtil.md43e10b$lambda$checkThreadAndEnqueue$0$0(PacketThreadUtilMixin.java:536)
+[27Feb2025 16:53:08.027] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18)
+[27Feb2025 16:53:08.027] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144)
+[27Feb2025 16:53:08.027] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23)
+[27Feb2025 16:53:08.027] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServerMixin.java:734)
+[27Feb2025 16:53:08.028] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServerMixin.java:159)
+[27Feb2025 16:53:08.028] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118)
+[27Feb2025 16:53:08.028] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServerMixin.java:717)
+[27Feb2025 16:53:08.028] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServerMixin.java:711)
+[27Feb2025 16:53:08.028] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127)
+[27Feb2025 16:53:08.028] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServerMixin.java:697)
+[27Feb2025 16:53:08.028] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServerMixin.java:1921)
+[27Feb2025 16:53:08.028] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServerMixin.java:232)
+[27Feb2025 16:53:08.029] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[27Feb2025 16:53:08.029] [Server thread/ERROR] [Minecraft/]: [Multiverse-Core] The world 'word' could NOT be loaded because it contains errors and is probably corrupt!
+[27Feb2025 16:53:08.029] [Server thread/ERROR] [Minecraft/]: [Multiverse-Core] Try using Minecraft Region Fixer to repair your world! 'word'
+[27Feb2025 16:53:08.029] [Server thread/ERROR] [Minecraft/]: [Multiverse-Core] https://github.com/Fenixin/Minecraft-Region-Fixer
+[27Feb2025 16:53:08.029] [Server thread/ERROR] [Minecraft/]: [Multiverse-Core] Failed to Create/Load the world 'word'
+[27Feb2025 16:53:08.029] [Server thread/INFO] [Console/]: Liliana_YT: FAILED.
+[27Feb2025 16:53:25.572] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[27Feb2025 16:53:25.575] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[27Feb2025 16:54:07.428] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Liliana_YT issued server command: /mv create word1 normal -g Stratos
+[27Feb2025 16:54:07.429] [Server thread/INFO] [Console/]: Liliana_YT: Starting creation of world 'word1'...
+[27Feb2025 16:54:07.429] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] Loading World & Settings - 'word1' - Env: NORMAL - Type: NORMAL & generator: Stratos
+[27Feb2025 16:54:07.442] [Server thread/INFO] [Minecraft/]: -------- World Settings For [word1] --------
+[27Feb2025 16:54:07.442] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[27Feb2025 16:54:07.442] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+[27Feb2025 16:54:07.442] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+[27Feb2025 16:54:07.442] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+[27Feb2025 16:54:07.442] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+[27Feb2025 16:54:07.442] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+[27Feb2025 16:54:07.442] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+[27Feb2025 16:54:07.443] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+[27Feb2025 16:54:07.443] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+[27Feb2025 16:54:07.443] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+[27Feb2025 16:54:07.443] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+[27Feb2025 16:54:07.443] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+[27Feb2025 16:54:07.443] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+[27Feb2025 16:54:07.443] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+[27Feb2025 16:54:07.443] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+[27Feb2025 16:54:07.443] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+[27Feb2025 16:54:07.443] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+[27Feb2025 16:54:07.443] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+[27Feb2025 16:54:07.444] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+[27Feb2025 16:54:07.444] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[27Feb2025 16:54:07.444] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[27Feb2025 16:54:07.444] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[27Feb2025 16:54:07.444] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[27Feb2025 16:54:07.444] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+[27Feb2025 16:54:07.445] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[27Feb2025 16:54:07.445] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+[27Feb2025 16:54:07.445] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+[27Feb2025 16:54:07.445] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+[27Feb2025 16:54:07.445] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+[27Feb2025 16:54:07.445] [Server thread/INFO] [Minecraft/]: View Distance: 10
+[27Feb2025 16:54:07.445] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+[27Feb2025 16:54:07.448] [Server thread/INFO] [STDERR/]: [com.civious.worldgenerator.c.a:a:73]: [STRATOS] ---------- The biome Swamp2 is not a valid biome name, it will be ignored in your world
+[27Feb2025 16:54:07.449] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: java.lang.NullPointerException
+[27Feb2025 16:54:07.449] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at com.civious.worldgenerator.a.d.a.c.a(SeaCenteredPositioning.java:45)
+[27Feb2025 16:54:07.449] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at com.civious.worldgenerator.a.d.a.d.b(TessellationPositioning.java:24)
+[27Feb2025 16:54:07.449] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at com.civious.worldgenerator.a.d.a.<init>(BiomeManager.java:106)
+[27Feb2025 16:54:07.449] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at com.civious.worldgenerator.f.a.a(CustomChunkGenerator.java:30)
+[27Feb2025 16:54:07.449] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at com.civious.worldgenerator.f.a.getDefaultPopulators(CustomChunkGenerator.java:112)
+[27Feb2025 16:54:07.450] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at net.minecraft.server.MinecraftServer.initWorld(MinecraftServerMixin.java:2091)
+[27Feb2025 16:54:07.450] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.createWorld(CraftServerMixin.java:1074)
+[27Feb2025 16:54:07.450] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at org.bukkit.Bukkit.createWorld(Bukkit.java:533)
+[27Feb2025 16:54:07.450] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at org.bukkit.WorldCreator.createWorld(WorldCreator.java:325)
+[27Feb2025 16:54:07.450] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at com.onarandombox.MultiverseCore.utils.WorldManager.doLoad(WorldManager.java:486)
+[27Feb2025 16:54:07.450] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at com.onarandombox.MultiverseCore.utils.WorldManager.addWorld(WorldManager.java:288)
+[27Feb2025 16:54:07.451] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at com.onarandombox.MultiverseCore.commands.CreateCommand.runCommand(CreateCommand.java:125)
+[27Feb2025 16:54:07.451] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at com.onarandombox.commandhandler.CommandHandler.checkAndRunCommand(CommandHandler.java:296)
+[27Feb2025 16:54:07.451] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at com.onarandombox.commandhandler.CommandHandler.processFoundCommands(CommandHandler.java:143)
+[27Feb2025 16:54:07.451] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at com.onarandombox.commandhandler.CommandHandler.locateAndRunCommand(CommandHandler.java:93)
+[27Feb2025 16:54:07.451] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at com.onarandombox.MultiverseCore.MultiverseCore.onCommand(MultiverseCore.java:839)
+[27Feb2025 16:54:07.451] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at org.bukkit.command.PluginCommand.execute(PluginCommand.java:45)
+[27Feb2025 16:54:07.452] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at org.bukkit.command.SimpleCommandMap.dispatch(SimpleCommandMap.java:149)
+[27Feb2025 16:54:07.452] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.dispatchCommand(CraftServerMixin.java:761)
+[27Feb2025 16:54:07.452] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at net.minecraft.network.play.ServerPlayNetHandler.func_147361_d(ServerPlayNetHandlerMixin.java:2547)
+[27Feb2025 16:54:07.452] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at net.minecraft.network.play.ServerPlayNetHandler.func_147354_a(ServerPlayNetHandlerMixin.java:2397)
+[27Feb2025 16:54:07.452] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at net.minecraft.network.play.client.CChatMessagePacket.func_148833_a(CChatMessagePacketMixin.java:36)
+[27Feb2025 16:54:07.452] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at net.minecraft.network.play.client.CChatMessagePacket.func_148833_a(CChatMessagePacketMixin.java:9)
+[27Feb2025 16:54:07.452] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at net.minecraft.network.PacketThreadUtil.md43e10b$lambda$checkThreadAndEnqueue$0$0(PacketThreadUtilMixin.java:536)
+[27Feb2025 16:54:07.453] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at net.minecraft.util.concurrent.TickDelayedTask.run(SourceFile:18)
+[27Feb2025 16:54:07.453] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213166_h(SourceFile:144)
+[27Feb2025 16:54:07.453] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at net.minecraft.util.concurrent.RecursiveEventLoop.func_213166_h(SourceFile:23)
+[27Feb2025 16:54:07.453] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServerMixin.java:734)
+[27Feb2025 16:54:07.453] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at net.minecraft.server.MinecraftServer.func_213166_h(MinecraftServerMixin.java:159)
+[27Feb2025 16:54:07.453] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213168_p(SourceFile:118)
+[27Feb2025 16:54:07.453] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at net.minecraft.server.MinecraftServer.func_213205_aW(MinecraftServerMixin.java:717)
+[27Feb2025 16:54:07.453] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at net.minecraft.server.MinecraftServer.func_213168_p(MinecraftServerMixin.java:711)
+[27Feb2025 16:54:07.454] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at net.minecraft.util.concurrent.ThreadTaskExecutor.func_213161_c(SourceFile:127)
+[27Feb2025 16:54:07.454] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at net.minecraft.server.MinecraftServer.func_213202_o(MinecraftServerMixin.java:697)
+[27Feb2025 16:54:07.454] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServerMixin.java:1921)
+[27Feb2025 16:54:07.454] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServerMixin.java:232)
+[27Feb2025 16:54:07.454] [Server thread/INFO] [STDERR/]: [com.onarandombox.MultiverseCore.utils.WorldManager:doLoad:488]: 	at java.base/java.lang.Thread.run(Thread.java:829)
+[27Feb2025 16:54:07.454] [Server thread/ERROR] [Minecraft/]: [Multiverse-Core] The world 'word1' could NOT be loaded because it contains errors and is probably corrupt!
+[27Feb2025 16:54:07.454] [Server thread/ERROR] [Minecraft/]: [Multiverse-Core] Try using Minecraft Region Fixer to repair your world! 'word1'
+[27Feb2025 16:54:07.454] [Server thread/ERROR] [Minecraft/]: [Multiverse-Core] https://github.com/Fenixin/Minecraft-Region-Fixer
+[27Feb2025 16:54:07.455] [Server thread/ERROR] [Minecraft/]: [Multiverse-Core] Failed to Create/Load the world 'word1'
+[27Feb2025 16:54:07.455] [Server thread/INFO] [Console/]: Liliana_YT: FAILED.
+[27Feb2025 16:54:54.447] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Liliana_YT issued server command: /mv list
+[27Feb2025 16:57:07.231] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Liliana_YT issued server command: /mv list
+[27Feb2025 16:57:17.397] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Liliana_YT issued server command: /plu
+[27Feb2025 16:57:23.878] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Liliana_YT issued server command: /plugins
+[27Feb2025 16:57:35.936] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Liliana_YT issued server command: /stratos:sconfig
