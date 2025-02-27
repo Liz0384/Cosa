@@ -52,7 +52,7 @@ worlds:
     alias: ''
     color: WHITE
     style: NORMAL
-    pvp: 'null'
+    pvp: 'false'
     scale: '1.0'
     respawnWorld: ''
     allowWeather: 'true'
@@ -76,7 +76,7 @@ worlds:
     adjustSpawn: 'true'
     portalForm: ALL
     gameMode: SURVIVAL
-    keepSpawnInMemory: 'null'
+    keepSpawnInMemory: 'false'
     spawnLocation:
       ==: MVNullLocation (It's a bug if you see this in your config file)
     autoLoad: 'true'
