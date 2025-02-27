@@ -743,3 +743,5 @@ Caused by: java.lang.NullPointerException
 [27Feb2025 17:07:39.628] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Played sound minecraft:minecraftextremobygetdroy to Liliana_YT
 [27Feb2025 17:07:39.629] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Liliana_YT: Showing new actionbar title for Liliana_YT]
 [27Feb2025 17:07:39.926] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Liliana_YT was slain by Zombie
+[27Feb2025 17:07:59.214] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Liliana_YT lost connection: Disconnected
+[27Feb2025 17:07:59.217] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Liliana_YT left the game
