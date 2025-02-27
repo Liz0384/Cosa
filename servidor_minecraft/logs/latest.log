@@ -502,3 +502,31 @@ Caused by: java.lang.UnsupportedClassVersionError: me/jadenp/notbounties/NotBoun
 [27Feb2025 18:09:14.062] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Played sound minecraft:minecraftextremobygetdroy to Liliana_YT
 [27Feb2025 18:09:14.063] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Liliana_YT: Showing new actionbar title for Liliana_YT]
 [27Feb2025 18:09:14.150] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Liliana_YT died
+[27Feb2025 18:10:45.451] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Liliana_YT lost connection: Disconnected
+[27Feb2025 18:10:45.455] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Liliana_YT left the game
+[27Feb2025 18:14:28.802] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[27Feb2025 18:14:28.849] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[27Feb2025 18:14:28.849] [Server thread/INFO] [ConditionalEvents/]: Disabling ConditionalEvents v4.60.2
+[27Feb2025 18:14:28.851] [Server thread/INFO] [Console/]: [ConditionalEvents] Has been disabled! Version: 4.60.2
+[27Feb2025 18:14:28.853] [Server thread/INFO] [YamipaPlugin/]: Disabling YamipaPlugin v1.3.2
+[27Feb2025 18:14:28.857] [Server thread/INFO] [SkinsRestorer/]: Disabling SkinsRestorer v15.5.3
+[27Feb2025 18:14:28.861] [Server thread/INFO] [Graves/]: Disabling Graves v4.9
+[27Feb2025 18:14:28.870] [Server thread/INFO] [Multiverse-Core/]: Disabling Multiverse-Core v4.3.1-b861
+[27Feb2025 18:14:28.876] [Server thread/INFO] [ProtocolLib/]: Disabling ProtocolLib v5.3.0
+[27Feb2025 18:14:28.879] [Server thread/INFO] [EssentialsSpawn/]: Disabling EssentialsSpawn v2.21.0-dev+175-263dab5
+[27Feb2025 18:14:28.880] [Server thread/INFO] [Essentials/]: Disabling Essentials v2.21.0-dev+175-263dab5
+[27Feb2025 18:14:28.883] [Server thread/INFO] [AnimationsCore/]: Disabling AnimationsCore v0.1-SNAPSHOT
+[27Feb2025 18:14:28.884] [Server thread/INFO] [OnePlayerSleep/]: Disabling OnePlayerSleep v1.3
+[27Feb2025 18:14:28.884] [Server thread/INFO] [Stratos/]: Disabling Stratos v1.15.25
+[27Feb2025 18:14:28.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[27Feb2025 18:14:28.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[27Feb2025 18:14:28.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[27Feb2025 18:14:29.172] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[27Feb2025 18:14:29.184] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/DIM-1]'/minecraft:the_nether
+[27Feb2025 18:14:29.216] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[27Feb2025 18:14:29.216] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/DIM1]'/minecraft:the_end
+[27Feb2025 18:14:29.221] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[27Feb2025 18:14:29.224] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[27Feb2025 18:14:29.227] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[27Feb2025 18:14:29.229] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[27Feb2025 18:14:34.238] [Exit Thread/WARN] [Arclight/]: 7 threads not shutting down correctly, force exiting
