@@ -727,3 +727,19 @@ Caused by: java.lang.NullPointerException
 [27Feb2025 16:57:17.397] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Liliana_YT issued server command: /plu
 [27Feb2025 16:57:23.878] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Liliana_YT issued server command: /plugins
 [27Feb2025 16:57:35.936] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Liliana_YT issued server command: /stratos:sconfig
+[27Feb2025 16:58:00.838] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Liliana_YT issued server command: /sconfig create mundo
+[27Feb2025 16:58:12.710] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Liliana_YT issued server command: /stratos:sconfig
+[27Feb2025 16:58:24.784] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Liliana_YT issued server command: /sconfig reload
+[27Feb2025 16:58:37.007] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Liliana_YT issued server command: /mv list
+[27Feb2025 16:59:00.705] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Liliana_YT issued server command: /tp mundo
+[27Feb2025 16:59:12.445] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Liliana_YT issued server command: /mv tp mundo
+[27Feb2025 16:59:27.619] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Liliana_YT issued server command: /stratos:slist
+[27Feb2025 17:00:24.915] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Liliana_YT lost connection: Disconnected
+[27Feb2025 17:00:24.920] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Liliana_YT left the game
+[27Feb2025 17:00:27.961] [User Authenticator #2/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Liliana_YT is 38d4279a-297f-3674-bd19-99f7f5e142e7
+[27Feb2025 17:00:29.869] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@7629e8e2
+[27Feb2025 17:00:29.873] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Liliana_YT[/127.103.138.173:43243] logged in with entity id 2173 at (-251.94655278043638, 69.0, 98.9497492298847)
+[27Feb2025 17:07:39.627] [Server thread/INFO] [Console/]: [Animation in 1 tick] from (0 to 80) numeric true
+[27Feb2025 17:07:39.628] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Played sound minecraft:minecraftextremobygetdroy to Liliana_YT
+[27Feb2025 17:07:39.629] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Liliana_YT: Showing new actionbar title for Liliana_YT]
+[27Feb2025 17:07:39.926] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Liliana_YT was slain by Zombie
