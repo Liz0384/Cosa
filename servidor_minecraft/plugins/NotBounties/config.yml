@@ -1,0 +1,256 @@
+# 
+# formatting of large numbers
+currency:
+  override-vault: false
+  object: DIAMOND
+  prefix: '&f'
+  suffix: '&b◆'
+  remove-commands: []
+  add-commands: []
+  add-single-currency: descending
+  manual-economy: AUTOMATIC
+  bounty-items:
+    mode: DENY
+    default-gui: false
+    item-values: AUTO
+    override-immunity: false
+    buy-items: true
+    tab-complete: true
+number-formatting:
+  format-locale: en-US
+  pattern: '#,###.##'
+  use-divisions: true
+  divisions:
+    '1000': K
+    '1000000': M
+    '1000000000': B
+    '1000000000000': T
+minimum-bounty: 1
+minimum-broadcast: 50
+bounty-tax: 0.0
+death-tax: 0.0
+bounty-expire:
+  time: -1
+  offline-tracking: true
+  reward-receiver: false
+hide-stats:
+- Not_Jaden
+update-notification: true
+npc-claim: false
+max-setters: -1
+confirmation: true
+console-bounty-name: Sheriff
+remove-banned-players: true
+self-setting: true
+steal-bounties: false
+claim-order: REGULAR
+auto-timezone: true
+reduce-page-calculations: true
+see-player-list: false
+max-tab-complete-players: 50
+override-skinsrestorer: false
+auto-save-interval: 15
+bounty-backups: true
+bounty-cooldown: 2
+plugin-bounty-commands:
+- notbounties
+- bounty
+redeem-reward-later:
+  enabled: false
+  voucher-per-setter: false
+  setter-lore-addition: '&8{player} set a bounty of {amount}'
+pvp-restrictions:
+  worlds:
+  - pvp_restriction_world
+  rule: 2
+  pvp-time: 60
+  combat-logging:
+    time: 0
+    send-message: false
+    death-tax-override: -1
+teams:
+  scoreboard-claim: true
+  placeholder: ''
+  bounties:
+    enabled: false
+    split-mode: ANY
+    min-bounty: 100
+  better-teams:
+    team: false
+    ally: false
+  towny-advanced:
+    nation: false
+    town: false
+    ally: false
+  kingdoms-x:
+    nation: false
+    nation-ally: false
+    kingdom: false
+    kingdom-ally: false
+  lands:
+    nation: false
+    nation-ally: false
+    land: false
+    land-ally: false
+  factions:
+    faction: false
+    ally: false
+  superior-skyblock-2:
+    island-member: false
+bounty-board:
+  type: 2
+  update-interval: 5
+  staggered-update: 3
+  glow: true
+  invisible: true
+  item-name: '&6&lWANTED: &f{player}'
+  update-name: 0
+wanted-tag:
+  enabled: true
+  offset: 0.4
+  text: '&f{level}&6&lWANTED&f: {amount}'
+  min-bounty: 100
+  hide-when-sneaking: true
+  hide-when-moving: false
+  text-update-interval: 2000
+  visibility-update-interval: 150
+  level:
+    '1000': '&f☠ '
+    '2500': '&c☠☠ '
+    '5000': '&4☠☠☠ '
+bounty-claim-commands: []
+bounty-set-commands: []
+prompts:
+  attempts: 5
+  cancel-words:
+  - cancel
+  - exit
+  time-limit: 30
+bounty-gui-clicks:
+  right: POSTER
+  left: TRACKER
+  middle: NONE
+  drop: VIEW
+  bedrock: VIEW
+  admin:
+    right: EDIT
+    left: REMOVE
+    middle: NONE
+    drop: VIEW
+    bedrock: VIEW
+trickle-bounties:
+  given-reward: 1
+  bounty-transfer: 0
+  require-bounty: true
+auto-bounties:
+  expire-time: -1
+  override-immunity: true
+  murder-bounty:
+    player-cooldown: 360
+    bounty-increase: 0
+    exclude-claiming: true
+  random-bounties:
+    offline-set: false
+    min-time: 0
+    max-time: 0
+    min-price: 10
+    max-price: 100
+  timed-bounties:
+    time: 0
+    bounty-increase: 10
+    max-bounty: 0
+    reset-on-death: true
+    offline-tracking: false
+bounty-posters:
+  enabled: true
+  give-own: false
+  craft-poster: true
+  wash-poster: true
+  display-reward: true
+  reward-text: 'REWARD: {reward}'
+  lock-maps: false
+  currency-wrap: false
+  name-line: '{name}'
+  update-interval: 2000
+  always-update: false
+  save-templates: true
+  clean-posters: false
+world-filter:
+  whitelist: false
+  worlds:
+  - SafeWorld
+bounty-whitelist:
+  enabled: false
+  cost: 10
+  show-all-bounty: false
+  variable-whitelist: false
+  enable-blacklist: true
+reward-heads:
+  setters: true
+  claimed: false
+  any-kill: false
+buy-own-bounties:
+  enabled: true
+  cost-multiply: 1.25
+immunity:
+  type: SCALING
+  permanent-immunity:
+    cost: 128
+  scaling-immunity:
+    ratio: 1.0
+  time-immunity:
+    seconds: 3600
+    offline-tracking: true
+  grace-period: 10
+big-bounties:
+  bounty-threshold: 25000
+  trigger: ONCE
+  particle: true
+  commands:
+  - minecraft:effect give {player} minecraft:glowing 10 0
+bounty-tracker:
+  enabled: true
+  minimum-bounty: 10
+  give-own: false
+  write-empty-trackers: true
+  wash-trackers: true
+  craft-tracker: true
+  poster-tracking: true
+  reset-removed-trackers: true
+  remove: 2
+  glow: 10
+  action-bar:
+    enabled: true
+    show-always: true
+    player-name: true
+    distance: true
+    position: false
+    world: false
+databases:
+  example-sql:
+    type: SQL
+    host: localhost
+    port: 3306
+    database: db
+    user: username
+    password: pass
+    ssl: false
+    refresh-interval: 300
+    priority: 1
+  example-redis:
+    type: REDIS
+    host: localhost
+    port: 3306
+    user: username
+    password: pass
+    ssl: false
+    database-number: -1
+    refresh-interval: 300
+    priority: 2
+  example-proxy:
+    type: PROXY
+    enabled: false
+    database-sync: true
+    skins: true
+    priority: 3
+send-bstats: true
