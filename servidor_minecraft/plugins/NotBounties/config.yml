@@ -35,7 +35,7 @@ bounty-expire:
   reward-receiver: false
 hide-stats:
 - Not_Jaden
-update-notification: true
+update-notification: false
 npc-claim: false
 max-setters: -1
 confirmation: true
