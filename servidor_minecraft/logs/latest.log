@@ -1,4 +1,4 @@
-[01Mar2025 12:47:54.333] [main/INFO] [Arclight/]: 
+[01Mar2025 12:49:07.246] [main/INFO] [Arclight/]: 
 
        ___           ___     __   /\
       /   | ________/ (_)__ / /  / /
@@ -10,117 +10,261 @@
     运行版本 arclight-1.16.5-1.0.24-551ec3ff
     构建日期 2022-10-04 04:20:42
 
-[01Mar2025 12:47:54.432] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.39, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
-[01Mar2025 12:47:54.434] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 21.0.5 by Ubuntu
-[01Mar2025 12:47:54.806] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
-[01Mar2025 12:47:54.879] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/Cosa/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
-[01Mar2025 12:47:56.351] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [io.izzel.arclight.impl.ArclightConnector_Forge]
-[01Mar2025 12:47:56.440] [main/INFO] [Arclight/]: 核心 Mixin 配置已加载
-[01Mar2025 12:47:56.450] [main/INFO] [Arclight/]: 服务端优化 Mixin 配置已加载
-[01Mar2025 12:47:56.456] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
-[01Mar2025 12:47:59.110] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Class file major version 65 is not supported by active ASM (version 9.0 supports class version 61), reading java.lang.invoke.MethodHandles$Lookup)
-[01Mar2025 12:47:59.118] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Class file major version 65 is not supported by active ASM (version 9.0 supports class version 61), reading java.lang.invoke.MethodHandles$Lookup)
-[01Mar2025 12:47:59.219] [main/WARN] [mixin/]: Error loading class: java/util/Map$Entry (java.lang.IllegalArgumentException: Class file major version 65 is not supported by active ASM (version 9.0 supports class version 61), reading java.util.Map$Entry)
-[01Mar2025 12:47:59.220] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Class file major version 65 is not supported by active ASM (version 9.0 supports class version 61), reading java.lang.invoke.MethodHandles$Lookup)
-[01Mar2025 12:47:59.229] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Class file major version 65 is not supported by active ASM (version 9.0 supports class version 61), reading java.lang.invoke.MethodHandles$Lookup)
-[01Mar2025 12:47:59.236] [main/WARN] [mixin/]: Error loading class: java/util/Map$Entry (java.lang.IllegalArgumentException: Class file major version 65 is not supported by active ASM (version 9.0 supports class version 61), reading java.util.Map$Entry)
-[01Mar2025 12:47:59.239] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Class file major version 65 is not supported by active ASM (version 9.0 supports class version 61), reading java.lang.invoke.MethodHandles$Lookup)
-[01Mar2025 12:47:59.244] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Class file major version 65 is not supported by active ASM (version 9.0 supports class version 61), reading java.lang.invoke.MethodHandles$Lookup)
-[01Mar2025 12:47:59.259] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Class file major version 65 is not supported by active ASM (version 9.0 supports class version 61), reading java.lang.invoke.MethodHandles$Lookup)
-[01Mar2025 12:47:59.261] [main/WARN] [mixin/]: Error loading class: java/util/Map$Entry (java.lang.IllegalArgumentException: Class file major version 65 is not supported by active ASM (version 9.0 supports class version 61), reading java.util.Map$Entry)
-[01Mar2025 12:47:59.283] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Class file major version 65 is not supported by active ASM (version 9.0 supports class version 61), reading java.lang.invoke.MethodHandles$Lookup)
-[01Mar2025 12:47:59.289] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Class file major version 65 is not supported by active ASM (version 9.0 supports class version 61), reading java.lang.invoke.MethodHandles$Lookup)
-[01Mar2025 12:47:59.293] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Class file major version 65 is not supported by active ASM (version 9.0 supports class version 61), reading java.lang.invoke.MethodHandles$Lookup)
-[01Mar2025 12:47:59.297] [main/WARN] [mixin/]: Error loading class: java/util/Map$Entry (java.lang.IllegalArgumentException: Class file major version 65 is not supported by active ASM (version 9.0 supports class version 61), reading java.util.Map$Entry)
-[01Mar2025 12:47:59.298] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Class file major version 65 is not supported by active ASM (version 9.0 supports class version 61), reading java.lang.invoke.MethodHandles$Lookup)
-[01Mar2025 12:47:59.299] [main/WARN] [mixin/]: Error loading class: java/util/Map$Entry (java.lang.IllegalArgumentException: Class file major version 65 is not supported by active ASM (version 9.0 supports class version 61), reading java.util.Map$Entry)
-[01Mar2025 12:47:59.300] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Class file major version 65 is not supported by active ASM (version 9.0 supports class version 61), reading java.lang.invoke.MethodHandles$Lookup)
-[01Mar2025 12:47:59.305] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Class file major version 65 is not supported by active ASM (version 9.0 supports class version 61), reading java.lang.invoke.MethodHandles$Lookup)
-[01Mar2025 12:47:59.307] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Class file major version 65 is not supported by active ASM (version 9.0 supports class version 61), reading java.lang.invoke.MethodHandles$Lookup)
-[01Mar2025 12:47:59.307] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Class file major version 65 is not supported by active ASM (version 9.0 supports class version 61), reading java.lang.invoke.MethodHandles$Lookup)
-[01Mar2025 12:47:59.308] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Class file major version 65 is not supported by active ASM (version 9.0 supports class version 61), reading java.lang.invoke.MethodHandles$Lookup)
-[01Mar2025 12:47:59.309] [main/WARN] [mixin/]: Error loading class: java/util/Map$Entry (java.lang.IllegalArgumentException: Class file major version 65 is not supported by active ASM (version 9.0 supports class version 61), reading java.util.Map$Entry)
-[01Mar2025 12:47:59.309] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Class file major version 65 is not supported by active ASM (version 9.0 supports class version 61), reading java.lang.invoke.MethodHandles$Lookup)
-[01Mar2025 12:47:59.311] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Class file major version 65 is not supported by active ASM (version 9.0 supports class version 61), reading java.lang.invoke.MethodHandles$Lookup)
-[01Mar2025 12:47:59.311] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Class file major version 65 is not supported by active ASM (version 9.0 supports class version 61), reading java.lang.invoke.MethodHandles$Lookup)
-[01Mar2025 12:47:59.312] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Class file major version 65 is not supported by active ASM (version 9.0 supports class version 61), reading java.lang.invoke.MethodHandles$Lookup)
-[01Mar2025 12:47:59.313] [main/WARN] [mixin/]: Error loading class: java/util/Map$Entry (java.lang.IllegalArgumentException: Class file major version 65 is not supported by active ASM (version 9.0 supports class version 61), reading java.util.Map$Entry)
-[01Mar2025 12:47:59.314] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Class file major version 65 is not supported by active ASM (version 9.0 supports class version 61), reading java.lang.invoke.MethodHandles$Lookup)
-[01Mar2025 12:47:59.318] [main/WARN] [mixin/]: Error loading class: java/lang/Thread$UncaughtExceptionHandler (java.lang.IllegalArgumentException: Class file major version 65 is not supported by active ASM (version 9.0 supports class version 61), reading java.lang.Thread$UncaughtExceptionHandler)
-[01Mar2025 12:47:59.319] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Class file major version 65 is not supported by active ASM (version 9.0 supports class version 61), reading java.lang.invoke.MethodHandles$Lookup)
-[01Mar2025 12:47:59.332] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Class file major version 65 is not supported by active ASM (version 9.0 supports class version 61), reading java.lang.invoke.MethodHandles$Lookup)
-[01Mar2025 12:47:59.334] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Class file major version 65 is not supported by active ASM (version 9.0 supports class version 61), reading java.lang.invoke.MethodHandles$Lookup)
-[01Mar2025 12:47:59.336] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Class file major version 65 is not supported by active ASM (version 9.0 supports class version 61), reading java.lang.invoke.MethodHandles$Lookup)
-[01Mar2025 12:47:59.340] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Class file major version 65 is not supported by active ASM (version 9.0 supports class version 61), reading java.lang.invoke.MethodHandles$Lookup)
-[01Mar2025 12:47:59.344] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Class file major version 65 is not supported by active ASM (version 9.0 supports class version 61), reading java.lang.invoke.MethodHandles$Lookup)
-[01Mar2025 12:47:59.350] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Class file major version 65 is not supported by active ASM (version 9.0 supports class version 61), reading java.lang.invoke.MethodHandles$Lookup)
-[01Mar2025 12:47:59.351] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Class file major version 65 is not supported by active ASM (version 9.0 supports class version 61), reading java.lang.invoke.MethodHandles$Lookup)
-[01Mar2025 12:47:59.354] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Class file major version 65 is not supported by active ASM (version 9.0 supports class version 61), reading java.lang.invoke.MethodHandles$Lookup)
-[01Mar2025 12:47:59.358] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Class file major version 65 is not supported by active ASM (version 9.0 supports class version 61), reading java.lang.invoke.MethodHandles$Lookup)
-[01Mar2025 12:47:59.360] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Class file major version 65 is not supported by active ASM (version 9.0 supports class version 61), reading java.lang.invoke.MethodHandles$Lookup)
-[01Mar2025 12:47:59.367] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Class file major version 65 is not supported by active ASM (version 9.0 supports class version 61), reading java.lang.invoke.MethodHandles$Lookup)
-[01Mar2025 12:47:59.367] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Class file major version 65 is not supported by active ASM (version 9.0 supports class version 61), reading java.lang.invoke.MethodHandles$Lookup)
-[01Mar2025 12:47:59.370] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Class file major version 65 is not supported by active ASM (version 9.0 supports class version 61), reading java.lang.invoke.MethodHandles$Lookup)
-[01Mar2025 12:47:59.372] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Class file major version 65 is not supported by active ASM (version 9.0 supports class version 61), reading java.lang.invoke.MethodHandles$Lookup)
-[01Mar2025 12:47:59.374] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Class file major version 65 is not supported by active ASM (version 9.0 supports class version 61), reading java.lang.invoke.MethodHandles$Lookup)
-[01Mar2025 12:47:59.380] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Class file major version 65 is not supported by active ASM (version 9.0 supports class version 61), reading java.lang.invoke.MethodHandles$Lookup)
-[01Mar2025 12:47:59.381] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Class file major version 65 is not supported by active ASM (version 9.0 supports class version 61), reading java.lang.invoke.MethodHandles$Lookup)
-[01Mar2025 12:47:59.383] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Class file major version 65 is not supported by active ASM (version 9.0 supports class version 61), reading java.lang.invoke.MethodHandles$Lookup)
-[01Mar2025 12:47:59.385] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Class file major version 65 is not supported by active ASM (version 9.0 supports class version 61), reading java.lang.invoke.MethodHandles$Lookup)
-[01Mar2025 12:47:59.390] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Class file major version 65 is not supported by active ASM (version 9.0 supports class version 61), reading java.lang.invoke.MethodHandles$Lookup)
-[01Mar2025 12:47:59.393] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Class file major version 65 is not supported by active ASM (version 9.0 supports class version 61), reading java.lang.invoke.MethodHandles$Lookup)
-[01Mar2025 12:47:59.394] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Class file major version 65 is not supported by active ASM (version 9.0 supports class version 61), reading java.lang.invoke.MethodHandles$Lookup)
-[01Mar2025 12:47:59.395] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Class file major version 65 is not supported by active ASM (version 9.0 supports class version 61), reading java.lang.invoke.MethodHandles$Lookup)
-[01Mar2025 12:47:59.396] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Class file major version 65 is not supported by active ASM (version 9.0 supports class version 61), reading java.lang.invoke.MethodHandles$Lookup)
-[01Mar2025 12:47:59.396] [main/WARN] [mixin/]: Error loading class: java/util/Map$Entry (java.lang.IllegalArgumentException: Class file major version 65 is not supported by active ASM (version 9.0 supports class version 61), reading java.util.Map$Entry)
-[01Mar2025 12:47:59.397] [main/WARN] [mixin/]: Error loading class: java/util/Map$Entry (java.lang.IllegalArgumentException: Class file major version 65 is not supported by active ASM (version 9.0 supports class version 61), reading java.util.Map$Entry)
-[01Mar2025 12:47:59.398] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Class file major version 65 is not supported by active ASM (version 9.0 supports class version 61), reading java.lang.invoke.MethodHandles$Lookup)
-[01Mar2025 12:47:59.398] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Class file major version 65 is not supported by active ASM (version 9.0 supports class version 61), reading java.lang.invoke.MethodHandles$Lookup)
-[01Mar2025 12:47:59.399] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Class file major version 65 is not supported by active ASM (version 9.0 supports class version 61), reading java.lang.invoke.MethodHandles$Lookup)
-[01Mar2025 12:47:59.400] [main/WARN] [mixin/]: Error loading class: java/util/Map$Entry (java.lang.IllegalArgumentException: Class file major version 65 is not supported by active ASM (version 9.0 supports class version 61), reading java.util.Map$Entry)
-[01Mar2025 12:47:59.403] [main/WARN] [mixin/]: Error loading class: java/util/Map$Entry (java.lang.IllegalArgumentException: Class file major version 65 is not supported by active ASM (version 9.0 supports class version 61), reading java.util.Map$Entry)
-[01Mar2025 12:47:59.404] [main/WARN] [mixin/]: Error loading class: java/lang/invoke/MethodHandles$Lookup (java.lang.IllegalArgumentException: Class file major version 65 is not supported by active ASM (version 9.0 supports class version 61), reading java.lang.invoke.MethodHandles$Lookup)
-[01Mar2025 12:47:59.417] [main/WARN] [mixin/]: Error loading class: java/lang/AutoCloseable (java.lang.IllegalArgumentException: Class file major version 65 is not supported by active ASM (version 9.0 supports class version 61), reading java.lang.AutoCloseable)
-[01Mar2025 12:47:59.467] [main/WARN] [mixin/]: Error loading class: java/util/concurrent/Executor (java.lang.IllegalArgumentException: Class file major version 65 is not supported by active ASM (version 9.0 supports class version 61), reading java.util.concurrent.Executor)
-[01Mar2025 12:47:59.468] [main/WARN] [mixin/]: Error loading class: java/lang/AutoCloseable (java.lang.IllegalArgumentException: Class file major version 65 is not supported by active ASM (version 9.0 supports class version 61), reading java.lang.AutoCloseable)
-[01Mar2025 12:47:59.544] [main/WARN] [mixin/]: Error loading class: java/lang/RuntimeException (java.lang.IllegalArgumentException: Class file major version 65 is not supported by active ASM (version 9.0 supports class version 61), reading java.lang.RuntimeException)
-[01Mar2025 12:47:59.545] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:698]: org.spongepowered.asm.mixin.transformer.throwables.MixinTransformerError: An unexpected critical error was encountered
-[01Mar2025 12:47:59.546] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:698]: 	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:392)
-[01Mar2025 12:47:59.546] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:698]: 	at org.spongepowered.asm.mixin.transformer.MixinTransformer.transformClass(MixinTransformer.java:250)
-[01Mar2025 12:47:59.546] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:698]: 	at org.spongepowered.asm.service.modlauncher.MixinTransformationHandler.processClass(MixinTransformationHandler.java:131)
-[01Mar2025 12:47:59.546] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:698]: 	at org.spongepowered.asm.launch.MixinLaunchPluginLegacy.processClass(MixinLaunchPluginLegacy.java:131)
-[01Mar2025 12:47:59.546] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:698]: 	at cpw.mods.modlauncher.serviceapi.ILaunchPluginService.processClassWithFlags(ILaunchPluginService.java:154)
-[01Mar2025 12:47:59.547] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:698]: 	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:85)
-[01Mar2025 12:47:59.547] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:698]: 	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120)
-[01Mar2025 12:47:59.547] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:698]: 	at cpw.mods.modlauncher.TransformingClassLoader$DelegatedClassLoader.findClass(TransformingClassLoader.java:265)
-[01Mar2025 12:47:59.548] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:698]: 	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:136)
-[01Mar2025 12:47:59.548] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:698]: 	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:98)
-[01Mar2025 12:47:59.548] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:698]: 	at java.base/java.lang.ClassLoader.loadClass(ClassLoader.java:526)
-[01Mar2025 12:47:59.548] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:698]: 	at java.base/java.lang.Class.getDeclaredMethods0(Native Method)
-[01Mar2025 12:47:59.549] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:698]: 	at java.base/java.lang.Class.privateGetDeclaredMethods(Class.java:3578)
-[01Mar2025 12:47:59.549] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:698]: 	at java.base/java.lang.Class.getMethodsRecursive(Class.java:3719)
-[01Mar2025 12:47:59.549] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:698]: 	at java.base/java.lang.Class.getMethod0(Class.java:3705)
-[01Mar2025 12:47:59.549] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:698]: 	at java.base/java.lang.Class.getMethod(Class.java:2393)
-[01Mar2025 12:47:59.550] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:698]: 	at net.minecraftforge.fml.loading.FMLServerLaunchProvider.lambda$launchService$0(FMLServerLaunchProvider.java:37)
-[01Mar2025 12:47:59.554] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:698]: 	at cpw.mods.modlauncher.LaunchServiceHandlerDecorator.launch(LaunchServiceHandlerDecorator.java:37)
-[01Mar2025 12:47:59.555] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:698]: 	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:54)
-[01Mar2025 12:47:59.555] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:698]: 	at cpw.mods.modlauncher.LaunchServiceHandler.launch(LaunchServiceHandler.java:72)
-[01Mar2025 12:47:59.556] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:698]: 	at cpw.mods.modlauncher.Launcher.run(Launcher.java:82)
-[01Mar2025 12:47:59.556] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:698]: 	at cpw.mods.modlauncher.Launcher.main(Launcher.java:66)
-[01Mar2025 12:47:59.556] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:698]: 	at net.minecraftforge.server.ServerMain$Runner.runLauncher(ServerMain.java:49)
-[01Mar2025 12:47:59.556] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:698]: 	at net.minecraftforge.server.ServerMain$Runner.access$100(ServerMain.java:46)
-[01Mar2025 12:47:59.557] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:698]: 	at net.minecraftforge.server.ServerMain.main(ServerMain.java:43)
-[01Mar2025 12:47:59.557] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:698]: 	at io.izzel.arclight.common.ArclightMain.run(ArclightMain.java:50)
-[01Mar2025 12:47:59.558] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:698]: 	at io.izzel.arclight.server.Main_Forge.main(Main_Forge.java:16)
-[01Mar2025 12:47:59.558] [main/INFO] [STDERR/]: [java.lang.ThreadGroup:uncaughtException:698]: 	at io.izzel.arclight.server.Launcher.main(Launcher.java:16)
-[01Mar2025 12:47:59.558] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:660]: Caused by: org.spongepowered.asm.mixin.throwables.ClassMetadataNotFoundException: java.lang.RuntimeException
-[01Mar2025 12:47:59.559] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:660]: 	at org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.transformMethod(MixinPreProcessorStandard.java:754)
-[01Mar2025 12:47:59.559] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:660]: 	at org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.transform(MixinPreProcessorStandard.java:739)
-[01Mar2025 12:47:59.559] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:660]: 	at org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.attach(MixinPreProcessorStandard.java:310)
-[01Mar2025 12:47:59.560] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:660]: 	at org.spongepowered.asm.mixin.transformer.MixinPreProcessorStandard.createContextFor(MixinPreProcessorStandard.java:280)
-[01Mar2025 12:47:59.560] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:660]: 	at org.spongepowered.asm.mixin.transformer.MixinInfo.createContextFor(MixinInfo.java:1288)
-[01Mar2025 12:47:59.560] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:660]: 	at org.spongepowered.asm.mixin.transformer.MixinApplicatorStandard.apply(MixinApplicatorStandard.java:292)
-[01Mar2025 12:47:59.560] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:660]: 	at org.spongepowered.asm.mixin.transformer.TargetClassContext.apply(TargetClassContext.java:383)
-[01Mar2025 12:47:59.560] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:660]: 	at org.spongepowered.asm.mixin.transformer.TargetClassContext.applyMixins(TargetClassContext.java:365)
-[01Mar2025 12:47:59.561] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:660]: 	at org.spongepowered.asm.mixin.transformer.MixinProcessor.applyMixins(MixinProcessor.java:363)
-[01Mar2025 12:47:59.561] [main/INFO] [STDERR/]: [java.lang.Throwable:printStackTrace:660]: 	... 27 more
+[01Mar2025 12:49:07.317] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.39, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
+[01Mar2025 12:49:07.319] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 17.0.13 by Ubuntu
+[01Mar2025 12:49:07.581] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[01Mar2025 12:49:07.636] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/Cosa/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
+[01Mar2025 12:49:08.654] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [io.izzel.arclight.impl.ArclightConnector_Forge]
+[01Mar2025 12:49:08.687] [main/INFO] [Arclight/]: 核心 Mixin 配置已加载
+[01Mar2025 12:49:08.690] [main/INFO] [Arclight/]: 服务端优化 Mixin 配置已加载
+[01Mar2025 12:49:08.694] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
+[01Mar2025 12:49:18.347] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.39, for MC 1.16.5 with MCP 20210115.111550
+[01Mar2025 12:49:18.349] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.39 Initialized
+[01Mar2025 12:49:18.353] [modloading-worker-0/INFO] [Arclight/]: Arclight Mod 已加载
+[01Mar2025 12:49:18.476] [modloading-worker-0/INFO] [Arclight/]: Arclight 事件系统已注册
+[01Mar2025 12:49:18.491] [modloading-worker-0/WARN] [net.minecraftforge.server.permission.PermissionAPI/]: Replacing net.minecraftforge.server.permission.DefaultPermissionHandler with io.izzel.arclight.common.mod.server.ArclightPermissionHandler
+[01Mar2025 12:49:18.826] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[01Mar2025 12:49:19.602] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 36.2.39 Target: 36.2.42
+[01Mar2025 12:49:22.491] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[01Mar2025 12:49:23.601] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01Mar2025 12:49:23.603] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01Mar2025 12:49:23.607] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01Mar2025 12:49:23.614] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[01Mar2025 12:49:23.616] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[01Mar2025 12:49:23.626] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, forge-1.16.5-36.2.39-universal.jar, vanilla.jar
+[01Mar2025 12:49:24.661] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 7 recipes
+[01Mar2025 12:49:25.541] [Worker-Main-4/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 927 advancements
+[01Mar2025 12:49:27.679] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
+[01Mar2025 12:49:27.680] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[01Mar2025 12:49:27.681] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[01Mar2025 12:49:27.681] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[01Mar2025 12:49:27.763] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[01Mar2025 12:49:27.822] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
+[01Mar2025 12:49:28.112] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[01Mar2025 12:49:28.113] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[01Mar2025 12:49:28.114] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[01Mar2025 12:49:28.114] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[01Mar2025 12:49:28.807] [Server thread/INFO] [Minecraft/]: This server is running Arclight version arclight-1.16.5-1.0.24-551ec3ff (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
+[01Mar2025 12:49:29.107] [Server thread/INFO] [Arclight/]: 正在向 Bukkit 注册 ...
+[01Mar2025 12:49:30.176] [Server thread/INFO] [Arclight/]: 注册了 0 个材料，其中 0 个方块 0 个物品
+[01Mar2025 12:49:30.187] [Server thread/INFO] [Arclight/]: 注册了 1 个新的药水效果
+[01Mar2025 12:49:30.211] [Server thread/INFO] [Arclight/]: 注册了 38 个新的附魔
+[01Mar2025 12:49:30.212] [Server thread/INFO] [Arclight/]: 注册了 0 个新的生物类型
+[01Mar2025 12:49:30.214] [Server thread/INFO] [Arclight/]: 注册了 0 个新的村民职业
+[01Mar2025 12:49:30.217] [Server thread/INFO] [Arclight/]: 注册了 0 个新的生物群系
+[01Mar2025 12:49:30.255] [Server thread/INFO] [STDOUT/]: [org.spigotmc.SpigotConfig:playerSample:287]: Server Ping Player Sample Count: 12
+[01Mar2025 12:49:30.266] [Server thread/INFO] [Minecraft/]: Using 4 threads for Netty based IO
+[01Mar2025 12:49:30.269] [Server thread/INFO] [Minecraft/]: Debug logging is enabled
+[01Mar2025 12:49:30.551] [Server thread/INFO] [Arclight/]: 正在加载混淆数据 ...
+[01Mar2025 12:49:31.551] [Server thread/INFO] [Arclight/]: 正在加载 Plugin Patcher ...
+[01Mar2025 12:49:32.054] [Server thread/INFO] [TerraformGenerator/]: Loading TerraformGenerator v12.0.0
+[01Mar2025 12:49:32.056] [Server thread/INFO] [Multiverse-Core/]: Loading Multiverse-Core v4.3.14
+[01Mar2025 12:49:32.153] [Server thread/INFO] [TerraformGenerator/]: Enabling TerraformGenerator v12.0.0
+[01Mar2025 12:49:32.581] [Server thread/INFO] [Minecraft/]: New config version detected. Overwriting old config. A backup will be made
+[01Mar2025 12:49:34.965] [Server thread/INFO] [Console/]: [TerraformGenerator] Custom Logger Initialized
+[01Mar2025 12:49:35.054] [Server thread/INFO] [Console/]: [TerraformGenerator] bStats Metrics enabled.
+[01Mar2025 12:49:35.324] [Server thread/INFO] [Console/]: [TerraformGenerator] Detected version: v1_16_R3, number: 16.3
+[01Mar2025 12:49:35.834] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[01Mar2025 12:49:35.846] [Server thread/INFO] [Arclight/]: 注册了 1 个新的世界类型
+[01Mar2025 12:49:35.855] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world] --------
+[01Mar2025 12:49:35.855] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+[01Mar2025 12:49:35.856] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+[01Mar2025 12:49:35.856] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+[01Mar2025 12:49:35.857] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+[01Mar2025 12:49:35.857] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+[01Mar2025 12:49:35.859] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+[01Mar2025 12:49:35.859] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+[01Mar2025 12:49:35.862] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+[01Mar2025 12:49:35.862] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+[01Mar2025 12:49:35.863] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+[01Mar2025 12:49:35.863] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+[01Mar2025 12:49:35.863] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+[01Mar2025 12:49:35.864] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+[01Mar2025 12:49:35.864] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+[01Mar2025 12:49:35.865] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+[01Mar2025 12:49:35.865] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+[01Mar2025 12:49:35.868] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+[01Mar2025 12:49:35.868] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+[01Mar2025 12:49:35.869] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+[01Mar2025 12:49:35.869] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[01Mar2025 12:49:35.869] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+[01Mar2025 12:49:35.870] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+[01Mar2025 12:49:35.870] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[01Mar2025 12:49:35.871] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[01Mar2025 12:49:35.871] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[01Mar2025 12:49:35.872] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[01Mar2025 12:49:35.872] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+[01Mar2025 12:49:35.873] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[01Mar2025 12:49:35.876] [Server thread/INFO] [Minecraft/]: View Distance: 10
+[01Mar2025 12:49:35.879] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+[01Mar2025 12:49:35.879] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+[01Mar2025 12:49:36.243] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world] --------
+[01Mar2025 12:49:36.244] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+[01Mar2025 12:49:36.249] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+[01Mar2025 12:49:36.250] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+[01Mar2025 12:49:36.250] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+[01Mar2025 12:49:36.251] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+[01Mar2025 12:49:36.251] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+[01Mar2025 12:49:36.251] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+[01Mar2025 12:49:36.251] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+[01Mar2025 12:49:36.252] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+[01Mar2025 12:49:36.252] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+[01Mar2025 12:49:36.252] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+[01Mar2025 12:49:36.252] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+[01Mar2025 12:49:36.253] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+[01Mar2025 12:49:36.253] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+[01Mar2025 12:49:36.253] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+[01Mar2025 12:49:36.253] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+[01Mar2025 12:49:36.253] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+[01Mar2025 12:49:36.254] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+[01Mar2025 12:49:36.254] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+[01Mar2025 12:49:36.254] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[01Mar2025 12:49:36.258] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+[01Mar2025 12:49:36.258] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+[01Mar2025 12:49:36.258] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[01Mar2025 12:49:36.258] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[01Mar2025 12:49:36.259] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[01Mar2025 12:49:36.259] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[01Mar2025 12:49:36.259] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+[01Mar2025 12:49:36.259] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[01Mar2025 12:49:36.260] [Server thread/INFO] [Minecraft/]: View Distance: 10
+[01Mar2025 12:49:36.260] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+[01Mar2025 12:49:36.260] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+[01Mar2025 12:49:36.283] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world] --------
+[01Mar2025 12:49:36.283] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+[01Mar2025 12:49:36.284] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+[01Mar2025 12:49:36.284] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+[01Mar2025 12:49:36.284] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+[01Mar2025 12:49:36.284] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+[01Mar2025 12:49:36.284] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+[01Mar2025 12:49:36.285] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+[01Mar2025 12:49:36.285] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+[01Mar2025 12:49:36.285] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+[01Mar2025 12:49:36.285] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+[01Mar2025 12:49:36.286] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+[01Mar2025 12:49:36.286] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+[01Mar2025 12:49:36.286] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+[01Mar2025 12:49:36.286] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+[01Mar2025 12:49:36.286] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+[01Mar2025 12:49:36.287] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+[01Mar2025 12:49:36.287] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+[01Mar2025 12:49:36.287] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+[01Mar2025 12:49:36.287] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+[01Mar2025 12:49:36.288] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[01Mar2025 12:49:36.288] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+[01Mar2025 12:49:36.288] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+[01Mar2025 12:49:36.288] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[01Mar2025 12:49:36.290] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[01Mar2025 12:49:36.295] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[01Mar2025 12:49:36.295] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[01Mar2025 12:49:36.295] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+[01Mar2025 12:49:36.296] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[01Mar2025 12:49:36.296] [Server thread/INFO] [Minecraft/]: View Distance: 10
+[01Mar2025 12:49:36.296] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+[01Mar2025 12:49:36.296] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+[01Mar2025 12:49:36.329] [Server thread/INFO] [Multiverse-Core/]: Enabling Multiverse-Core v4.3.14
+[01Mar2025 12:49:36.347] [Server thread/WARN] [Multiverse-Core/]: "Multiverse-Core v4.3.14" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
+[01Mar2025 12:49:36.357] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] We are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
+[01Mar2025 12:49:36.535] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] 3 - World(s) loaded.
+[01Mar2025 12:49:36.573] [Server thread/ERROR] [Minecraft/]: Error occurred while enabling Multiverse-Core v4.3.14 (Is it up to date?)
+java.lang.ExceptionInInitializerError: null
+	at org.openjdk.nashorn.internal.runtime.Context.compile(Context.java:1509) ~[nashorn-core-compat-15.1.1.1.jar:?]
+	at org.openjdk.nashorn.internal.runtime.Context.compileScript(Context.java:1449) ~[nashorn-core-compat-15.1.1.1.jar:?]
+	at org.openjdk.nashorn.internal.runtime.Context.compileScript(Context.java:759) ~[nashorn-core-compat-15.1.1.1.jar:?]
+	at org.openjdk.nashorn.api.scripting.NashornScriptEngine.compileImpl(NashornScriptEngine.java:528) ~[nashorn-core-compat-15.1.1.1.jar:?]
+	at org.openjdk.nashorn.api.scripting.NashornScriptEngine.compileImpl(NashornScriptEngine.java:517) ~[nashorn-core-compat-15.1.1.1.jar:?]
+	at org.openjdk.nashorn.api.scripting.NashornScriptEngine.evalImpl(NashornScriptEngine.java:395) ~[nashorn-core-compat-15.1.1.1.jar:?]
+	at org.openjdk.nashorn.api.scripting.NashornScriptEngine.eval(NashornScriptEngine.java:151) ~[nashorn-core-compat-15.1.1.1.jar:?]
+	at javax.script.AbstractScriptEngine.eval(AbstractScriptEngine.java:262) ~[java.scripting:?]
+	at com.onarandombox.buscript.ScriptManager.<init>(ScriptManager.java:83) ~[?:?]
+	at com.onarandombox.buscript.Buscript.<init>(Buscript.java:77) ~[?:?]
+	at com.onarandombox.buscript.Buscript.<init>(Buscript.java:65) ~[?:?]
+	at com.onarandombox.MultiverseCore.MultiverseCore.initializeBuscript(MultiverseCore.java:366) ~[?:?]
+	at com.onarandombox.MultiverseCore.MultiverseCore.onEnable(MultiverseCore.java:340) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPluginMixin.java:263) ~[arclight:arclight-1.16.5-1.0.24-551ec3ff]
+	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoaderMixin.java:342) ~[arclight:arclight-1.16.5-1.0.24-551ec3ff]
+	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:480) ~[arclight:arclight-1.16.5-1.0.24-551ec3ff]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.enablePlugin(CraftServerMixin.java:492) ~[arclight:arclight-1.16.5-1.0.24-551ec3ff]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.enablePlugins(CraftServerMixin.java:406) ~[arclight:arclight-1.16.5-1.0.24-551ec3ff]
+	at net.minecraft.server.MinecraftServer.handler$zpo000$arclight$enablePlugins(MinecraftServerMixin.java:1995) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240787_a_(MinecraftServerMixin.java:382) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240800_l__(MinecraftServerMixin.java:308) ~[?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServerMixin.java:168) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServerMixin.java:1879) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServerMixin.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+Caused by: java.lang.RuntimeException: java.lang.NoSuchMethodException: no such method: sun.misc.Unsafe.defineAnonymousClass(Class,byte[],Object[])Class/invokeVirtual
+	at org.openjdk.nashorn.internal.runtime.Context$AnonymousContextCodeInstaller.lambda$getDefineAnonymousClass$0(Context.java:335) ~[nashorn-core-compat-15.1.1.1.jar:?]
+	at java.security.AccessController.doPrivileged(AccessController.java:318) ~[?:?]
+	at org.openjdk.nashorn.internal.runtime.Context$AnonymousContextCodeInstaller.getDefineAnonymousClass(Context.java:327) ~[nashorn-core-compat-15.1.1.1.jar:?]
+	at org.openjdk.nashorn.internal.runtime.Context$AnonymousContextCodeInstaller.<clinit>(Context.java:317) ~[nashorn-core-compat-15.1.1.1.jar:?]
+	... 25 more
+Caused by: java.lang.NoSuchMethodException: no such method: sun.misc.Unsafe.defineAnonymousClass(Class,byte[],Object[])Class/invokeVirtual
+	at java.lang.invoke.MemberName.makeAccessException(MemberName.java:976) ~[?:?]
+	at java.lang.invoke.MemberName$Factory.resolveOrFail(MemberName.java:1117) ~[?:?]
+	at java.lang.invoke.MethodHandles$Lookup.resolveOrFail(MethodHandles.java:3649) ~[?:?]
+	at java.lang.invoke.MethodHandles$Lookup.findVirtual(MethodHandles.java:2680) ~[?:?]
+	at org.openjdk.nashorn.internal.runtime.Context$AnonymousContextCodeInstaller.lambda$getDefineAnonymousClass$0(Context.java:329) ~[nashorn-core-compat-15.1.1.1.jar:?]
+	at java.security.AccessController.doPrivileged(AccessController.java:318) ~[?:?]
+	at org.openjdk.nashorn.internal.runtime.Context$AnonymousContextCodeInstaller.getDefineAnonymousClass(Context.java:327) ~[nashorn-core-compat-15.1.1.1.jar:?]
+	at org.openjdk.nashorn.internal.runtime.Context$AnonymousContextCodeInstaller.<clinit>(Context.java:317) ~[nashorn-core-compat-15.1.1.1.jar:?]
+	... 25 more
+Caused by: java.lang.NoSuchMethodError: 'java.lang.Class sun.misc.Unsafe.defineAnonymousClass(java.lang.Class, byte[], java.lang.Object[])'
+	at java.lang.invoke.MethodHandleNatives.resolve(Native Method) ~[?:?]
+	at java.lang.invoke.MemberName$Factory.resolve(MemberName.java:1085) ~[?:?]
+	at java.lang.invoke.MemberName$Factory.resolveOrFail(MemberName.java:1114) ~[?:?]
+	at java.lang.invoke.MethodHandles$Lookup.resolveOrFail(MethodHandles.java:3649) ~[?:?]
+	at java.lang.invoke.MethodHandles$Lookup.findVirtual(MethodHandles.java:2680) ~[?:?]
+	at org.openjdk.nashorn.internal.runtime.Context$AnonymousContextCodeInstaller.lambda$getDefineAnonymousClass$0(Context.java:329) ~[nashorn-core-compat-15.1.1.1.jar:?]
+	at java.security.AccessController.doPrivileged(AccessController.java:318) ~[?:?]
+	at org.openjdk.nashorn.internal.runtime.Context$AnonymousContextCodeInstaller.getDefineAnonymousClass(Context.java:327) ~[nashorn-core-compat-15.1.1.1.jar:?]
+	at org.openjdk.nashorn.internal.runtime.Context$AnonymousContextCodeInstaller.<clinit>(Context.java:317) ~[nashorn-core-compat-15.1.1.1.jar:?]
+	... 25 more
+[01Mar2025 12:49:36.613] [Server thread/INFO] [Minecraft/]: Server permissions file permissions.yml is empty, ignoring it
+[01Mar2025 12:49:36.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[01Mar2025 12:49:38.710] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[01Mar2025 12:49:38.711] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[01Mar2025 12:49:38.712] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[01Mar2025 12:49:38.712] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[01Mar2025 12:49:38.712] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[01Mar2025 12:49:39.246] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[01Mar2025 12:49:39.710] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 49%
+[01Mar2025 12:49:40.936] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[01Mar2025 12:49:40.937] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[01Mar2025 12:49:41.160] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 100%
+[01Mar2025 12:49:41.648] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 100%
+[01Mar2025 12:49:42.154] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 100%
+[01Mar2025 12:49:42.649] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 100%
+[01Mar2025 12:49:43.153] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 100%
+[01Mar2025 12:49:43.689] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 100%
+[01Mar2025 12:49:44.154] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 100%
+[01Mar2025 12:49:44.658] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 100%
+[01Mar2025 12:49:45.163] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 100%
+[01Mar2025 12:49:45.649] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 100%
+[01Mar2025 12:49:46.151] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 100%
+[01Mar2025 12:49:46.650] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 100%
+[01Mar2025 12:49:47.148] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 100%
+[01Mar2025 12:49:47.664] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 100%
+[01Mar2025 12:49:48.150] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 100%
+[01Mar2025 12:49:48.651] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 100%
+[01Mar2025 12:49:49.161] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 100%
+[01Mar2025 12:49:49.691] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 100%
+[01Mar2025 12:49:50.153] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 100%
+[01Mar2025 12:49:50.606] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 13958 ms
+[01Mar2025 12:49:50.607] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (14.831s)! For help, type "help"
+[01Mar2025 12:49:55.380] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[01Mar2025 12:49:55.421] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[01Mar2025 12:49:55.421] [Server thread/INFO] [Multiverse-Core/]: Disabling Multiverse-Core v4.3.14
+[01Mar2025 12:49:55.427] [Server thread/INFO] [TerraformGenerator/]: Disabling TerraformGenerator v12.0.0
+[01Mar2025 12:49:55.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[01Mar2025 12:49:55.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[01Mar2025 12:49:55.434] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01Mar2025 12:49:56.916] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01Mar2025 12:49:56.946] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/DIM-1]'/minecraft:the_nether
+[01Mar2025 12:49:58.085] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01Mar2025 12:49:58.086] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/DIM1]'/minecraft:the_end
+[01Mar2025 12:49:58.491] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01Mar2025 12:49:58.494] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01Mar2025 12:49:58.504] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01Mar2025 12:49:58.506] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01Mar2025 12:50:03.521] [Exit Thread/WARN] [Arclight/]: 1 threads not shutting down correctly, force exiting
