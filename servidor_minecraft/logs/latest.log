@@ -513,3 +513,51 @@ Download a new version here: https://www.spigotmc.org/resources/104484/
 [01Mar2025 19:36:52.477] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Liliana_YT03: Showing new actionbar title for Liliana_YT03]
 [01Mar2025 19:36:52.477] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Liliana_YT03 died
 [01Mar2025 19:37:19.593] [Server thread/WARN] [Arclight/]: Failed to find class org/bukkit/profile/PlayerProfile
+[01Mar2025 19:37:30.971] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Liliana_YT03 issued server command: /scoreboard
+[01Mar2025 19:37:36.069] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Liliana_YT03 issued server command: /scoreboard players
+[01Mar2025 19:42:25.685] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Liliana_YT03 issued server command: /conditionalevents reload
+[01Mar2025 19:42:28.488] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Liliana_YT03 issued server command: /kill Liliana_YT03
+[01Mar2025 19:42:28.488] [Server thread/INFO] [Console/]: %vault_prefix% Liliana_YT03 is bleeding..
+[01Mar2025 19:42:28.491] [Server thread/INFO] [Console/]: [Animation in 1 tick] from (0 to 262) numeric true
+[01Mar2025 19:42:28.491] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Played sound minecraft:minecraftextremobygetdroy to Liliana_YT03
+[01Mar2025 19:42:28.492] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Liliana_YT03: Showing new actionbar title for Liliana_YT03]
+[01Mar2025 19:42:28.492] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Liliana_YT03 died
+[01Mar2025 19:42:53.962] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Liliana_YT03 issued server command: /conditionalevents reload
+[01Mar2025 19:42:56.102] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Liliana_YT03 issued server command: /kill Liliana_YT03
+[01Mar2025 19:42:56.103] [Server thread/INFO] [Console/]: %vault_prefix% Liliana_YT03 is bleeding so bad..
+[01Mar2025 19:42:56.105] [Server thread/INFO] [Console/]: [Animation in 1 tick] from (0 to 125) numeric true
+[01Mar2025 19:42:56.105] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Played sound minecraft:minecraftextremobygetdroy to Liliana_YT03
+[01Mar2025 19:42:56.106] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Liliana_YT03: Showing new actionbar title for Liliana_YT03]
+[01Mar2025 19:42:56.106] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Liliana_YT03 died
+[01Mar2025 19:43:15.473] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Liliana_YT03 issued server command: /conditionalevents reload
+[01Mar2025 19:43:16.856] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Liliana_YT03 issued server command: /kill Liliana_YT03
+[01Mar2025 19:43:16.857] [Server thread/INFO] [Console/]: %vault_prefix% Liliana_YT03 is bleeding so bad..
+[01Mar2025 19:43:16.859] [Server thread/INFO] [Console/]: [Animation in 1 tick] from (0 to 127) numeric true
+[01Mar2025 19:43:16.859] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Played sound minecraft:minecraftextremobygetdroy to Liliana_YT03
+[01Mar2025 19:43:16.860] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Liliana_YT03: Showing new actionbar title for Liliana_YT03]
+[01Mar2025 19:43:16.860] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Liliana_YT03 died
+[01Mar2025 19:43:36.073] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Liliana_YT03 issued server command: /conditionalevents reload
+[01Mar2025 19:43:38.471] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Liliana_YT03 issued server command: /kill Liliana_YT03
+[01Mar2025 19:43:38.472] [Server thread/INFO] [Console/]: %vault_prefix% Liliana_YT03 is bleeding..
+[01Mar2025 19:43:38.473] [Server thread/INFO] [Console/]: [Animation in 1 tick] from (0 to 126) numeric true
+[01Mar2025 19:43:38.474] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Played sound minecraft:minecraftextremobygetdroy to Liliana_YT03
+[01Mar2025 19:43:38.474] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Liliana_YT03: Showing new actionbar title for Liliana_YT03]
+[01Mar2025 19:43:38.475] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Liliana_YT03 died
+[01Mar2025 19:44:04.510] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Liliana_YT03 issued server command: /kill Liliana_YT03
+[01Mar2025 19:44:04.511] [Server thread/INFO] [Console/]: %vault_prefix% Liliana_YT03 is bleeding..
+[01Mar2025 19:44:04.512] [Server thread/INFO] [Console/]: [Animation in 1 tick] from (0 to 126) numeric true
+[01Mar2025 19:44:04.513] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Played sound minecraft:minecraftextremobygetdroy to Liliana_YT03
+[01Mar2025 19:44:04.513] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Liliana_YT03: Showing new actionbar title for Liliana_YT03]
+[01Mar2025 19:44:04.514] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Liliana_YT03 died
+[01Mar2025 19:45:02.791] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Liliana_YT03 issued server command: /clear
+[01Mar2025 19:45:44.821] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Liliana_YT03 issued server command: /msg Liliana_YT03 hola
+[01Mar2025 19:45:58.957] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Liliana_YT03 issued server command: /kill Liliana_YT03
+[01Mar2025 19:45:58.958] [Server thread/INFO] [Console/]: %vault_prefix% Liliana_YT03 is bleeding so bad..
+[01Mar2025 19:45:58.960] [Server thread/INFO] [Console/]: [Animation in 1 tick] from (0 to 126) numeric true
+[01Mar2025 19:45:58.960] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Played sound minecraft:minecraftextremobygetdroy to Liliana_YT03
+[01Mar2025 19:45:58.961] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Liliana_YT03: Showing new actionbar title for Liliana_YT03]
+[01Mar2025 19:45:58.961] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Liliana_YT03 died
+[01Mar2025 19:47:27.124] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Liliana_YT03 lost connection: Timed out
+[01Mar2025 19:47:27.127] [Server thread/INFO] [voicechat/]: Disconnecting client Liliana_YT03
+[01Mar2025 19:47:27.133] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Liliana_YT03 left the game
+[01Mar2025 19:47:27.174] [Server thread/WARN] [net.minecraft.network.NetworkManager/]: handleDisconnection() called twice
