@@ -134,6 +134,6 @@ Events:
     type: player_death   
     actions:
       default:
-'console_command: animation true 1 0 126'
-'console_command: execute at @a run playsound minecraft:minecraftextremobygetdroy ambient @p'
-'player_command_as_op: title @a actionbar {"text":"%player% ha muerto","color":"dark_red"}'
+      - 'console_command: animation true 1 0 80'
+      - 'console_command: execute at @a run playsound minecraft:minecraftextremobygetdroy ambient @p'
+      - 'player_command_as_op: title @a actionbar {"text":"%player% ha muerto","color":"dark_red"}'
