@@ -579,3 +579,62 @@ Download a new version here: https://www.spigotmc.org/resources/104484/
 [01Mar2025 20:11:14.732] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Played sound minecraft:minecraftextremobygetdroy to Liliana_YT03
 [01Mar2025 20:11:14.732] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Liliana_YT03: Showing new actionbar title for Liliana_YT03]
 [01Mar2025 20:11:14.733] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Liliana_YT03 died
+[01Mar2025 20:13:34.685] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Liliana_YT03 issued server command: /kill Liliana_YT03
+[01Mar2025 20:13:34.686] [Server thread/INFO] [Console/]: %vault_prefix% Liliana_YT03 is bleeding..
+[01Mar2025 20:13:34.688] [Server thread/INFO] [Console/]: [Animation in 1 tick] from (0 to 120) numeric true
+[01Mar2025 20:13:34.688] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Played sound minecraft:minecraftextremobygetdroy to Liliana_YT03
+[01Mar2025 20:13:34.689] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Liliana_YT03: Showing new actionbar title for Liliana_YT03]
+[01Mar2025 20:13:34.689] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Liliana_YT03 died
+[01Mar2025 20:14:14.137] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Liliana_YT03 issued server command: /kill Liliana_YT03
+[01Mar2025 20:14:14.138] [Server thread/INFO] [Console/]: %vault_prefix% Liliana_YT03 is bleeding..
+[01Mar2025 20:14:14.139] [Server thread/INFO] [Console/]: [Animation in 1 tick] from (0 to 120) numeric true
+[01Mar2025 20:14:14.139] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Played sound minecraft:minecraftextremobygetdroy to Liliana_YT03
+[01Mar2025 20:14:14.140] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Liliana_YT03: Showing new actionbar title for Liliana_YT03]
+[01Mar2025 20:14:14.140] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Liliana_YT03 died
+[01Mar2025 20:16:53.467] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Liliana_YT03 issued server command: /kill Liliana_YT03
+[01Mar2025 20:16:53.468] [Server thread/INFO] [Console/]: %vault_prefix% Liliana_YT03 is bleeding..
+[01Mar2025 20:16:53.469] [Server thread/INFO] [Console/]: [Animation in 1 tick] from (0 to 120) numeric true
+[01Mar2025 20:16:53.470] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Played sound minecraft:minecraftextremobygetdroy to Liliana_YT03
+[01Mar2025 20:16:53.470] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: [Liliana_YT03: Showing new actionbar title for Liliana_YT03]
+[01Mar2025 20:16:53.471] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Liliana_YT03 died
+[01Mar2025 20:17:08.548] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Liliana_YT03 lost connection: Disconnected
+[01Mar2025 20:17:08.549] [Server thread/INFO] [voicechat/]: Disconnecting client Liliana_YT03
+[01Mar2025 20:17:08.552] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Liliana_YT03 left the game
+[01Mar2025 20:17:25.447] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[01Mar2025 20:17:25.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[01Mar2025 20:17:25.497] [Server thread/INFO] [ConditionalEvents/]: Disabling ConditionalEvents v4.60.2
+[01Mar2025 20:17:25.499] [Server thread/INFO] [Console/]: [ConditionalEvents] Has been disabled! Version: 4.60.2
+[01Mar2025 20:17:25.500] [Server thread/INFO] [Graves/]: Disabling Graves v4.9
+[01Mar2025 20:17:25.508] [Server thread/INFO] [NotBounties/]: Disabling NotBounties v1.21.6
+[01Mar2025 20:17:25.514] [Server thread/INFO] [Images/]: Disabling Images v2.5.3
+[01Mar2025 20:17:25.515] [Server thread/INFO] [YamipaPlugin/]: Disabling YamipaPlugin v1.3.2
+[01Mar2025 20:17:25.518] [Server thread/INFO] [BetterRevive/]: Disabling BetterRevive v0.9.1-BETA
+[01Mar2025 20:17:25.519] [Server thread/INFO] [Console/]:  
+[01Mar2025 20:17:25.519] [Server thread/INFO] [Console/]: [BetterRevive] Plugin has been disabled!
+[01Mar2025 20:17:25.519] [Server thread/INFO] [Console/]: [BetterRevive] Thank you for using my plugin!
+[01Mar2025 20:17:25.519] [Server thread/INFO] [Console/]:  
+[01Mar2025 20:17:25.520] [Server thread/INFO] [SkinsRestorer/]: Disabling SkinsRestorer v15.5.3
+[01Mar2025 20:17:25.523] [Server thread/INFO] [Multiverse-Core/]: Disabling Multiverse-Core v4.3.14
+[01Mar2025 20:17:25.528] [Server thread/INFO] [ProtocolLib/]: Disabling ProtocolLib v5.3.0
+[01Mar2025 20:17:25.531] [Server thread/INFO] [EssentialsSpawn/]: Disabling EssentialsSpawn v2.21.0-dev+183-b5748eb
+[01Mar2025 20:17:25.532] [Server thread/INFO] [NBTAPI/]: Disabling NBTAPI v2.14.1
+[01Mar2025 20:17:25.534] [Server thread/INFO] [OnePlayerSleep/]: Disabling OnePlayerSleep v1.3
+[01Mar2025 20:17:25.535] [Server thread/INFO] [AutoUpdatePlugins/]: Disabling AutoUpdatePlugins v11.5
+[01Mar2025 20:17:25.536] [Server thread/INFO] [TAB/]: Disabling TAB v4.1.6
+[01Mar2025 20:17:25.536] [Server thread/INFO] [Console/]: [TAB] Disabled in 0ms
+[01Mar2025 20:17:25.537] [Server thread/INFO] [Essentials/]: Disabling Essentials v2.21.0-dev+183-b5748eb
+[01Mar2025 20:17:25.540] [Server thread/INFO] [AnimationsCore/]: Disabling AnimationsCore v0.1-SNAPSHOT
+[01Mar2025 20:17:25.540] [Server thread/INFO] [TerraformGenerator/]: Disabling TerraformGenerator v12.0.0
+[01Mar2025 20:17:25.541] [Server thread/INFO] [voicechat/]: Disabling voicechat v2.5.28
+[01Mar2025 20:17:25.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[01Mar2025 20:17:25.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[01Mar2025 20:17:25.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01Mar2025 20:17:25.998] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01Mar2025 20:17:26.007] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/DIM-1]'/minecraft:the_nether
+[01Mar2025 20:17:26.031] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01Mar2025 20:17:26.031] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/DIM1]'/minecraft:the_end
+[01Mar2025 20:17:26.046] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01Mar2025 20:17:26.048] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01Mar2025 20:17:26.053] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01Mar2025 20:17:26.057] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01Mar2025 20:17:31.064] [Exit Thread/WARN] [Arclight/]: 10 threads not shutting down correctly, force exiting
