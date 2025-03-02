@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.103.138.173
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1740930264690
+  login: 1740929355010
+money: '0'
+last-account-name: Liliana_YT03
+lastlocation:
+  world: 7ed49d43-924b-45bc-8654-0a07bc71f34c
+  world-name: world
+  x: -32.0
+  y: 71.0
+  z: -96.0
+  yaw: 0.0
+  pitch: 0.0
+logoutlocation:
+  world: 35613967-4132-4ee0-bd3c-e95192f0b709
+  world-name: mundo
+  x: -26.82944261683276
+  y: 69.0
+  z: 40.66164827000888
+  yaw: -8.8004150390625
+  pitch: 3.22482967376709
