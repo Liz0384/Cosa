@@ -293,7 +293,7 @@ advanced:
     # <!! Warning !!>
     # Enabling this will stop SkinsRestorer to change skins on join.
     # Handy for when you want run /skin apply to apply skin after texturepack popup
-    disableOnJoinSkins: false
+    disableOnJoinSkins: true
     # <!! Warning !!>
     # This enables the PaperMC join event integration that allows instant skins on join.
     # It is recommended over the fallback listener because it is smoother and should not lag the server.
