@@ -1,4 +1,4 @@
-[01Mar2025 21:15:51.527] [main/INFO] [Arclight/]: 
+[02Mar2025 14:52:30.919] [main/INFO] [Arclight/]: 
 
        ___           ___     __   /\
       /   | ________/ (_)__ / /  / /
@@ -10,63 +10,255 @@
     运行版本 arclight-1.16.5-1.0.25-7cf92be3
     构建日期 2023-10-22 03:52:29
 
-[01Mar2025 21:15:51.595] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.39, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
-[01Mar2025 21:15:51.596] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.25 by Ubuntu
-[01Mar2025 21:15:51.930] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
-[01Mar2025 21:15:52.021] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/Cosa/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
-[01Mar2025 21:15:52.477] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[01Mar2025 21:15:52.578] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[01Mar2025 21:15:52.590] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[01Mar2025 21:15:53.898] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [io.izzel.arclight.impl.ArclightConnector_Forge]
-[01Mar2025 21:15:54.002] [main/INFO] [Arclight/]: 核心 Mixin 配置已加载
-[01Mar2025 21:15:54.005] [main/INFO] [Arclight/]: 服务端优化 Mixin 配置已加载
-[01Mar2025 21:15:54.022] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
-[01Mar2025 21:16:04.885] [modloading-worker-3/INFO] [Arclight/]: Arclight Mod 已加载
-[01Mar2025 21:16:04.889] [modloading-worker-2/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.39, for MC 1.16.5 with MCP 20210115.111550
-[01Mar2025 21:16:04.894] [modloading-worker-2/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.39 Initialized
-[01Mar2025 21:16:05.155] [modloading-worker-3/INFO] [Arclight/]: Arclight 事件系统已注册
-[01Mar2025 21:16:05.166] [modloading-worker-3/WARN] [net.minecraftforge.server.permission.PermissionAPI/]: Replacing net.minecraftforge.server.permission.DefaultPermissionHandler with io.izzel.arclight.common.mod.server.ArclightPermissionHandler
-[01Mar2025 21:16:05.472] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
-[01Mar2025 21:16:05.959] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 36.2.39 Target: 36.2.42
-[01Mar2025 21:16:08.396] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[01Mar2025 21:16:09.201] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[01Mar2025 21:16:09.203] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01Mar2025 21:16:09.208] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01Mar2025 21:16:09.210] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
-[01Mar2025 21:16:09.213] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
-[01Mar2025 21:16:09.232] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, forge-1.16.5-36.2.39-universal.jar, vanilla.jar
-[01Mar2025 21:16:10.208] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 7 recipes
-[01Mar2025 21:16:11.091] [Worker-Main-4/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 927 advancements
-[01Mar2025 21:16:12.176] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
-[01Mar2025 21:16:12.178] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
-[01Mar2025 21:16:12.178] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
-[01Mar2025 21:16:12.191] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
-[01Mar2025 21:16:12.423] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
-[01Mar2025 21:16:12.454] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
-[01Mar2025 21:16:12.678] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
-[01Mar2025 21:16:12.678] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
-[01Mar2025 21:16:12.679] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
-[01Mar2025 21:16:12.679] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
-[01Mar2025 21:16:13.535] [Server thread/INFO] [Minecraft/]: This server is running Arclight version arclight-1.16.5-1.0.25-7cf92be3 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
-[01Mar2025 21:16:13.795] [Server thread/INFO] [Arclight/]: 正在向 Bukkit 注册 ...
-[01Mar2025 21:16:14.697] [Server thread/INFO] [Arclight/]: 注册了 0 个材料，其中 0 个方块 0 个物品
-[01Mar2025 21:16:14.711] [Server thread/INFO] [Arclight/]: 注册了 1 个新的药水效果
-[01Mar2025 21:16:14.722] [Server thread/INFO] [Arclight/]: 注册了 38 个新的附魔
-[01Mar2025 21:16:14.723] [Server thread/INFO] [Arclight/]: 注册了 0 个新的生物类型
-[01Mar2025 21:16:14.724] [Server thread/INFO] [Arclight/]: 注册了 0 个新的村民职业
-[01Mar2025 21:16:14.725] [Server thread/INFO] [Arclight/]: 注册了 0 个新的生物群系
-[01Mar2025 21:16:14.757] [Server thread/INFO] [Minecraft/]: Debug logging is enabled
-[01Mar2025 21:16:14.758] [Server thread/INFO] [STDOUT/]: [org.spigotmc.SpigotConfig:playerSample:287]: Server Ping Player Sample Count: 12
-[01Mar2025 21:16:14.769] [Server thread/INFO] [Minecraft/]: Using 4 threads for Netty based IO
-[01Mar2025 21:16:15.210] [Server thread/INFO] [Arclight/]: 正在加载混淆数据 ...
-[01Mar2025 21:16:15.975] [Server thread/INFO] [Arclight/]: 正在加载 Plugin Patcher ...
-[01Mar2025 21:16:16.380] [Server thread/ERROR] [Minecraft/]: Could not load 'plugins/TerraformGenerator-12.0.0_1.16.5-1.20.3.jar' in folder 'plugins'
+[02Mar2025 14:52:31.045] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--gameDir, ., --launchTarget, fmlserver, --fml.forgeVersion, 36.2.39, --fml.mcpVersion, 20210115.111550, --fml.mcVersion, 1.16.5, --fml.forgeGroup, net.minecraftforge, nogui]
+[02Mar2025 14:52:31.047] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 8.1.3+8.1.3+main-8.1.x.c94d18ec starting: java version 11.0.25 by Ubuntu
+[02Mar2025 14:52:32.078] [main/INFO] [net.minecraftforge.fml.loading.FixSSL/CORE]: Added Lets Encrypt root certificates as additional trust
+[02Mar2025 14:52:32.177] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.4 Source=file:/workspaces/Cosa/servidor_minecraft/libraries/org/spongepowered/mixin/0.8.4/mixin-0.8.4.jar Service=ModLauncher Env=SERVER
+[02Mar2025 14:52:33.296] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[02Mar2025 14:52:33.406] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[02Mar2025 14:52:33.416] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[02Mar2025 14:52:33.422] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[02Mar2025 14:52:33.428] [main/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[02Mar2025 14:52:35.260] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [io.izzel.arclight.impl.ArclightConnector_Forge]
+[02Mar2025 14:52:35.262] [main/INFO] [mixin/]: Successfully loaded Mixin Connector [tictim.paraglider.MixinConnector]
+[02Mar2025 14:52:35.355] [main/INFO] [Arclight/]: 核心 Mixin 配置已加载
+[02Mar2025 14:52:35.359] [main/INFO] [Arclight/]: 服务端优化 Mixin 配置已加载
+[02Mar2025 14:52:35.368] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'fmlserver' with arguments [--gameDir, ., nogui]
+[02Mar2025 14:52:42.646] [main/WARN] [mixin/]: Error loading class: net/minecraft/entity/IChargeableMob (java.lang.ClassNotFoundException: null)
+[02Mar2025 14:52:42.648] [main/WARN] [mixin/]: Error loading class: net/minecraft/entity/IChargeableMob (java.lang.ClassNotFoundException: null)
+[02Mar2025 14:52:42.649] [main/WARN] [mixin/]: Error loading class: net/minecraft/entity/IChargeableMob (java.lang.ClassNotFoundException: null)
+[02Mar2025 14:52:42.663] [main/WARN] [mixin/]: Error loading class: net/minecraft/entity/IChargeableMob (java.lang.ClassNotFoundException: null)
+[02Mar2025 14:52:42.666] [main/WARN] [mixin/]: Error loading class: net/minecraft/entity/IChargeableMob (java.lang.ClassNotFoundException: null)
+[02Mar2025 14:52:42.738] [main/WARN] [mixin/]: @Final field field_82223_h:[I in epicfight.mixins.json:MixinWitherBoss should be final
+[02Mar2025 14:52:42.739] [main/WARN] [mixin/]: @Final field field_82224_i:[I in epicfight.mixins.json:MixinWitherBoss should be final
+[02Mar2025 14:52:49.604] [modloading-worker-0/INFO] [Arclight/]: Arclight Mod 已加载
+[02Mar2025 14:52:49.689] [modloading-worker-3/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/Cosa/servidor_minecraft/config/jeresources.toml is not correct. Correcting
+[02Mar2025 14:52:49.694] [modloading-worker-3/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key itemsPerColumn was corrected from null to its default, 4. 
+[02Mar2025 14:52:49.696] [modloading-worker-3/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key itemsPerRow was corrected from null to its default, 4. 
+[02Mar2025 14:52:49.697] [modloading-worker-3/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key diyData was corrected from null to its default, true. 
+[02Mar2025 14:52:49.697] [modloading-worker-3/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key showDevData was corrected from null to its default, false. 
+[02Mar2025 14:52:49.699] [modloading-worker-3/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key enchantsBlacklist was corrected from null to its default, [flimflam, soulBound]. 
+[02Mar2025 14:52:49.700] [modloading-worker-3/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key hiddenTabs was corrected from null to its default, []. 
+[02Mar2025 14:52:49.700] [modloading-worker-3/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key dimensionsBlacklist was corrected from null to its default, [-11]. 
+[02Mar2025 14:52:49.701] [modloading-worker-3/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key disableLootManagerReloading was corrected from null to its default, false. 
+[02Mar2025 14:52:49.800] [modloading-worker-1/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 36.2.39, for MC 1.16.5 with MCP 20210115.111550
+[02Mar2025 14:52:49.801] [modloading-worker-1/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v36.2.39 Initialized
+[02Mar2025 14:52:49.841] [modloading-worker-0/INFO] [Arclight/]: Arclight 事件系统已注册
+[02Mar2025 14:52:49.843] [modloading-worker-0/WARN] [net.minecraftforge.server.permission.PermissionAPI/]: Replacing net.minecraftforge.server.permission.DefaultPermissionHandler with io.izzel.arclight.common.mod.server.ArclightPermissionHandler
+[02Mar2025 14:52:50.340] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/Cosa/servidor_minecraft/config/epicfight-client.toml is not correct. Correcting
+[02Mar2025 14:52:50.343] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame was corrected from null to its default, SimpleCommentedConfig:{}. 
+[02Mar2025 14:52:50.344] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.long_press_count was corrected from null to its default, 2. 
+[02Mar2025 14:52:50.349] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.show_health_indicator was corrected from null to its default, true. 
+[02Mar2025 14:52:50.351] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.show_target_indicator was corrected from null to its default, true. 
+[02Mar2025 14:52:50.353] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.filter_animation was corrected from null to its default, true. 
+[02Mar2025 14:52:50.357] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.laser_pointer_color was corrected from null to its default, 0.328125. 
+[02Mar2025 14:52:50.358] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.enable_laser_pointer was corrected from null to its default, true. 
+[02Mar2025 14:52:50.359] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.camera_auto_switch was corrected from null to its default, false. 
+[02Mar2025 14:52:50.360] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.auto_preparation was corrected from null to its default, false. 
+[02Mar2025 14:52:50.361] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.off_gore was corrected from null to its default, false. 
+[02Mar2025 14:52:50.364] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.battle_autoswitch_items was corrected from null to its default, []. 
+[02Mar2025 14:52:50.366] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ingame.mining_autoswitch_items was corrected from null to its default, []. 
+[02Mar2025 14:52:50.375] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/Cosa/servidor_minecraft/config/epicfight.toml is not correct. Correcting
+[02Mar2025 14:52:50.378] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key default_gamerule was corrected from null to its default, SimpleCommentedConfig:{}. 
+[02Mar2025 14:52:50.380] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key default_gamerule.doVanillaAttack was corrected from null to its default, true. 
+[02Mar2025 14:52:50.383] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key default_gamerule.keepSkills was corrected from null to its default, false. 
+[02Mar2025 14:52:50.384] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key default_gamerule.hasFallAnimation was corrected from null to its default, true. 
+[02Mar2025 14:52:50.385] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key default_gamerule.disapleEntityUI was corrected from null to its default, false. 
+[02Mar2025 14:52:50.390] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key default_gamerule.weightPenalty was corrected from null to its default, 100. 
+[02Mar2025 14:52:50.397] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key loot was corrected from null to its default, SimpleCommentedConfig:{}. 
+[02Mar2025 14:52:50.398] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key loot.skill_book_mob_loot was corrected from null to its default, true. 
+[02Mar2025 14:52:50.400] [modloading-worker-0/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key loot.skill_book_chest_loot was corrected from null to its default, true. 
+[02Mar2025 14:52:52.445] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[02Mar2025 14:52:52.447] [main/INFO] [net.minecraftforge.registries.GameData/]: Potentially Dangerous alternative prefix `minecraft` for name `flowing_milk`, expected `forge`. This could be a intended override, but in most cases indicates a broken mod.
+[02Mar2025 14:52:52.776] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/Cosa/servidor_minecraft/config/jade-common.toml is not correct. Correcting
+[02Mar2025 14:52:52.777] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key inventory was corrected from null to its default, SimpleCommentedConfig:{}. 
+[02Mar2025 14:52:52.777] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key inventory.sneakShowAmount was corrected from null to its default, 54. 
+[02Mar2025 14:52:52.778] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key inventory.normalShowAmount was corrected from null to its default, 0. 
+[02Mar2025 14:52:52.779] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key inventory.showItemPreLine was corrected from null to its default, 9. 
+[02Mar2025 14:52:52.779] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key inventory.blacklist was corrected from null to its default, [refinedstorage:disk_drive]. 
+[02Mar2025 14:52:52.780] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key inventory.bypassLockedContainer was corrected from null to its default, false. 
+[02Mar2025 14:52:52.781] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key customContainerName was corrected from null to its default, SimpleCommentedConfig:{}. 
+[02Mar2025 14:52:52.781] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key customContainerName.onlyShowVanilla was corrected from null to its default, false. 
+[02Mar2025 14:52:52.782] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key customContainerName.blacklist was corrected from null to its default, [thermal]. 
+[02Mar2025 14:52:52.857] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/Cosa/servidor_minecraft/config/jeresources-common.toml is not correct. Correcting
+[02Mar2025 14:52:52.861] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key itemsPerColumn was corrected from null to its default, 4. 
+[02Mar2025 14:52:52.863] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key itemsPerRow was corrected from null to its default, 4. 
+[02Mar2025 14:52:52.865] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key diyData was corrected from null to its default, true. 
+[02Mar2025 14:52:52.867] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key showDevData was corrected from null to its default, false. 
+[02Mar2025 14:52:52.869] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key enchantsBlacklist was corrected from null to its default, [flimflam, soulBound]. 
+[02Mar2025 14:52:52.870] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key hiddenTabs was corrected from null to its default, []. 
+[02Mar2025 14:52:52.872] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key dimensionsBlacklist was corrected from null to its default, [-11]. 
+[02Mar2025 14:52:52.874] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key disableLootManagerReloading was corrected from null to its default, false. 
+[02Mar2025 14:52:52.883] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/Cosa/servidor_minecraft/config/paraglider-common.toml is not correct. Correcting
+[02Mar2025 14:52:52.884] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features was corrected from null to its default, SimpleCommentedConfig:{}. 
+[02Mar2025 14:52:52.885] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.spiritOrbGens was corrected from null to its default, true. 
+[02Mar2025 14:52:52.886] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.heartContainers was corrected from null to its default, true. 
+[02Mar2025 14:52:52.888] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.staminaVessels was corrected from null to its default, true. 
+[02Mar2025 14:52:52.891] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key features.structures was corrected from null to its default, true. 
+[02Mar2025 14:52:52.899] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key debug was corrected from null to its default, SimpleCommentedConfig:{}. 
+[02Mar2025 14:52:52.899] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key debug.debugPlayerMovement was corrected from null to its default, false. 
+[02Mar2025 14:52:52.900] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key debug.traceMovementPacket was corrected from null to its default, false. 
+[02Mar2025 14:52:52.901] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key debug.traceParaglidingPacket was corrected from null to its default, false. 
+[02Mar2025 14:52:52.901] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key debug.traceVesselPacket was corrected from null to its default, false. 
+[02Mar2025 14:52:52.968] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file /workspaces/Cosa/servidor_minecraft/config/travelersbackpack-common.toml is not correct. Correcting
+[02Mar2025 14:52:52.973] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common was corrected from null to its default, SimpleCommentedConfig:{}. 
+[02Mar2025 14:52:52.973] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings was corrected from null to its default, SimpleCommentedConfig:{}. 
+[02Mar2025 14:52:52.979] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.enableTierUpgrades was corrected from null to its default, true. 
+[02Mar2025 14:52:52.982] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.disableCrafting was corrected from null to its default, false. 
+[02Mar2025 14:52:52.985] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.enableBackpackBlockWearable was corrected from null to its default, true. 
+[02Mar2025 14:52:52.990] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.enableBackpackRightClickUnequip was corrected from null to its default, false. 
+[02Mar2025 14:52:52.995] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.invulnerableBackpack was corrected from null to its default, true. 
+[02Mar2025 14:52:53.000] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.toolSlotsAcceptSwords was corrected from null to its default, true. 
+[02Mar2025 14:52:53.005] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.toolSlotsAcceptableItems was corrected from null to its default, []. 
+[02Mar2025 14:52:53.005] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.blacklistedItems was corrected from null to its default, []. 
+[02Mar2025 14:52:53.005] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.allowShulkerBoxes was corrected from null to its default, false. 
+[02Mar2025 14:52:53.005] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.tanksCapacity was corrected from null to its default, [2000, 3000, 4000, 5000, 6000]. 
+[02Mar2025 14:52:53.006] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.voidProtection was corrected from null to its default, true. 
+[02Mar2025 14:52:53.008] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.backpackDeathPlace was corrected from null to its default, true. 
+[02Mar2025 14:52:53.008] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.backpackForceDeathPlace was corrected from null to its default, false. 
+[02Mar2025 14:52:53.008] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.enableSleepingBagSpawnPoint was corrected from null to its default, false. 
+[02Mar2025 14:52:53.008] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackSettings.curiosIntegration was corrected from null to its default, false. 
+[02Mar2025 14:52:53.009] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.world was corrected from null to its default, SimpleCommentedConfig:{}. 
+[02Mar2025 14:52:53.009] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.world.enableLoot was corrected from null to its default, true. 
+[02Mar2025 14:52:53.009] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.world.spawnEntitiesWithBackpack was corrected from null to its default, true. 
+[02Mar2025 14:52:53.010] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.world.possibleOverworldEntityTypes was corrected from null to its default, [minecraft:zombie, minecraft:skeleton, minecraft:enderman]. 
+[02Mar2025 14:52:53.011] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.world.possibleNetherEntityTypes was corrected from null to its default, [minecraft:wither_skeleton, minecraft:piglin]. 
+[02Mar2025 14:52:53.013] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.world.spawnChance was corrected from null to its default, 500. 
+[02Mar2025 14:52:53.017] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.world.overworldBackpacks was corrected from null to its default, [travelersbackpack:standard, travelersbackpack:diamond, travelersbackpack:gold, travelersbackpack:emerald, travelersbackpack:iron, travelersbackpack:lapis, travelersbackpack:redstone, travelersbackpack:coal, travelersbackpack:bookshelf, travelersbackpack:sandstone, travelersbackpack:snow, travelersbackpack:sponge, travelersbackpack:cake, travelersbackpack:cactus, travelersbackpack:hay, travelersbackpack:melon, travelersbackpack:pumpkin, travelersbackpack:creeper, travelersbackpack:enderman, travelersbackpack:skeleton, travelersbackpack:spider, travelersbackpack:bee, travelersbackpack:wolf, travelersbackpack:fox, travelersbackpack:ocelot, travelersbackpack:horse, travelersbackpack:cow, travelersbackpack:pig, travelersbackpack:sheep, travelersbackpack:chicken, travelersbackpack:squid]. 
+[02Mar2025 14:52:53.028] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.world.netherBackpacks was corrected from null to its default, [travelersbackpack:quartz, travelersbackpack:nether, travelersbackpack:blaze, travelersbackpack:ghast, travelersbackpack:magma_cube, travelersbackpack:wither]. 
+[02Mar2025 14:52:53.031] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.world.enableVillagerTrade was corrected from null to its default, true. 
+[02Mar2025 14:52:53.031] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackAbilities was corrected from null to its default, SimpleCommentedConfig:{}. 
+[02Mar2025 14:52:53.031] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackAbilities.enableBackpackAbilities was corrected from null to its default, true. 
+[02Mar2025 14:52:53.031] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackAbilities.forceAbilityEnabled was corrected from null to its default, false. 
+[02Mar2025 14:52:53.032] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.backpackAbilities.allowedAbilities was corrected from null to its default, [travelersbackpack:netherite, travelersbackpack:diamond, travelersbackpack:gold, travelersbackpack:emerald, travelersbackpack:iron, travelersbackpack:lapis, travelersbackpack:redstone, travelersbackpack:bookshelf, travelersbackpack:sponge, travelersbackpack:cake, travelersbackpack:cactus, travelersbackpack:melon, travelersbackpack:pumpkin, travelersbackpack:creeper, travelersbackpack:dragon, travelersbackpack:enderman, travelersbackpack:blaze, travelersbackpack:ghast, travelersbackpack:magma_cube, travelersbackpack:spider, travelersbackpack:wither, travelersbackpack:bat, travelersbackpack:bee, travelersbackpack:ocelot, travelersbackpack:cow, travelersbackpack:chicken, travelersbackpack:squid]. 
+[02Mar2025 14:52:53.032] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.slownessDebuff was corrected from null to its default, SimpleCommentedConfig:{}. 
+[02Mar2025 14:52:53.032] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.slownessDebuff.tooManyBackpacksSlowness was corrected from null to its default, false. 
+[02Mar2025 14:52:53.032] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.slownessDebuff.maxNumberOfBackpacks was corrected from null to its default, 3. 
+[02Mar2025 14:52:53.033] [main/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key common.slownessDebuff.slownessPerExcessedBackpack was corrected from null to its default, 1.0. 
+[02Mar2025 14:52:53.047] [modloading-worker-2/INFO] [voicechat/]: [voicechat] Compatibility version 18
+[02Mar2025 14:52:53.151] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [voicechat] Starting version check at https://update.maxhenkel.de/forge/voicechat
+[02Mar2025 14:52:53.783] [modloading-worker-2/INFO] [voicechat/]: [voicechat] Loading plugins
+[02Mar2025 14:52:53.797] [modloading-worker-2/INFO] [voicechat/]: [voicechat] Loaded 0 plugin(s)
+[02Mar2025 14:52:53.797] [modloading-worker-2/INFO] [voicechat/]: [voicechat] Initializing plugins
+[02Mar2025 14:52:53.798] [modloading-worker-2/INFO] [voicechat/]: [voicechat] Initialized 0 plugin(s)
+[02Mar2025 14:52:54.250] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the fluid minecraft:water as a FluidEffect for Water with the ID 0
+[02Mar2025 14:52:54.251] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the fluid minecraft:lava as a FluidEffect for Lava with the ID 1
+[02Mar2025 14:52:54.261] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the fluid travelersbackpack:potion_fluid as a FluidEffect for Uncraftable Potion with the ID 2
+[02Mar2025 14:52:54.262] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the fluid minecraft:milk as a FluidEffect for Milk with the ID 3
+[02Mar2025 14:52:54.285] [modloading-worker-2/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 1/2 (Server)
+[02Mar2025 14:52:54.294] [modloading-worker-3/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 1/2 (Server)
+[02Mar2025 14:52:54.366] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+java.lang.NullPointerException: null
+	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:160) ~[forge:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:187) ~[forge:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:128) [forge:?]
+[02Mar2025 14:52:54.367] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Starting version check at https://raw.githubusercontent.com/DmitryLovin/pluginUpdate/master/invupdate.json
+[02Mar2025 14:52:54.498] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [inventoryhud] Found status: UP_TO_DATE Current: 3.4.1 Target: null
+[02Mar2025 14:52:54.498] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[02Mar2025 14:52:54.614] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: OUTDATED Current: 36.2.39 Target: 36.2.42
+[02Mar2025 14:52:54.616] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[02Mar2025 14:52:54.684] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+java.lang.NullPointerException: null
+	at net.minecraftforge.fml.VersionChecker$1.openUrlString(VersionChecker.java:160) ~[forge:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:187) ~[forge:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:128) [forge:?]
+[02Mar2025 14:52:55.351] [main/INFO] [xaero.minimap.XaeroMinimap/]: Loading Xaero's Minimap - Stage 2/2 (Server)
+[02Mar2025 14:52:55.351] [main/INFO] [xaero.map.server.WorldMapServer/]: Loading Xaero's World Map - Stage 2/2 (Server)
+[02Mar2025 14:52:55.373] [modloading-worker-3/INFO] [ShoulderSurfing/]: Registering plugin for Shoulder Surfing Reloaded (shouldersurfing)
+[02Mar2025 14:52:55.420] [modloading-worker-0/INFO] [Waila/]: Registered plugin at snownee.jade.JadePlugin
+[02Mar2025 14:52:55.425] [modloading-worker-0/INFO] [Waila/]: Registered plugin at snownee.jade.JadeClientPlugin
+[02Mar2025 14:52:55.448] [modloading-worker-0/INFO] [Waila/]: Registered plugin at mcp.mobius.waila.addons.minecraft.PluginMinecraft
+[02Mar2025 14:52:55.792] [modloading-worker-3/FATAL] [net.minecraftforge.fml.loading.RuntimeDistCleaner/DISTXFORM]: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+[02Mar2025 14:52:55.794] [modloading-worker-3/ERROR] [ShoulderSurfing/]: Failed to load plugin for Shoulder Surfing Reloaded (shouldersurfing)
+java.lang.BootstrapMethodError: java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	at com.github.exopandora.shouldersurfing.plugin.ShoulderSurfingPlugin.register(ShoulderSurfingPlugin.java:23) ~[shouldersurfing:1.16.5-4.9.0]
+	at com.github.exopandora.shouldersurfing.plugin.PluginLoader.loadPlugin(PluginLoader.java:33) ~[shouldersurfing:1.16.5-4.9.0]
+	at com.github.exopandora.shouldersurfing.forge.plugin.PluginLoaderForge.loadPlugins(PluginLoaderForge.java:23) ~[shouldersurfing:1.16.5-4.9.0]
+	at com.github.exopandora.shouldersurfing.forge.ShoulderSurfingForge.loadComplete(ShoulderSurfingForge.java:86) ~[shouldersurfing:1.16.5-4.9.0]
+	at net.minecraftforge.eventbus.EventBus.doCastFilter(EventBus.java:247) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.lambda$addListener$11(EventBus.java:239) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:302) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.eventbus.EventBus.post(EventBus.java:283) ~[eventbus-4.0.0.jar:?]
+	at net.minecraftforge.fml.javafmlmod.FMLModContainer.acceptEvent(FMLModContainer.java:106) ~[forge:36.2]
+	at net.minecraftforge.fml.ModContainer.lambda$buildTransitionHandler$4(ModContainer.java:107) ~[forge:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.run(CompletableFuture.java:1736) [?:?]
+	at java.util.concurrent.CompletableFuture$AsyncRun.exec(CompletableFuture.java:1728) [?:?]
+	at java.util.concurrent.ForkJoinTask.doExec(ForkJoinTask.java:290) [?:?]
+	at java.util.concurrent.ForkJoinPool$WorkQueue.topLevelExec(ForkJoinPool.java:1020) [?:?]
+	at java.util.concurrent.ForkJoinPool.scan(ForkJoinPool.java:1656) [?:?]
+	at java.util.concurrent.ForkJoinPool.runWorker(ForkJoinPool.java:1594) [?:?]
+	at java.util.concurrent.ForkJoinWorkerThread.run(ForkJoinWorkerThread.java:183) [?:?]
+Caused by: java.lang.RuntimeException: Attempted to load class net/minecraft/client/Minecraft for invalid dist DEDICATED_SERVER
+	at net.minecraftforge.fml.loading.RuntimeDistCleaner.processClassWithFlags(RuntimeDistCleaner.java:57) ~[forge-1.16.5-36.2.39.jar:36.2]
+	at cpw.mods.modlauncher.LaunchPluginHandler.offerClassNodeToPlugins(LaunchPluginHandler.java:85) ~[modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.ClassTransformer.transform(ClassTransformer.java:120) ~[modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader$DelegatedClassLoader.findClass(TransformingClassLoader.java:265) ~[modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:136) ~[modlauncher-8.1.3.jar:?]
+	at cpw.mods.modlauncher.TransformingClassLoader.loadClass(TransformingClassLoader.java:98) ~[modlauncher-8.1.3.jar:?]
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:527) ~[?:?]
+	... 17 more
+[02Mar2025 14:52:59.710] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[02Mar2025 14:53:00.962] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [tb, access, pos] and [tb, access, target] with inputs: [0 0 0]
+[02Mar2025 14:53:00.971] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [tb, unpack, pos] and [tb, unpack, target] with inputs: [0 0 0]
+[02Mar2025 14:53:00.975] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[02Mar2025 14:53:00.976] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02Mar2025 14:53:00.989] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02Mar2025 14:53:00.990] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[02Mar2025 14:53:00.992] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02Mar2025 14:53:00.998] [main/WARN] [net.minecraft.command.Commands/]: Ambiguity between arguments [voicechat, join, group_id] and [voicechat, join, group_name] with inputs: [dd12be42-52a9-4a91-a8a1-11c01849e498]
+[02Mar2025 14:53:01.014] [main/INFO] [net.minecraft.resources.SimpleReloadableResourceManager/]: Reloading ResourceManager: Default, forge-1.16.5-36.2.39-universal.jar, vanilla.jar, voicechat-forge-1.16.5-2.5.28.jar, InventoryHud_[1.16.2-1.16.5].forge-3.4.1.jar, sighted-0.1.0.jar, Jade-1.16.4-2.8.3.jar, ShoulderSurfing-Forge-1.16.5-4.9.0.jar, CC(FG1.16.5) v1.1.6.jar, jei-1.16.5-7.8.0.1013.jar, carryon-1.16.5-1.15.6.24.jar, JustEnoughResources-1.16.5-0.12.2.216.jar, Paraglider-1.16.5-1.3.2.14.jar, notenoughanimations-forge-1.9.1-mc1.16.5.jar, Xaeros_Minimap_25.0.0_Forge_1.16.5.jar, epicfight-16.6.5.jar, XaerosWorldMap_1.39.2_Forge_1.16.5.jar, TravelersBackpack-1.16.5-5.4.51.jar
+[02Mar2025 14:53:03.313] [Worker-Main-4/INFO] [net.minecraft.item.crafting.RecipeManager/]: Loaded 8 recipes
+[02Mar2025 14:53:04.902] [Worker-Main-4/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 1126 advancements
+[02Mar2025 14:53:06.229] [main/INFO] [STDOUT/]: [tschipp.carryon.common.handler.ListHandler:initConfigLists:282]: [minecraft:soul_fire_base_blocks, forge:glass/gray, minecraft:campfires, forge:storage_blocks, forge:glass_panes/magenta, minecraft:infiniburn_nether, forge:glass_panes/orange, forge:glass/light_gray, forge:ores/quartz, minecraft:wooden_slabs, forge:glass/blue, minecraft:small_flowers, minecraft:wooden_trapdoors, forge:storage_blocks/netherite, forge:storage_blocks/coal, forge:glass_panes/white, forge:glass_panes/black, forge:glass/light_blue, forge:gravel, forge:glass_panes/cyan, jade:pick, forge:storage_blocks/redstone, paraglider:statues, forge:glass_panes/light_gray, minecraft:wool, forge:glass/colorless, forge:glass_panes/blue, minecraft:stairs, minecraft:logs, forge:glass_panes/light_blue, minecraft:beehives, minecraft:ice, forge:ores/netherite_scrap, minecraft:dragon_immune, minecraft:crops, forge:stained_glass, forge:glass/pink, forge:chests, forge:storage_blocks/emerald, forge:stone, forge:ores/redstone, minecraft:valid_spawn, minecraft:mushroom_grow_block, minecraft:wooden_doors, minecraft:warped_stems, minecraft:standing_signs, forge:glass/red, minecraft:infiniburn_end, forge:glass_panes/yellow, forge:glass/purple, forge:storage_blocks/iron, forge:glass_panes/brown, minecraft:crimson_stems, forge:glass_panes/green, carryon:block_blacklist, minecraft:prevent_mob_spawning_inside, minecraft:wart_blocks, minecraft:climbable, forge:chests/trapped, forge:fence_gates, minecraft:dark_oak_logs, minecraft:coral_plants, forge:glass_panes, minecraft:non_flammable_wood, forge:sandstone, forge:glass_panes/colorless, minecraft:beacon_base_blocks, minecraft:shulker_boxes, minecraft:anvil, minecraft:birch_logs, paraglider:statues/goddess, forge:sand, minecraft:wall_corals, forge:glass_panes/purple, forge:glass/yellow, minecraft:fences, minecraft:saplings, forge:storage_blocks/lapis, forge:ores/copper, minecraft:beds, forge:ores/diamond, minecraft:oak_logs, minecraft:unstable_bottom_center, forge:ores/gold, minecraft:doors, minecraft:enderman_holdable, minecraft:banners, forge:barrels, minecraft:infiniburn_overworld, minecraft:flower_pots, minecraft:wooden_fences, minecraft:piglin_repellents, forge:ores/lapis, forge:glass/black, minecraft:wall_post_override, minecraft:portals, forge:obsidian, forge:enderman_place_on_blacklist, forge:dirt, minecraft:bamboo_plantable_on, forge:fences/nether_brick, forge:glass/lime, forge:chests/wooden, forge:ores/iron, minecraft:pressure_plates, minecraft:jungle_logs, forge:chests/ender, forge:glass/white, minecraft:wooden_stairs, minecraft:spruce_logs, forge:glass_panes/red, minecraft:signs, minecraft:carpets, minecraft:base_stone_overworld, minecraft:wooden_buttons, minecraft:wither_summon_base_blocks, forge:glass/magenta, forge:fence_gates/wooden, minecraft:stone_bricks, forge:ores/coal, minecraft:hoglin_repellents, forge:storage_blocks/quartz, minecraft:fire, forge:glass/orange, forge:glass_panes/lime, minecraft:base_stone_nether, minecraft:wall_signs, minecraft:slabs, carryon:block_whitelist, minecraft:guarded_by_piglins, forge:ores/emerald, forge:sand/colorless, minecraft:trapdoors, forge:glass/cyan, minecraft:corals, minecraft:buttons, minecraft:flowers, forge:glass, minecraft:planks, forge:cobblestone, minecraft:soul_speed_blocks, minecraft:rails, forge:barrels/wooden, minecraft:leaves, minecraft:walls, minecraft:coral_blocks, minecraft:strider_warm_blocks, forge:storage_blocks/gold, forge:glass/green, minecraft:fence_gates, forge:ores, forge:glass_panes/gray, minecraft:bee_growables, minecraft:wooden_pressure_plates, minecraft:wither_immune, minecraft:acacia_logs, minecraft:tall_flowers, forge:stained_glass_panes, minecraft:underwater_bonemeals, forge:fences, minecraft:stone_pressure_plates, forge:sand/red, forge:storage_blocks/diamond, minecraft:impermeable, minecraft:sand, minecraft:nylium, forge:end_stones, minecraft:gold_ores, forge:glass/brown, forge:glass_panes/pink, minecraft:logs_that_burn, forge:netherrack, forge:fences/wooden]
+[02Mar2025 14:53:06.231] [main/INFO] [STDOUT/]: [tschipp.carryon.common.handler.ListHandler:initConfigLists:282]: [minecraft:soul_fire_base_blocks, forge:glass/gray, minecraft:campfires, forge:storage_blocks, forge:glass_panes/magenta, minecraft:infiniburn_nether, forge:glass_panes/orange, forge:glass/light_gray, forge:ores/quartz, minecraft:wooden_slabs, forge:glass/blue, minecraft:small_flowers, minecraft:wooden_trapdoors, forge:storage_blocks/netherite, forge:storage_blocks/coal, forge:glass_panes/white, forge:glass_panes/black, forge:glass/light_blue, forge:gravel, forge:glass_panes/cyan, jade:pick, forge:storage_blocks/redstone, paraglider:statues, forge:glass_panes/light_gray, minecraft:wool, forge:glass/colorless, forge:glass_panes/blue, minecraft:stairs, minecraft:logs, forge:glass_panes/light_blue, minecraft:beehives, minecraft:ice, forge:ores/netherite_scrap, minecraft:dragon_immune, minecraft:crops, forge:stained_glass, forge:glass/pink, forge:chests, forge:storage_blocks/emerald, forge:stone, forge:ores/redstone, minecraft:valid_spawn, minecraft:mushroom_grow_block, minecraft:wooden_doors, minecraft:warped_stems, minecraft:standing_signs, forge:glass/red, minecraft:infiniburn_end, forge:glass_panes/yellow, forge:glass/purple, forge:storage_blocks/iron, forge:glass_panes/brown, minecraft:crimson_stems, forge:glass_panes/green, carryon:block_blacklist, minecraft:prevent_mob_spawning_inside, minecraft:wart_blocks, minecraft:climbable, forge:chests/trapped, forge:fence_gates, minecraft:dark_oak_logs, minecraft:coral_plants, forge:glass_panes, minecraft:non_flammable_wood, forge:sandstone, forge:glass_panes/colorless, minecraft:beacon_base_blocks, minecraft:shulker_boxes, minecraft:anvil, minecraft:birch_logs, paraglider:statues/goddess, forge:sand, minecraft:wall_corals, forge:glass_panes/purple, forge:glass/yellow, minecraft:fences, minecraft:saplings, forge:storage_blocks/lapis, forge:ores/copper, minecraft:beds, forge:ores/diamond, minecraft:oak_logs, minecraft:unstable_bottom_center, forge:ores/gold, minecraft:doors, minecraft:enderman_holdable, minecraft:banners, forge:barrels, minecraft:infiniburn_overworld, minecraft:flower_pots, minecraft:wooden_fences, minecraft:piglin_repellents, forge:ores/lapis, forge:glass/black, minecraft:wall_post_override, minecraft:portals, forge:obsidian, forge:enderman_place_on_blacklist, forge:dirt, minecraft:bamboo_plantable_on, forge:fences/nether_brick, forge:glass/lime, forge:chests/wooden, forge:ores/iron, minecraft:pressure_plates, minecraft:jungle_logs, forge:chests/ender, forge:glass/white, minecraft:wooden_stairs, minecraft:spruce_logs, forge:glass_panes/red, minecraft:signs, minecraft:carpets, minecraft:base_stone_overworld, minecraft:wooden_buttons, minecraft:wither_summon_base_blocks, forge:glass/magenta, forge:fence_gates/wooden, minecraft:stone_bricks, forge:ores/coal, minecraft:hoglin_repellents, forge:storage_blocks/quartz, minecraft:fire, forge:glass/orange, forge:glass_panes/lime, minecraft:base_stone_nether, minecraft:wall_signs, minecraft:slabs, carryon:block_whitelist, minecraft:guarded_by_piglins, forge:ores/emerald, forge:sand/colorless, minecraft:trapdoors, forge:glass/cyan, minecraft:corals, minecraft:buttons, minecraft:flowers, forge:glass, minecraft:planks, forge:cobblestone, minecraft:soul_speed_blocks, minecraft:rails, forge:barrels/wooden, minecraft:leaves, minecraft:walls, minecraft:coral_blocks, minecraft:strider_warm_blocks, forge:storage_blocks/gold, forge:glass/green, minecraft:fence_gates, forge:ores, forge:glass_panes/gray, minecraft:bee_growables, minecraft:wooden_pressure_plates, minecraft:wither_immune, minecraft:acacia_logs, minecraft:tall_flowers, forge:stained_glass_panes, minecraft:underwater_bonemeals, forge:fences, minecraft:stone_pressure_plates, forge:sand/red, forge:storage_blocks/diamond, minecraft:impermeable, minecraft:sand, minecraft:nylium, forge:end_stones, minecraft:gold_ores, forge:glass/brown, forge:glass_panes/pink, minecraft:logs_that_burn, forge:netherrack, forge:fences/wooden]
+[02Mar2025 14:53:07.722] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.16.5
+[02Mar2025 14:53:07.726] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[02Mar2025 14:53:07.726] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[02Mar2025 14:53:07.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[02Mar2025 14:53:08.024] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[02Mar2025 14:53:08.130] [Server thread/INFO] [net.minecraft.network.NetworkSystem/]: Using epoll channel type
+[02Mar2025 14:53:08.407] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02Mar2025 14:53:08.408] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[02Mar2025 14:53:08.408] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02Mar2025 14:53:08.408] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[02Mar2025 14:53:09.475] [Server thread/INFO] [Minecraft/]: This server is running Arclight version arclight-1.16.5-1.0.25-7cf92be3 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
+[02Mar2025 14:53:09.920] [Server thread/INFO] [Arclight/]: 正在向 Bukkit 注册 ...
+[02Mar2025 14:53:11.778] [Server thread/INFO] [Arclight/]: 注册了 326 个材料，其中 262 个方块 64 个物品
+[02Mar2025 14:53:11.792] [Server thread/INFO] [Arclight/]: 注册了 16 个新的药水效果
+[02Mar2025 14:53:11.821] [Server thread/INFO] [Arclight/]: 注册了 38 个新的附魔
+[02Mar2025 14:53:11.843] [Server thread/INFO] [Arclight/]: 注册了 10 个新的生物类型
+[02Mar2025 14:53:11.844] [Server thread/INFO] [Arclight/]: 注册了 0 个新的村民职业
+[02Mar2025 14:53:11.845] [Server thread/INFO] [Arclight/]: 注册了 0 个新的生物群系
+[02Mar2025 14:53:11.875] [Server thread/INFO] [Minecraft/]: Debug logging is enabled
+[02Mar2025 14:53:11.876] [Server thread/INFO] [STDOUT/]: [org.spigotmc.SpigotConfig:playerSample:287]: Server Ping Player Sample Count: 12
+[02Mar2025 14:53:11.880] [Server thread/INFO] [Minecraft/]: Using 4 threads for Netty based IO
+[02Mar2025 14:53:12.501] [Server thread/ERROR] [Minecraft/]: Could not load 'plugins/voicechat-bukkit-2.5.28 - copia.jar' in folder 'plugins'
+org.bukkit.plugin.InvalidPluginException: main class `de.maxhenkel.voicechat.Voicechat' does not extend JavaPlugin
+	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoaderMixin.java:76) ~[arclight:arclight-1.16.5-1.0.25-7cf92be3]
+	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoaderMixin.java:145) ~[arclight:arclight-1.16.5-1.0.25-7cf92be3]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugin(SimplePluginManager.java:394) ~[arclight:arclight-1.16.5-1.0.25-7cf92be3]
+	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:301) ~[arclight:arclight-1.16.5-1.0.25-7cf92be3]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.loadPlugins(CraftServerMixin.java:381) ~[arclight:arclight-1.16.5-1.0.25-7cf92be3]
+	at net.minecraft.server.dedicated.DedicatedServer.handler$bab000$arclight$loadPlugins(DedicatedServerMixin.java:637) ~[?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServerMixin.java:160) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServerMixin.java:1879) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServerMixin.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:829) [?:?]
+Caused by: java.lang.ClassCastException: class de.maxhenkel.voicechat.Voicechat
+	at java.lang.Class.asSubclass(Class.java:3641) ~[?:?]
+	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoaderMixin.java:74) ~[arclight:arclight-1.16.5-1.0.25-7cf92be3]
+	... 9 more
+[02Mar2025 14:53:12.517] [Server thread/INFO] [Arclight/]: 正在加载混淆数据 ...
+[02Mar2025 14:53:13.717] [Server thread/INFO] [Arclight/]: 正在加载 Plugin Patcher ...
+[02Mar2025 14:53:13.845] [Server thread/ERROR] [Minecraft/]: Could not load 'plugins/TerraformGenerator-12.0.0_1.16.5-1.20.3.jar' in folder 'plugins'
 org.bukkit.plugin.InvalidPluginException: java.lang.UnsupportedClassVersionError: org/terraform/main/TerraformGeneratorPlugin has been compiled by a more recent version of the Java Runtime (class file version 60.0), this version of the Java Runtime only recognizes class file versions up to 55.0
 	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoaderMixin.java:149) ~[arclight:arclight-1.16.5-1.0.25-7cf92be3]
 	at org.bukkit.plugin.SimplePluginManager.loadPlugin(SimplePluginManager.java:394) ~[arclight:arclight-1.16.5-1.0.25-7cf92be3]
 	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:301) ~[arclight:arclight-1.16.5-1.0.25-7cf92be3]
 	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.loadPlugins(CraftServerMixin.java:381) ~[arclight:arclight-1.16.5-1.0.25-7cf92be3]
-	at net.minecraft.server.dedicated.DedicatedServer.handler$zpp000$arclight$loadPlugins(DedicatedServerMixin.java:637) ~[?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.handler$bab000$arclight$loadPlugins(DedicatedServerMixin.java:637) ~[?:?]
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServerMixin.java:160) ~[?:?]
 	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServerMixin.java:1879) ~[?:?]
 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServerMixin.java:232) ~[?:?]
@@ -85,29 +277,29 @@ Caused by: java.lang.UnsupportedClassVersionError: org/terraform/main/TerraformG
 	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoaderMixin.java:67) ~[arclight:arclight-1.16.5-1.0.25-7cf92be3]
 	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoaderMixin.java:145) ~[arclight:arclight-1.16.5-1.0.25-7cf92be3]
 	... 8 more
-[01Mar2025 21:16:16.751] [Server thread/INFO] [STDERR/]: [org.bukkit.craftbukkit.v1_16_R3.legacy.CraftLegacy:<clinit>:257]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
-[01Mar2025 21:16:20.877] [Server thread/WARN] [Minecraft/]: Legacy plugin AutoUpdatePlugins v11.5 does not specify an api-version.
-[01Mar2025 21:16:20.899] [Server thread/WARN] [Minecraft/]: Legacy plugin OnePlayerSleep v1.3 does not specify an api-version.
-[01Mar2025 21:16:21.273] [Server thread/INFO] [Minecraft/]: [NotBounties] Loading 2 libraries... please wait
-[01Mar2025 21:16:21.663] [Server thread/INFO] [Minecraft/]: [NotBounties] Loaded library /workspaces/Cosa/servidor_minecraft/libraries/com/mysql/mysql-connector-j/9.1.0/mysql-connector-j-9.1.0.jar
-[01Mar2025 21:16:21.663] [Server thread/INFO] [Minecraft/]: [NotBounties] Loaded library /workspaces/Cosa/servidor_minecraft/libraries/com/google/protobuf/protobuf-java/4.26.1/protobuf-java-4.26.1.jar
-[01Mar2025 21:16:21.664] [Server thread/INFO] [Minecraft/]: [NotBounties] Loaded library /workspaces/Cosa/servidor_minecraft/libraries/io/lettuce/lettuce-core/6.5.0.RELEASE/lettuce-core-6.5.0.RELEASE.jar
-[01Mar2025 21:16:21.664] [Server thread/INFO] [Minecraft/]: [NotBounties] Loaded library /workspaces/Cosa/servidor_minecraft/libraries/io/netty/netty-common/4.1.113.Final/netty-common-4.1.113.Final.jar
-[01Mar2025 21:16:21.664] [Server thread/INFO] [Minecraft/]: [NotBounties] Loaded library /workspaces/Cosa/servidor_minecraft/libraries/io/netty/netty-handler/4.1.113.Final/netty-handler-4.1.113.Final.jar
-[01Mar2025 21:16:21.665] [Server thread/INFO] [Minecraft/]: [NotBounties] Loaded library /workspaces/Cosa/servidor_minecraft/libraries/io/netty/netty-resolver/4.1.113.Final/netty-resolver-4.1.113.Final.jar
-[01Mar2025 21:16:21.665] [Server thread/INFO] [Minecraft/]: [NotBounties] Loaded library /workspaces/Cosa/servidor_minecraft/libraries/io/netty/netty-buffer/4.1.113.Final/netty-buffer-4.1.113.Final.jar
-[01Mar2025 21:16:21.665] [Server thread/INFO] [Minecraft/]: [NotBounties] Loaded library /workspaces/Cosa/servidor_minecraft/libraries/io/netty/netty-transport-native-unix-common/4.1.113.Final/netty-transport-native-unix-common-4.1.113.Final.jar
-[01Mar2025 21:16:21.666] [Server thread/INFO] [Minecraft/]: [NotBounties] Loaded library /workspaces/Cosa/servidor_minecraft/libraries/io/netty/netty-codec/4.1.113.Final/netty-codec-4.1.113.Final.jar
-[01Mar2025 21:16:21.666] [Server thread/INFO] [Minecraft/]: [NotBounties] Loaded library /workspaces/Cosa/servidor_minecraft/libraries/io/netty/netty-transport/4.1.113.Final/netty-transport-4.1.113.Final.jar
-[01Mar2025 21:16:21.666] [Server thread/INFO] [Minecraft/]: [NotBounties] Loaded library /workspaces/Cosa/servidor_minecraft/libraries/io/projectreactor/reactor-core/3.6.6/reactor-core-3.6.6.jar
-[01Mar2025 21:16:21.666] [Server thread/INFO] [Minecraft/]: [NotBounties] Loaded library /workspaces/Cosa/servidor_minecraft/libraries/org/reactivestreams/reactive-streams/1.0.4/reactive-streams-1.0.4.jar
-[01Mar2025 21:16:21.682] [Server thread/ERROR] [Minecraft/]: Could not load 'plugins/NotBounties-1.21.6.jar' in folder 'plugins'
+[02Mar2025 14:53:14.362] [Server thread/INFO] [STDERR/]: [org.bukkit.craftbukkit.v1_16_R3.legacy.CraftLegacy:<clinit>:257]: Initializing Legacy Material Support. Unless you have legacy plugins and/or data this is a bug!
+[02Mar2025 14:53:20.659] [Server thread/WARN] [Minecraft/]: Legacy plugin AutoUpdatePlugins v11.5 does not specify an api-version.
+[02Mar2025 14:53:20.837] [Server thread/WARN] [Minecraft/]: Legacy plugin OnePlayerSleep v1.3 does not specify an api-version.
+[02Mar2025 14:53:21.675] [Server thread/INFO] [Minecraft/]: [NotBounties] Loading 2 libraries... please wait
+[02Mar2025 14:53:22.227] [Server thread/INFO] [Minecraft/]: [NotBounties] Loaded library /workspaces/Cosa/servidor_minecraft/libraries/com/mysql/mysql-connector-j/9.1.0/mysql-connector-j-9.1.0.jar
+[02Mar2025 14:53:22.236] [Server thread/INFO] [Minecraft/]: [NotBounties] Loaded library /workspaces/Cosa/servidor_minecraft/libraries/com/google/protobuf/protobuf-java/4.26.1/protobuf-java-4.26.1.jar
+[02Mar2025 14:53:22.237] [Server thread/INFO] [Minecraft/]: [NotBounties] Loaded library /workspaces/Cosa/servidor_minecraft/libraries/io/lettuce/lettuce-core/6.5.0.RELEASE/lettuce-core-6.5.0.RELEASE.jar
+[02Mar2025 14:53:22.237] [Server thread/INFO] [Minecraft/]: [NotBounties] Loaded library /workspaces/Cosa/servidor_minecraft/libraries/io/netty/netty-common/4.1.113.Final/netty-common-4.1.113.Final.jar
+[02Mar2025 14:53:22.237] [Server thread/INFO] [Minecraft/]: [NotBounties] Loaded library /workspaces/Cosa/servidor_minecraft/libraries/io/netty/netty-handler/4.1.113.Final/netty-handler-4.1.113.Final.jar
+[02Mar2025 14:53:22.238] [Server thread/INFO] [Minecraft/]: [NotBounties] Loaded library /workspaces/Cosa/servidor_minecraft/libraries/io/netty/netty-resolver/4.1.113.Final/netty-resolver-4.1.113.Final.jar
+[02Mar2025 14:53:22.238] [Server thread/INFO] [Minecraft/]: [NotBounties] Loaded library /workspaces/Cosa/servidor_minecraft/libraries/io/netty/netty-buffer/4.1.113.Final/netty-buffer-4.1.113.Final.jar
+[02Mar2025 14:53:22.238] [Server thread/INFO] [Minecraft/]: [NotBounties] Loaded library /workspaces/Cosa/servidor_minecraft/libraries/io/netty/netty-transport-native-unix-common/4.1.113.Final/netty-transport-native-unix-common-4.1.113.Final.jar
+[02Mar2025 14:53:22.239] [Server thread/INFO] [Minecraft/]: [NotBounties] Loaded library /workspaces/Cosa/servidor_minecraft/libraries/io/netty/netty-codec/4.1.113.Final/netty-codec-4.1.113.Final.jar
+[02Mar2025 14:53:22.239] [Server thread/INFO] [Minecraft/]: [NotBounties] Loaded library /workspaces/Cosa/servidor_minecraft/libraries/io/netty/netty-transport/4.1.113.Final/netty-transport-4.1.113.Final.jar
+[02Mar2025 14:53:22.239] [Server thread/INFO] [Minecraft/]: [NotBounties] Loaded library /workspaces/Cosa/servidor_minecraft/libraries/io/projectreactor/reactor-core/3.6.6/reactor-core-3.6.6.jar
+[02Mar2025 14:53:22.239] [Server thread/INFO] [Minecraft/]: [NotBounties] Loaded library /workspaces/Cosa/servidor_minecraft/libraries/org/reactivestreams/reactive-streams/1.0.4/reactive-streams-1.0.4.jar
+[02Mar2025 14:53:22.282] [Server thread/ERROR] [Minecraft/]: Could not load 'plugins/NotBounties-1.21.6.jar' in folder 'plugins'
 org.bukkit.plugin.InvalidPluginException: java.lang.UnsupportedClassVersionError: me/jadenp/notbounties/NotBounties has been compiled by a more recent version of the Java Runtime (class file version 61.0), this version of the Java Runtime only recognizes class file versions up to 55.0
 	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoaderMixin.java:149) ~[arclight:arclight-1.16.5-1.0.25-7cf92be3]
 	at org.bukkit.plugin.SimplePluginManager.loadPlugin(SimplePluginManager.java:394) ~[arclight:arclight-1.16.5-1.0.25-7cf92be3]
 	at org.bukkit.plugin.SimplePluginManager.loadPlugins(SimplePluginManager.java:301) ~[arclight:arclight-1.16.5-1.0.25-7cf92be3]
 	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.loadPlugins(CraftServerMixin.java:381) ~[arclight:arclight-1.16.5-1.0.25-7cf92be3]
-	at net.minecraft.server.dedicated.DedicatedServer.handler$zpp000$arclight$loadPlugins(DedicatedServerMixin.java:637) ~[?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.handler$bab000$arclight$loadPlugins(DedicatedServerMixin.java:637) ~[?:?]
 	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServerMixin.java:160) ~[?:?]
 	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServerMixin.java:1879) ~[?:?]
 	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServerMixin.java:232) ~[?:?]
@@ -126,372 +318,393 @@ Caused by: java.lang.UnsupportedClassVersionError: me/jadenp/notbounties/NotBoun
 	at org.bukkit.plugin.java.PluginClassLoader.<init>(PluginClassLoaderMixin.java:67) ~[arclight:arclight-1.16.5-1.0.25-7cf92be3]
 	at org.bukkit.plugin.java.JavaPluginLoader.loadPlugin(JavaPluginLoaderMixin.java:145) ~[arclight:arclight-1.16.5-1.0.25-7cf92be3]
 	... 8 more
-[01Mar2025 21:16:21.747] [Server thread/INFO] [voicechat/]: Loading voicechat v2.5.28
-[01Mar2025 21:16:21.752] [Server thread/INFO] [AnimationsCore/]: Loading AnimationsCore v0.1-SNAPSHOT
-[01Mar2025 21:16:21.753] [Server thread/INFO] [Essentials/]: Loading Essentials v2.21.0-dev+183-b5748eb
-[01Mar2025 21:16:21.758] [Server thread/INFO] [TAB/]: Loading TAB v4.1.6
-[01Mar2025 21:16:21.763] [Server thread/INFO] [AutoUpdatePlugins/]: Loading AutoUpdatePlugins v11.5
-[01Mar2025 21:16:21.765] [Server thread/INFO] [OnePlayerSleep/]: Loading OnePlayerSleep v1.3
-[01Mar2025 21:16:21.765] [Server thread/INFO] [NBTAPI/]: Loading NBTAPI v2.14.1
-[01Mar2025 21:16:21.787] [Server thread/INFO] [NBTAPI/]: [NBTAPI] Found Minecraft: v1_16_R3! Trying to find NMS support
-[01Mar2025 21:16:21.788] [Server thread/INFO] [NBTAPI/]: [NBTAPI] NMS support 'MC1_16_R3' loaded!
-[01Mar2025 21:16:21.790] [Server thread/INFO] [NBTAPI/]: [NBTAPI] Using the plugin 'NBTAPI' to create a bStats instance!
-[01Mar2025 21:16:21.879] [Server thread/INFO] [EssentialsSpawn/]: Loading EssentialsSpawn v2.21.0-dev+183-b5748eb
-[01Mar2025 21:16:21.880] [Server thread/INFO] [ProtocolLib/]: Loading ProtocolLib v5.3.0
-[01Mar2025 21:16:21.940] [Thread-7/INFO] [NBTAPI/]: [NBTAPI] The NBT-API seems to be up-to-date!
-[01Mar2025 21:16:22.762] [Server thread/INFO] [Multiverse-Core/]: Loading Multiverse-Core v4.3.14
-[01Mar2025 21:16:22.860] [Server thread/INFO] [SkinsRestorer/]: Loading SkinsRestorer v15.5.3
-[01Mar2025 21:16:22.861] [Server thread/INFO] [BetterRevive/]: Loading BetterRevive v0.9.1-BETA
-[01Mar2025 21:16:22.862] [Server thread/INFO] [YamipaPlugin/]: Loading YamipaPlugin v1.3.2
-[01Mar2025 21:16:22.863] [Server thread/INFO] [Images/]: Loading Images v2.5.3
-[01Mar2025 21:16:22.875] [Server thread/INFO] [Graves/]: Loading Graves v4.9
-[01Mar2025 21:16:23.066] [Server thread/INFO] [ConditionalEvents/]: Loading ConditionalEvents v4.60.2
-[01Mar2025 21:16:23.077] [Server thread/INFO] [ProtocolLib/]: Enabling ProtocolLib v5.3.0
-[01Mar2025 21:16:23.355] [Server thread/INFO] [SkinsRestorer/]: Enabling SkinsRestorer v15.5.3
-[01Mar2025 21:16:25.191] [Server thread/WARN] [Minecraft/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1mYou must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.[0;39m
-[01Mar2025 21:16:25.971] [Server thread/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.16.5[32;1m.[0;39m
-[01Mar2025 21:16:27.032] [Server thread/WARN] [Minecraft/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou are running an outdated Java version, please update it to at least Java 21 (your version is 11).[0;39m
-[01Mar2025 21:16:27.032] [Server thread/WARN] [Minecraft/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mSkinsRestorer no longer officially supports this version of Java, you are currently using an unsupported compatibility build.[0;39m
-[01Mar2025 21:16:27.033] [Server thread/WARN] [Minecraft/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou can still use the plugin, but you may encounter issues that are not present in newer versions of Java.[0;39m
-[01Mar2025 21:16:27.072] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/forge-server.toml is not correct. Correcting
-[01Mar2025 21:16:27.073] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server was corrected from null to its default, SimpleCommentedConfig:{}. 
-[01Mar2025 21:16:27.073] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringEntities was corrected from null to its default, false. 
-[01Mar2025 21:16:27.074] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.removeErroringTileEntities was corrected from null to its default, false. 
-[01Mar2025 21:16:27.074] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fullBoundingBoxLadders was corrected from null to its default, false. 
-[01Mar2025 21:16:27.075] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBaseSummonChance was corrected from null to its default, 0.1. 
-[01Mar2025 21:16:27.075] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.zombieBabyChance was corrected from null to its default, 0.05. 
-[01Mar2025 21:16:27.076] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.logCascadingWorldGeneration was corrected from null to its default, true. 
-[01Mar2025 21:16:27.077] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fixVanillaCascading was corrected from null to its default, false. 
-[01Mar2025 21:16:27.077] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.dimensionUnloadQueueDelay was corrected from null to its default, 0. 
-[01Mar2025 21:16:27.078] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.treatEmptyTagsAsAir was corrected from null to its default, false. 
-[01Mar2025 21:16:27.078] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key server.fixAdvancementLoading was corrected from null to its default, true. 
-[01Mar2025 21:16:27.103] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
-[01Mar2025 21:16:27.116] [Server thread/INFO] [Arclight/]: 注册了 1 个新的世界类型
-[01Mar2025 21:16:27.121] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world] --------
-[01Mar2025 21:16:27.121] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
-[01Mar2025 21:16:27.121] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
-[01Mar2025 21:16:27.122] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
-[01Mar2025 21:16:27.122] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
-[01Mar2025 21:16:27.123] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
-[01Mar2025 21:16:27.123] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
-[01Mar2025 21:16:27.123] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
-[01Mar2025 21:16:27.123] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
-[01Mar2025 21:16:27.124] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
-[01Mar2025 21:16:27.125] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
-[01Mar2025 21:16:27.125] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
-[01Mar2025 21:16:27.125] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
-[01Mar2025 21:16:27.125] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
-[01Mar2025 21:16:27.125] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
-[01Mar2025 21:16:27.126] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
-[01Mar2025 21:16:27.126] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
-[01Mar2025 21:16:27.127] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[01Mar2025 21:16:27.128] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[01Mar2025 21:16:27.129] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[01Mar2025 21:16:27.129] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
-[01Mar2025 21:16:27.129] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
-[01Mar2025 21:16:27.129] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
-[01Mar2025 21:16:27.130] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[01Mar2025 21:16:27.130] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
-[01Mar2025 21:16:27.131] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
-[01Mar2025 21:16:27.131] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[01Mar2025 21:16:27.132] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
-[01Mar2025 21:16:27.133] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[01Mar2025 21:16:27.133] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
-[01Mar2025 21:16:27.133] [Server thread/INFO] [Minecraft/]: View Distance: 10
-[01Mar2025 21:16:27.135] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
-[01Mar2025 21:16:27.335] [Server thread/ERROR] [Minecraft/]: Could not set generator for default world 'world': Plugin 'TerraformGenerator' does not exist
-[01Mar2025 21:16:32.667] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world] --------
-[01Mar2025 21:16:32.668] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
-[01Mar2025 21:16:32.668] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
-[01Mar2025 21:16:32.669] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
-[01Mar2025 21:16:32.669] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
-[01Mar2025 21:16:32.669] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
-[01Mar2025 21:16:32.670] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
-[01Mar2025 21:16:32.670] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
-[01Mar2025 21:16:32.670] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
-[01Mar2025 21:16:32.672] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
-[01Mar2025 21:16:32.672] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
-[01Mar2025 21:16:32.674] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
-[01Mar2025 21:16:32.674] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
-[01Mar2025 21:16:32.674] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
-[01Mar2025 21:16:32.675] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
-[01Mar2025 21:16:32.676] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
-[01Mar2025 21:16:32.682] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
-[01Mar2025 21:16:32.688] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[01Mar2025 21:16:32.689] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[01Mar2025 21:16:32.692] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[01Mar2025 21:16:32.693] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
-[01Mar2025 21:16:32.693] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
-[01Mar2025 21:16:32.694] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
-[01Mar2025 21:16:32.695] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[01Mar2025 21:16:32.696] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
-[01Mar2025 21:16:32.696] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
-[01Mar2025 21:16:32.697] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[01Mar2025 21:16:32.698] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
-[01Mar2025 21:16:32.699] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[01Mar2025 21:16:32.700] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
-[01Mar2025 21:16:32.702] [Server thread/INFO] [Minecraft/]: View Distance: 10
-[01Mar2025 21:16:32.703] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
-[01Mar2025 21:16:32.714] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world] --------
-[01Mar2025 21:16:32.720] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
-[01Mar2025 21:16:32.720] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
-[01Mar2025 21:16:32.721] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
-[01Mar2025 21:16:32.721] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
-[01Mar2025 21:16:32.722] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
-[01Mar2025 21:16:32.722] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
-[01Mar2025 21:16:32.722] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
-[01Mar2025 21:16:32.723] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
-[01Mar2025 21:16:32.723] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
-[01Mar2025 21:16:32.724] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
-[01Mar2025 21:16:32.724] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
-[01Mar2025 21:16:32.725] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
-[01Mar2025 21:16:32.725] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
-[01Mar2025 21:16:32.726] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
-[01Mar2025 21:16:32.726] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
-[01Mar2025 21:16:32.727] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
-[01Mar2025 21:16:32.727] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
-[01Mar2025 21:16:32.728] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
-[01Mar2025 21:16:32.728] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
-[01Mar2025 21:16:32.729] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
-[01Mar2025 21:16:32.730] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
-[01Mar2025 21:16:32.731] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
-[01Mar2025 21:16:32.731] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
-[01Mar2025 21:16:32.732] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
-[01Mar2025 21:16:32.732] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
-[01Mar2025 21:16:32.735] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
-[01Mar2025 21:16:32.735] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
-[01Mar2025 21:16:32.736] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
-[01Mar2025 21:16:32.736] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
-[01Mar2025 21:16:32.737] [Server thread/INFO] [Minecraft/]: View Distance: 10
-[01Mar2025 21:16:32.737] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
-[01Mar2025 21:16:32.767] [Server thread/INFO] [voicechat/]: Enabling voicechat v2.5.28
-[01Mar2025 21:16:32.792] [Server thread/INFO] [voicechat/]: Initializing compatibility for Bukkit version 1.16.5-R0.1
-[01Mar2025 21:16:32.794] [Server thread/INFO] [voicechat/]: Compatibility version 18
-[01Mar2025 21:16:32.942] [Server thread/WARN] [voicechat/]: Failed to initialize commodore command completion
-java.lang.IllegalStateException: Could not find any of the following classes: ArgumentEntity
-	at de.maxhenkel.voicechat.compatibility.Compatibility.getBukkitClass(Compatibility.java:142) ~[?:?]
-	at de.maxhenkel.voicechat.compatibility.Compatibility1_16.playerArgument(Compatibility1_16.java:38) ~[?:?]
-	at de.maxhenkel.voicechat.integration.commodore.CommodoreCommands.playerArgument(CommodoreCommands.java:28) ~[?:?]
-	at de.maxhenkel.voicechat.integration.commodore.CommodoreCommands.registerCompletions(CommodoreCommands.java:16) ~[?:?]
-	at de.maxhenkel.voicechat.Voicechat.onEnable(Voicechat.java:91) ~[?:?]
-	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPluginMixin.java:263) ~[arclight:arclight-1.16.5-1.0.25-7cf92be3]
-	at org.bukkit.plugin.java.JavaPluginLoader.enablePlugin(JavaPluginLoaderMixin.java:342) ~[arclight:arclight-1.16.5-1.0.25-7cf92be3]
-	at org.bukkit.plugin.SimplePluginManager.enablePlugin(SimplePluginManager.java:480) ~[arclight:arclight-1.16.5-1.0.25-7cf92be3]
-	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.enablePlugin(CraftServerMixin.java:492) ~[arclight:arclight-1.16.5-1.0.25-7cf92be3]
-	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.enablePlugins(CraftServerMixin.java:406) ~[arclight:arclight-1.16.5-1.0.25-7cf92be3]
-	at net.minecraft.server.MinecraftServer.handler$zpo000$arclight$enablePlugins(MinecraftServerMixin.java:1995) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_240787_a_(MinecraftServerMixin.java:382) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_240800_l__(MinecraftServerMixin.java:308) ~[?:?]
-	at net.minecraft.server.dedicated.DedicatedServer.func_71197_b(DedicatedServerMixin.java:168) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServerMixin.java:1879) ~[?:?]
-	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServerMixin.java:232) ~[?:?]
-	at java.lang.Thread.run(Thread.java:829) [?:?]
-[01Mar2025 21:16:32.948] [Server thread/INFO] [AnimationsCore/]: Enabling AnimationsCore v0.1-SNAPSHOT
-[01Mar2025 21:16:33.171] [Server thread/INFO] [Essentials/]: Enabling Essentials v2.21.0-dev+183-b5748eb
-[01Mar2025 21:16:33.630] [Server thread/ERROR] [Essentials/]: You are running a server that does not properly support Bukkit plugins. Bukkit plugins should not be used with Forge/Fabric mods! For Forge: Consider using ForgeEssentials, or SpongeForge + Nucleus.
-[01Mar2025 21:16:33.653] [Server thread/INFO] [Essentials/]: Status determining class: net.minecraftforge.common.MinecraftForge
-[01Mar2025 21:16:33.863] [Server thread/INFO] [Essentials/]: Attempting to convert old kits in config.yml to new kits.yml
-[01Mar2025 21:16:33.876] [Server thread/INFO] [Essentials/]: No kits found to migrate.
-[01Mar2025 21:16:33.946] [Server thread/INFO] [Essentials/]: Selected Legacy Damage Event Provider as the provider for DamageEventProvider
-[01Mar2025 21:16:33.951] [Server thread/INFO] [Essentials/]: Selected Fixed Height World Info Provider as the provider for WorldInfoProvider
-[01Mar2025 21:16:33.952] [Server thread/INFO] [Essentials/]: Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
-[01Mar2025 21:16:33.954] [Server thread/INFO] [Essentials/]: Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
-[01Mar2025 21:16:33.955] [Server thread/INFO] [Essentials/]: Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
-[01Mar2025 21:16:33.958] [Server thread/INFO] [Essentials/]: No provider found for ContainerProvider, but it is nullable
-[01Mar2025 21:16:33.969] [Server thread/INFO] [Essentials/]: Selected Bukkit Material Tag Provider as the provider for MaterialTagProvider
-[01Mar2025 21:16:33.977] [Server thread/INFO] [Essentials/]: No provider found for BiomeKeyProvider, but it is nullable
-[01Mar2025 21:16:33.983] [Server thread/INFO] [Essentials/]: Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
-[01Mar2025 21:16:33.985] [Server thread/INFO] [Essentials/]: No provider found for TickCountProvider, but it is nullable
-[01Mar2025 21:16:33.985] [Server thread/INFO] [Essentials/]: No provider found for SerializationProvider, but it is nullable
-[01Mar2025 21:16:33.986] [Server thread/INFO] [Essentials/]: Selected Reflection Sync Commands Provider as the provider for SyncCommandsProvider
-[01Mar2025 21:16:33.987] [Server thread/INFO] [Essentials/]: Selected Legacy InventoryView Abstract Class ABI Provider as the provider for InventoryViewProvider
-[01Mar2025 21:16:33.988] [Server thread/INFO] [Essentials/]: Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
-[01Mar2025 21:16:33.993] [Server thread/INFO] [Essentials/]: Selected 1.9-1.20.4 Potion Meta Provider as the provider for PotionMetaProvider
-[01Mar2025 21:16:33.994] [Server thread/INFO] [Essentials/]: Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
-[01Mar2025 21:16:33.998] [Server thread/INFO] [Essentials/]: Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
-[01Mar2025 21:16:34.009] [Server thread/INFO] [Essentials/]: Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
-[01Mar2025 21:16:34.010] [Server thread/INFO] [Essentials/]: Selected Reflection Server State Provider as the provider for ServerStateProvider
-[01Mar2025 21:16:34.013] [Server thread/INFO] [Essentials/]: Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
-[01Mar2025 21:16:34.014] [Server thread/INFO] [Essentials/]: Selected Reflection Known Commands Provider as the provider for KnownCommandsProvider
-[01Mar2025 21:16:34.014] [Server thread/INFO] [Essentials/]: Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
-[01Mar2025 21:16:34.291] [Server thread/INFO] [Essentials/]: Loaded 43465 items from items.json.
-[01Mar2025 21:16:34.302] [Server thread/INFO] [Essentials/]: Using locale en
-[01Mar2025 21:16:34.414] [Server thread/INFO] [Essentials/]: ServerListPingEvent: Spigot iterator API
-[01Mar2025 21:16:34.939] [Server thread/INFO] [Essentials/]: Starting Metrics. Opt-out using the global bStats config.
-[01Mar2025 21:16:34.948] [Server thread/INFO] [Essentials/]: Using superperms-based permissions.
-[01Mar2025 21:16:34.949] [Server thread/INFO] [TAB/]: Enabling TAB v4.1.6
-[01Mar2025 21:16:35.783] [Server thread/INFO] [Console/]: [TAB] Loaded NMS hook in 741ms
-[01Mar2025 21:16:36.334] [Server thread/INFO] [Console/]: [TAB] Enabled in 468ms
-[01Mar2025 21:16:36.343] [Server thread/INFO] [AutoUpdatePlugins/]: Enabling AutoUpdatePlugins v11.5
-[01Mar2025 21:16:36.366] [Server thread/INFO] [OnePlayerSleep/]: Enabling OnePlayerSleep v1.3
-[01Mar2025 21:16:36.377] [Server thread/INFO] [NBTAPI/]: Enabling NBTAPI v2.14.1
-[01Mar2025 21:16:36.378] [Server thread/INFO] [NBTAPI/]: Checking bindings...
-[01Mar2025 21:16:36.396] [Server thread/INFO] [NBTAPI/]: All Classes were able to link!
-[01Mar2025 21:16:36.538] [Server thread/INFO] [NBTAPI/]: All Methods were able to link!
-[01Mar2025 21:16:36.539] [Server thread/INFO] [NBTAPI/]: Running NBT reflection test...
-[01Mar2025 21:16:39.529] [Server thread/INFO] [NBTAPI/]: Success! This version of NBT-API is compatible with your server.
-[01Mar2025 21:16:39.534] [Server thread/INFO] [EssentialsSpawn/]: Enabling EssentialsSpawn v2.21.0-dev+183-b5748eb
-[01Mar2025 21:16:39.555] [Server thread/INFO] [EssentialsSpawn/]: Starting Metrics. Opt-out using the global bStats config.
-[01Mar2025 21:16:39.559] [Server thread/INFO] [Multiverse-Core/]: Enabling Multiverse-Core v4.3.14
-[01Mar2025 21:16:39.569] [Server thread/WARN] [Multiverse-Core/]: "Multiverse-Core v4.3.14" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
-[01Mar2025 21:16:39.582] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] We are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
-[01Mar2025 21:16:39.804] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] 3 - World(s) loaded.
-[01Mar2025 21:16:39.825] [Server thread/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[01Mar2025 21:16:39.930] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] Version 4.3.14 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
-[01Mar2025 21:16:39.940] [Server thread/INFO] [BetterRevive/]: Enabling BetterRevive v0.9.1-BETA
-[01Mar2025 21:16:39.964] [Server thread/INFO] [Console/]: [BetterRevive] Inventory title with support for more than 32 characters. Skipping..
-[01Mar2025 21:16:39.981] [Server thread/INFO] [Console/]: [BetterRevive] Hex colors are available! Ready for RGB..
-[01Mar2025 21:16:39.991] [Server thread/INFO] [Console/]: [BetterRevive] Old constructor for HoverEvent found! Using it..
-[01Mar2025 21:16:39.993] [Server thread/INFO] [Console/]: [BetterRevive] New sendTitle method found! Using it..
-[01Mar2025 21:16:39.993] [Server thread/INFO] [Console/]: [BetterRevive] New setUnbreakable method found! Using it..
-[01Mar2025 21:16:39.994] [Server thread/INFO] [Console/]: [BetterRevive] New isUnbreakable method found! Using it..
-[01Mar2025 21:16:40.068] [Server thread/INFO] [Console/]:   ___      _   _           ___         _         
-[01Mar2025 21:16:40.069] [Server thread/INFO] [Console/]:  | _ ) ___| |_| |_ ___ _ _| _ \_____ _(_)_ _____ 
-[01Mar2025 21:16:40.069] [Server thread/INFO] [Console/]:  | _ \/ -_)  _|  _/ -_) '_|   / -_) V / \ V / -_)
-[01Mar2025 21:16:40.070] [Server thread/INFO] [Console/]:  |___/\___|\__|\__\___|_| |_|_\___|\_/|_|\_/\___|
-[01Mar2025 21:16:40.070] [Server thread/INFO] [Console/]: 
-[01Mar2025 21:16:40.070] [Server thread/INFO] [Console/]:    Running plugin BetterRevive v0.9.1-BETA (v1_16)
-[01Mar2025 21:16:40.071] [Server thread/INFO] [Console/]:    Server running Arclight version arclight-1.16.5-1.0.25-7cf92be3 (MC: 1.16.5)
-[01Mar2025 21:16:40.071] [Server thread/INFO] [Console/]:    (Implementing API version arclight-1.16.5-1.0.25-7cf92be3 (MC: 1.16.5))
-[01Mar2025 21:16:40.072] [Server thread/INFO] [Console/]:    (Developed by  AlonsoAliaga - Thanks for using my plugin ❤)
-[01Mar2025 21:16:40.072] [Server thread/INFO] [Console/]:    If you loved the plugin consider leaving a review and mentioning your server IP in it!
-[01Mar2025 21:16:40.072] [Server thread/INFO] [Console/]: 
-[01Mar2025 21:16:40.073] [Server thread/INFO] [Console/]: ==============================================================================================
-[01Mar2025 21:16:40.073] [Server thread/INFO] [Console/]: [BetterRevive] You are using a Spigot or a Spigot fork (Arclight), plugin should work fine!
-[01Mar2025 21:16:40.074] [Server thread/INFO] [Console/]: [BetterRevive] If you have issues, join us on our official support server on alonsoaliaga.com/discord
-[01Mar2025 21:16:40.074] [Server thread/INFO] [Console/]: ==============================================================================================
-[01Mar2025 21:16:40.074] [Server thread/INFO] [Console/]: 
-[01Mar2025 21:16:40.083] [Server thread/INFO] [Console/]: [BetterRevive] BungeeCord action bar available. Hooking..
-[01Mar2025 21:16:40.084] [Server thread/INFO] [Console/]: [BetterRevive] ProtocolLib found! Checking..
-[01Mar2025 21:16:40.098] [Server thread/INFO] [Console/]: [Auto-update] Configuration config.yml is up-to-date!
-[01Mar2025 21:16:40.100] [Server thread/INFO] [Console/]: [BetterRevive] Factions hook is enabled but couldn't find any supported faction plugin were found. Disabling hook..
-[01Mar2025 21:16:40.101] [Server thread/INFO] [Console/]: [BetterRevive] Finish off feature has been enabled! Players can finish off other player!
-[01Mar2025 21:16:40.101] [Server thread/INFO] [Console/]: [BetterRevive] Finish off health: 20 | Finish off damage multiplier: 0.5
-[01Mar2025 21:16:40.102] [Server thread/INFO] [Console/]: [BetterRevive] DamageCause for finish off is empty! All damage cause will be allowed to finish off players. (Includes DROWING, FIRE, LAVA, etc)
-[01Mar2025 21:16:40.102] [Server thread/INFO] [Console/]: [BetterRevive] Bleeding mode is 0! Plugin will select the best option for your server!
-[01Mar2025 21:16:40.103] [Server thread/INFO] [Console/]: [BetterRevive] Server version is v1_16. Players will look like swimming while bleeding! (Mode 2)
-[01Mar2025 21:16:40.105] [Server thread/INFO] [Console/]: [BetterRevive] Loaded 1 bleeding effects.
-[01Mar2025 21:16:40.105] [Server thread/INFO] [Console/]: [BetterRevive] Loaded 1 revived effect.
-[01Mar2025 21:16:40.158] [Server thread/INFO] [YamipaPlugin/]: Enabling YamipaPlugin v1.3.2
-[01Mar2025 21:16:40.224] [Server thread/INFO] [YamipaPlugin/]: Enabled image animation support
-[01Mar2025 21:16:40.227] [Server thread/INFO] [YamipaPlugin/]: [ImageRenderer] No placed fake images configuration file found
-[01Mar2025 21:16:40.250] [Thread-12/WARN] [YamipaPlugin/]: [FileSystemWatcher] Device does not support inotify, detection of file changes will be slower
-[01Mar2025 21:16:40.307] [Server thread/INFO] [Images/]: Enabling Images v2.5.3
-[01Mar2025 21:16:40.311] [Server thread/INFO] [Images/]: ProtocolLib detected. Enabling generic packet handling...
-[01Mar2025 21:16:40.438] [Server thread/INFO] [Graves/]: Enabling Graves v4.9
-[01Mar2025 21:16:40.446] [Server thread/INFO] [Graves/]: Integration: Hooked into ProtocolLib 5.3.0.
-[01Mar2025 21:16:40.451] [Server thread/INFO] [Graves/]: Compatibility: Essentials Detected, make sure you don't have the essentials.keepinv or essentials.keepxp permissions.
-[01Mar2025 21:16:40.696] [Server thread/INFO] [ConditionalEvents/]: Enabling ConditionalEvents v4.60.2
-[01Mar2025 21:16:40.936] [Server thread/INFO] [Console/]: [ConditionalEvents] Has been enabled! Version: 4.60.2
-[01Mar2025 21:16:40.936] [Server thread/INFO] [Console/]: [ConditionalEvents] Thanks for using my plugin!   ~Ajneb97
-[01Mar2025 21:16:41.042] [Server thread/INFO] [Minecraft/]: Server permissions file permissions.yml is empty, ignoring it
-[01Mar2025 21:16:41.134] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
-[01Mar2025 21:16:41.348] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[01Mar2025 21:16:41.635] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[01Mar2025 21:16:42.135] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
-[01Mar2025 21:16:42.639] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 1%
-[01Mar2025 21:16:43.136] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 5%
-[01Mar2025 21:16:43.641] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 9%
-[01Mar2025 21:16:44.139] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 10%
-[01Mar2025 21:16:44.638] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 13%
-[01Mar2025 21:16:45.135] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 15%
-[01Mar2025 21:16:45.646] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 22%
-[01Mar2025 21:16:46.136] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 25%
-[01Mar2025 21:16:46.638] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 26%
-[01Mar2025 21:16:47.136] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 29%
-[01Mar2025 21:16:47.637] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 36%
-[01Mar2025 21:16:48.139] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 39%
-[01Mar2025 21:16:48.634] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 48%
-[01Mar2025 21:16:49.136] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 52%
-[01Mar2025 21:16:49.635] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 58%
-[01Mar2025 21:16:50.135] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 66%
-[01Mar2025 21:16:50.635] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 74%
-[01Mar2025 21:16:51.136] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 87%
-[01Mar2025 21:16:51.637] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 98%
-[01Mar2025 21:16:52.134] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 100%
-[01Mar2025 21:16:52.635] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 100%
-[01Mar2025 21:16:53.136] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 100%
-[01Mar2025 21:16:53.634] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 100%
-[01Mar2025 21:16:54.135] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 100%
-[01Mar2025 21:16:54.634] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 100%
-[01Mar2025 21:16:55.134] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 100%
-[01Mar2025 21:16:55.634] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 100%
-[01Mar2025 21:16:56.135] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 100%
-[01Mar2025 21:16:56.635] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 100%
-[01Mar2025 21:16:57.134] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 100%
-[01Mar2025 21:16:57.635] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 100%
-[01Mar2025 21:16:58.139] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 100%
-[01Mar2025 21:16:58.637] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 100%
-[01Mar2025 21:16:59.136] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 100%
-[01Mar2025 21:16:59.634] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 100%
-[01Mar2025 21:17:00.177] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 100%
-[01Mar2025 21:17:00.635] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 100%
-[01Mar2025 21:17:01.298] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 100%
-[01Mar2025 21:17:01.684] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 100%
-[01Mar2025 21:17:02.134] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 100%
-[01Mar2025 21:17:02.688] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 100%
-[01Mar2025 21:17:03.173] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 100%
-[01Mar2025 21:17:03.645] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 100%
-[01Mar2025 21:17:03.939] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 22805 ms
-[01Mar2025 21:17:03.940] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (36.902s)! For help, type "help"
-[01Mar2025 21:17:03.958] [Server thread/INFO] [voicechat/]: Loading plugins
-[01Mar2025 21:17:03.958] [Server thread/INFO] [voicechat/]: Loaded 0 plugin(s)
-[01Mar2025 21:17:03.958] [Server thread/INFO] [voicechat/]: Initializing plugins
-[01Mar2025 21:17:03.959] [Server thread/INFO] [voicechat/]: Initialized 0 plugin(s)
-[01Mar2025 21:17:03.960] [Server thread/WARN] [voicechat/]: Running in offline mode - Voice chat encryption is not secure!
-[01Mar2025 21:17:03.992] [VoiceChatServerThread/INFO] [voicechat/]: Voice chat server started at port 24454
-[01Mar2025 21:17:04.009] [Craft Scheduler Thread - 0/INFO] [Essentials/]: Fetching version information...
-[01Mar2025 21:17:04.056] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-[01Mar2025 21:17:04.057] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
-[01Mar2025 21:17:04.057] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
-[01Mar2025 21:17:04.058] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
-[01Mar2025 21:17:04.058] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
-[01Mar2025 21:17:04.058] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
-[01Mar2025 21:17:04.059] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-[01Mar2025 21:17:04.059] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.5.3[0;39m
-[01Mar2025 21:17:04.059] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1m86e796c[0;39m
-[01Mar2025 21:17:04.060] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
-[01Mar2025 21:17:04.060] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
-[01Mar2025 21:17:04.061] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
-[01Mar2025 21:17:04.061] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
-[01Mar2025 21:17:04.179] [Craft Scheduler Thread - 0/WARN] [Essentials/]: You're 2 EssentialsX dev build(s) out of date!
-[01Mar2025 21:17:04.180] [Craft Scheduler Thread - 0/WARN] [Essentials/]: Download it here: https://essentialsx.net/downloads.html
-[01Mar2025 21:17:04.407] [Craft Scheduler Thread - 0/INFO] [Console/]: [BetterRevive] Checking for updates...
-[01Mar2025 21:17:04.408] [Craft Scheduler Thread - 0/INFO] [Console/]: [BetterRevive] Plugin up-to-date! You have the latest version!
-[01Mar2025 21:17:05.846] [Craft Scheduler Thread - 2/INFO] [Images/]: Loaded 0 images...
-[01Mar2025 21:17:19.549] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
-[01Mar2025 21:17:19.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
-[01Mar2025 21:17:19.595] [Server thread/INFO] [ConditionalEvents/]: Disabling ConditionalEvents v4.60.2
-[01Mar2025 21:17:19.597] [Server thread/INFO] [Console/]: [ConditionalEvents] Has been disabled! Version: 4.60.2
-[01Mar2025 21:17:19.599] [Server thread/INFO] [Graves/]: Disabling Graves v4.9
-[01Mar2025 21:17:19.607] [Server thread/INFO] [Images/]: Disabling Images v2.5.3
-[01Mar2025 21:17:19.609] [Server thread/INFO] [YamipaPlugin/]: Disabling YamipaPlugin v1.3.2
-[01Mar2025 21:17:19.613] [Server thread/INFO] [BetterRevive/]: Disabling BetterRevive v0.9.1-BETA
-[01Mar2025 21:17:19.614] [Server thread/INFO] [Console/]:  
-[01Mar2025 21:17:19.614] [Server thread/INFO] [Console/]: [BetterRevive] Plugin has been disabled!
-[01Mar2025 21:17:19.614] [Server thread/INFO] [Console/]: [BetterRevive] Thank you for using my plugin!
-[01Mar2025 21:17:19.614] [Server thread/INFO] [Console/]:  
-[01Mar2025 21:17:19.615] [Server thread/INFO] [SkinsRestorer/]: Disabling SkinsRestorer v15.5.3
-[01Mar2025 21:17:19.619] [Server thread/INFO] [Multiverse-Core/]: Disabling Multiverse-Core v4.3.14
-[01Mar2025 21:17:19.624] [Server thread/INFO] [ProtocolLib/]: Disabling ProtocolLib v5.3.0
-[01Mar2025 21:17:19.626] [Server thread/INFO] [EssentialsSpawn/]: Disabling EssentialsSpawn v2.21.0-dev+183-b5748eb
-[01Mar2025 21:17:19.627] [Server thread/INFO] [NBTAPI/]: Disabling NBTAPI v2.14.1
-[01Mar2025 21:17:19.628] [Server thread/INFO] [OnePlayerSleep/]: Disabling OnePlayerSleep v1.3
-[01Mar2025 21:17:19.629] [Server thread/INFO] [AutoUpdatePlugins/]: Disabling AutoUpdatePlugins v11.5
-[01Mar2025 21:17:19.630] [Server thread/INFO] [TAB/]: Disabling TAB v4.1.6
-[01Mar2025 21:17:19.631] [Server thread/INFO] [Console/]: [TAB] Disabled in 0ms
-[01Mar2025 21:17:19.632] [Server thread/INFO] [Essentials/]: Disabling Essentials v2.21.0-dev+183-b5748eb
-[01Mar2025 21:17:19.634] [Server thread/INFO] [AnimationsCore/]: Disabling AnimationsCore v0.1-SNAPSHOT
-[01Mar2025 21:17:19.637] [Server thread/INFO] [voicechat/]: Disabling voicechat v2.5.28
-[01Mar2025 21:17:19.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
-[01Mar2025 21:17:19.639] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
-[01Mar2025 21:17:19.640] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[01Mar2025 21:17:20.923] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01Mar2025 21:17:20.935] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/DIM-1]'/minecraft:the_nether
-[01Mar2025 21:17:21.991] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01Mar2025 21:17:21.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/DIM1]'/minecraft:the_end
-[01Mar2025 21:17:22.724] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01Mar2025 21:17:22.727] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[01Mar2025 21:17:22.734] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[01Mar2025 21:17:22.737] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[01Mar2025 21:17:27.745] [Exit Thread/WARN] [Arclight/]: 8 threads not shutting down correctly, force exiting
+[02Mar2025 14:53:22.902] [Server thread/INFO] [AnimationsCore/]: Loading AnimationsCore v0.1-SNAPSHOT
+[02Mar2025 14:53:22.903] [Server thread/INFO] [Essentials/]: Loading Essentials v2.21.0-dev+183-b5748eb
+[02Mar2025 14:53:22.918] [Server thread/INFO] [TAB/]: Loading TAB v4.1.6
+[02Mar2025 14:53:22.919] [Server thread/INFO] [AutoUpdatePlugins/]: Loading AutoUpdatePlugins v11.5
+[02Mar2025 14:53:22.920] [Server thread/INFO] [OnePlayerSleep/]: Loading OnePlayerSleep v1.3
+[02Mar2025 14:53:22.921] [Server thread/INFO] [NBTAPI/]: Loading NBTAPI v2.14.1
+[02Mar2025 14:53:22.955] [Server thread/INFO] [NBTAPI/]: [NBTAPI] Found Minecraft: v1_16_R3! Trying to find NMS support
+[02Mar2025 14:53:22.957] [Server thread/INFO] [NBTAPI/]: [NBTAPI] NMS support 'MC1_16_R3' loaded!
+[02Mar2025 14:53:22.963] [Server thread/INFO] [NBTAPI/]: [NBTAPI] Using the plugin 'NBTAPI' to create a bStats instance!
+[02Mar2025 14:53:23.038] [Server thread/INFO] [EssentialsSpawn/]: Loading EssentialsSpawn v2.21.0-dev+183-b5748eb
+[02Mar2025 14:53:23.049] [Server thread/INFO] [ProtocolLib/]: Loading ProtocolLib v5.3.0
+[02Mar2025 14:53:23.279] [Thread-8/INFO] [NBTAPI/]: [NBTAPI] The NBT-API seems to be up-to-date!
+[02Mar2025 14:53:24.104] [Server thread/INFO] [Multiverse-Core/]: Loading Multiverse-Core v4.3.14
+[02Mar2025 14:53:24.197] [Server thread/INFO] [SkinsRestorer/]: Loading SkinsRestorer v15.5.3
+[02Mar2025 14:53:24.197] [Server thread/INFO] [BetterRevive/]: Loading BetterRevive v0.9.1-BETA
+[02Mar2025 14:53:24.198] [Server thread/INFO] [YamipaPlugin/]: Loading YamipaPlugin v1.3.2
+[02Mar2025 14:53:24.199] [Server thread/INFO] [Images/]: Loading Images v2.5.3
+[02Mar2025 14:53:24.287] [Server thread/INFO] [Graves/]: Loading Graves v4.9
+[02Mar2025 14:53:24.457] [Server thread/INFO] [ConditionalEvents/]: Loading ConditionalEvents v4.60.2
+[02Mar2025 14:53:24.461] [Server thread/INFO] [ProtocolLib/]: Enabling ProtocolLib v5.3.0
+[02Mar2025 14:53:24.616] [Server thread/INFO] [SkinsRestorer/]: Enabling SkinsRestorer v15.5.3
+[02Mar2025 14:53:26.643] [Server thread/WARN] [Minecraft/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1mYou must agree to the rules at 'commands.perSkinPermissionsConsent' in the config to use per skin permissions.[0;39m
+[02Mar2025 14:53:27.567] [Server thread/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1mRunning on Minecraft [33;1m1.16.5[32;1m.[0;39m
+[02Mar2025 14:53:29.242] [Server thread/WARN] [Minecraft/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou are running an outdated Java version, please update it to at least Java 21 (your version is 11).[0;39m
+[02Mar2025 14:53:29.243] [Server thread/WARN] [Minecraft/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mSkinsRestorer no longer officially supports this version of Java, you are currently using an unsupported compatibility build.[0;39m
+[02Mar2025 14:53:29.244] [Server thread/WARN] [Minecraft/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[33;1m[33;1mYou can still use the plugin, but you may encounter issues that are not present in newer versions of Java.[0;39m
+[02Mar2025 14:53:29.281] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/carryon-server.toml is not correct. Correcting
+[02Mar2025 14:53:29.282] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings was corrected from null to its default, SimpleCommentedConfig:{}. 
+[02Mar2025 14:53:29.282] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.maxDistance was corrected from null to its default, 2.5. 
+[02Mar2025 14:53:29.283] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.maxEntityWidth was corrected from null to its default, 1.5. 
+[02Mar2025 14:53:29.283] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.maxEntityHeight was corrected from null to its default, 1.5. 
+[02Mar2025 14:53:29.284] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.blockSlownessMultiplier was corrected from null to its default, 1.0. 
+[02Mar2025 14:53:29.284] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.entitySlownessMultiplier was corrected from null to its default, 1.0. 
+[02Mar2025 14:53:29.285] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.maxEntityStackLimit was corrected from null to its default, 10. 
+[02Mar2025 14:53:29.285] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.heavyTiles was corrected from null to its default, true. 
+[02Mar2025 14:53:29.286] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.pickupAllBlocks was corrected from null to its default, false. 
+[02Mar2025 14:53:29.286] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.slownessInCreative was corrected from null to its default, true. 
+[02Mar2025 14:53:29.287] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.pickupHostileMobs was corrected from null to its default, false. 
+[02Mar2025 14:53:29.289] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.heavyEntities was corrected from null to its default, true. 
+[02Mar2025 14:53:29.289] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.allowBabies was corrected from null to its default, false. 
+[02Mar2025 14:53:29.290] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.useWhitelistBlocks was corrected from null to its default, false. 
+[02Mar2025 14:53:29.290] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.useWhitelistEntities was corrected from null to its default, false. 
+[02Mar2025 14:53:29.291] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.useWhitelistStacking was corrected from null to its default, false. 
+[02Mar2025 14:53:29.291] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.hitWhileCarrying was corrected from null to its default, false. 
+[02Mar2025 14:53:29.292] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.dropCarriedWhenHit was corrected from null to its default, false. 
+[02Mar2025 14:53:29.304] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.useScripts was corrected from null to its default, false. 
+[02Mar2025 14:53:29.305] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key settings.stackableEntities was corrected from null to its default, true. 
+[02Mar2025 14:53:29.307] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key blacklist was corrected from null to its default, SimpleCommentedConfig:{}. 
+[02Mar2025 14:53:29.308] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key blacklist.forbiddenTiles was corrected from null to its default, [#forge:immovable, #forge:relocation_not_supported, minecraft:end_portal, minecraft:end_gateway, minecraft:tall_grass, minecraft:large_fern, minecraft:peony, minecraft:rose_bush, minecraft:lilac, minecraft:sunflower, minecraft:*_bed, minecraft:oak_door, minecraft:iron_door, minecraft:spruce_door, minecraft:birch_door, minecraft:jungle_door, minecraft:acacia_door, minecraft:dark_oak_door, minecraft:waterlily, minecraft:cake, minecraft:nether_portal, minecraft:tall_seagrass, animania:block_trough, animania:block_invisiblock, colossalchests:*, ic2:*, bigreactors:*, forestry:*, tconstruct:*, rustic:*, botania:*, astralsorcery:*, quark:colored_bed_*, immersiveengineering:*, embers:block_furnace, embers:ember_bore, embers:ember_activator, embers:mixer, embers:heat_coil, embers:large_tank, embers:crystal_cell, embers:alchemy_pedestal, embers:boiler, embers:combustor, embers:catalzyer, embers:field_chart, embers:inferno_forge, storagedrawers:framingtable, skyresources:*, lootbags:*, exsartagine:*, aquamunda:tank, opencomputers:*, malisisdoors:*, industrialforegoing:*, minecolonies:*, thaumcraft:pillar*, thaumcraft:infernal_furnace, thaumcraft:placeholder*, thaumcraft:infusion_matrix, thaumcraft:golem_builder, thaumcraft:thaumatorium*, magneticraft:oil_heater, magneticraft:solar_panel, magneticraft:steam_engine, magneticraft:shelving_unit, magneticraft:grinder, magneticraft:sieve, magneticraft:solar_tower, magneticraft:solar_mirror, magneticraft:container, magneticraft:pumpjack, magneticraft:solar_panel, magneticraft:refinery, magneticraft:oil_heater, magneticraft:hydraulic_press, magneticraft:multiblock_gap, refinedstorage:*, mcmultipart:*, enderstorage:*, betterstorage:*, practicallogistics2:*, wearablebackpacks:*, rftools:screen, rftools:creative_screen, create:*, magic_doorknob:*, iceandfire:*, ftbquests:*, waystones:*, framedblocks:*, securitycraft:*, forgemultipartcbe:*, integrateddynamics:cable, tanknull:*]. 
+[02Mar2025 14:53:29.309] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key blacklist.forbiddenEntities was corrected from null to its default, [minecraft:end_crystal, minecraft:ender_dragon, minecraft:ghast, minecraft:shulker, minecraft:leash_knot, minecraft:armor_stand, minecraft:item_frame, minecraft:painting, minecraft:shulker_bullet, animania:hamster, animania:ferret*, animania:hedgehog*, animania:cart, animania:wagon, mynko:*, pixelmon:*, mocreatures:*, quark:totem, vehicle:*, securitycraft:*, taterzens:npc, easy_npc:*, minecolonies:*]. 
+[02Mar2025 14:53:29.313] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key blacklist.forbiddenStacking was corrected from null to its default, [minecraft:horse]. 
+[02Mar2025 14:53:29.314] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key whitelist was corrected from null to its default, SimpleCommentedConfig:{}. 
+[02Mar2025 14:53:29.315] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key whitelist.allowedEntities was corrected from null to its default, []. 
+[02Mar2025 14:53:29.316] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key whitelist.allowedBlocks was corrected from null to its default, []. 
+[02Mar2025 14:53:29.317] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key whitelist.allowedStacking was corrected from null to its default, []. 
+[02Mar2025 14:53:29.321] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key custom_pickup_conditions was corrected from null to its default, SimpleCommentedConfig:{}. 
+[02Mar2025 14:53:29.323] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key custom_pickup_conditions.customPickupConditionsBlocks was corrected from null to its default, []. 
+[02Mar2025 14:53:29.323] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key custom_pickup_conditions.customPickupConditionsEntities was corrected from null to its default, []. 
+[02Mar2025 14:53:29.326] [Thread-0/INFO] [STDOUT/]: [tschipp.carryon.common.handler.ListHandler:initConfigLists:282]: [minecraft:soul_fire_base_blocks, forge:glass/gray, minecraft:campfires, forge:storage_blocks, forge:glass_panes/magenta, minecraft:infiniburn_nether, forge:glass_panes/orange, forge:glass/light_gray, forge:ores/quartz, minecraft:wooden_slabs, forge:glass/blue, minecraft:small_flowers, minecraft:wooden_trapdoors, forge:storage_blocks/netherite, forge:storage_blocks/coal, forge:glass_panes/white, forge:glass_panes/black, forge:glass/light_blue, forge:gravel, forge:glass_panes/cyan, jade:pick, forge:storage_blocks/redstone, paraglider:statues, forge:glass_panes/light_gray, minecraft:wool, forge:glass/colorless, forge:glass_panes/blue, minecraft:stairs, minecraft:logs, forge:glass_panes/light_blue, minecraft:beehives, minecraft:ice, forge:ores/netherite_scrap, minecraft:dragon_immune, minecraft:crops, forge:stained_glass, forge:glass/pink, forge:chests, forge:storage_blocks/emerald, forge:stone, forge:ores/redstone, minecraft:valid_spawn, minecraft:mushroom_grow_block, minecraft:wooden_doors, minecraft:warped_stems, minecraft:standing_signs, forge:glass/red, minecraft:infiniburn_end, forge:glass_panes/yellow, forge:glass/purple, forge:storage_blocks/iron, forge:glass_panes/brown, minecraft:crimson_stems, forge:glass_panes/green, carryon:block_blacklist, minecraft:prevent_mob_spawning_inside, minecraft:wart_blocks, minecraft:climbable, forge:chests/trapped, forge:fence_gates, minecraft:dark_oak_logs, minecraft:coral_plants, forge:glass_panes, minecraft:non_flammable_wood, forge:sandstone, forge:glass_panes/colorless, minecraft:beacon_base_blocks, minecraft:shulker_boxes, minecraft:anvil, minecraft:birch_logs, paraglider:statues/goddess, forge:sand, minecraft:wall_corals, forge:glass_panes/purple, forge:glass/yellow, minecraft:fences, minecraft:saplings, forge:storage_blocks/lapis, forge:ores/copper, minecraft:beds, forge:ores/diamond, minecraft:oak_logs, minecraft:unstable_bottom_center, forge:ores/gold, minecraft:doors, minecraft:enderman_holdable, minecraft:banners, forge:barrels, minecraft:infiniburn_overworld, minecraft:flower_pots, minecraft:wooden_fences, minecraft:piglin_repellents, forge:ores/lapis, forge:glass/black, minecraft:wall_post_override, minecraft:portals, forge:obsidian, forge:enderman_place_on_blacklist, forge:dirt, minecraft:bamboo_plantable_on, forge:fences/nether_brick, forge:glass/lime, forge:chests/wooden, forge:ores/iron, minecraft:pressure_plates, minecraft:jungle_logs, forge:chests/ender, forge:glass/white, minecraft:wooden_stairs, minecraft:spruce_logs, forge:glass_panes/red, minecraft:signs, minecraft:carpets, minecraft:base_stone_overworld, minecraft:wooden_buttons, minecraft:wither_summon_base_blocks, forge:glass/magenta, forge:fence_gates/wooden, minecraft:stone_bricks, forge:ores/coal, minecraft:hoglin_repellents, forge:storage_blocks/quartz, minecraft:fire, forge:glass/orange, forge:glass_panes/lime, minecraft:base_stone_nether, minecraft:wall_signs, minecraft:slabs, carryon:block_whitelist, minecraft:guarded_by_piglins, forge:ores/emerald, forge:sand/colorless, minecraft:trapdoors, forge:glass/cyan, minecraft:corals, minecraft:buttons, minecraft:flowers, forge:glass, minecraft:planks, forge:cobblestone, minecraft:soul_speed_blocks, minecraft:rails, forge:barrels/wooden, minecraft:leaves, minecraft:walls, minecraft:coral_blocks, minecraft:strider_warm_blocks, forge:storage_blocks/gold, forge:glass/green, minecraft:fence_gates, forge:ores, forge:glass_panes/gray, minecraft:bee_growables, minecraft:wooden_pressure_plates, minecraft:wither_immune, minecraft:acacia_logs, minecraft:tall_flowers, forge:stained_glass_panes, minecraft:underwater_bonemeals, forge:fences, minecraft:stone_pressure_plates, forge:sand/red, forge:storage_blocks/diamond, minecraft:impermeable, minecraft:sand, minecraft:nylium, forge:end_stones, minecraft:gold_ores, forge:glass/brown, forge:glass_panes/pink, minecraft:logs_that_burn, forge:netherrack, forge:fences/wooden]
+[02Mar2025 14:53:29.328] [Server thread/INFO] [STDOUT/]: [tschipp.carryon.common.handler.ListHandler:initConfigLists:282]: [minecraft:soul_fire_base_blocks, forge:glass/gray, minecraft:campfires, forge:storage_blocks, forge:glass_panes/magenta, minecraft:infiniburn_nether, forge:glass_panes/orange, forge:glass/light_gray, forge:ores/quartz, minecraft:wooden_slabs, forge:glass/blue, minecraft:small_flowers, minecraft:wooden_trapdoors, forge:storage_blocks/netherite, forge:storage_blocks/coal, forge:glass_panes/white, forge:glass_panes/black, forge:glass/light_blue, forge:gravel, forge:glass_panes/cyan, jade:pick, forge:storage_blocks/redstone, paraglider:statues, forge:glass_panes/light_gray, minecraft:wool, forge:glass/colorless, forge:glass_panes/blue, minecraft:stairs, minecraft:logs, forge:glass_panes/light_blue, minecraft:beehives, minecraft:ice, forge:ores/netherite_scrap, minecraft:dragon_immune, minecraft:crops, forge:stained_glass, forge:glass/pink, forge:chests, forge:storage_blocks/emerald, forge:stone, forge:ores/redstone, minecraft:valid_spawn, minecraft:mushroom_grow_block, minecraft:wooden_doors, minecraft:warped_stems, minecraft:standing_signs, forge:glass/red, minecraft:infiniburn_end, forge:glass_panes/yellow, forge:glass/purple, forge:storage_blocks/iron, forge:glass_panes/brown, minecraft:crimson_stems, forge:glass_panes/green, carryon:block_blacklist, minecraft:prevent_mob_spawning_inside, minecraft:wart_blocks, minecraft:climbable, forge:chests/trapped, forge:fence_gates, minecraft:dark_oak_logs, minecraft:coral_plants, forge:glass_panes, minecraft:non_flammable_wood, forge:sandstone, forge:glass_panes/colorless, minecraft:beacon_base_blocks, minecraft:shulker_boxes, minecraft:anvil, minecraft:birch_logs, paraglider:statues/goddess, forge:sand, minecraft:wall_corals, forge:glass_panes/purple, forge:glass/yellow, minecraft:fences, minecraft:saplings, forge:storage_blocks/lapis, forge:ores/copper, minecraft:beds, forge:ores/diamond, minecraft:oak_logs, minecraft:unstable_bottom_center, forge:ores/gold, minecraft:doors, minecraft:enderman_holdable, minecraft:banners, forge:barrels, minecraft:infiniburn_overworld, minecraft:flower_pots, minecraft:wooden_fences, minecraft:piglin_repellents, forge:ores/lapis, forge:glass/black, minecraft:wall_post_override, minecraft:portals, forge:obsidian, forge:enderman_place_on_blacklist, forge:dirt, minecraft:bamboo_plantable_on, forge:fences/nether_brick, forge:glass/lime, forge:chests/wooden, forge:ores/iron, minecraft:pressure_plates, minecraft:jungle_logs, forge:chests/ender, forge:glass/white, minecraft:wooden_stairs, minecraft:spruce_logs, forge:glass_panes/red, minecraft:signs, minecraft:carpets, minecraft:base_stone_overworld, minecraft:wooden_buttons, minecraft:wither_summon_base_blocks, forge:glass/magenta, forge:fence_gates/wooden, minecraft:stone_bricks, forge:ores/coal, minecraft:hoglin_repellents, forge:storage_blocks/quartz, minecraft:fire, forge:glass/orange, forge:glass_panes/lime, minecraft:base_stone_nether, minecraft:wall_signs, minecraft:slabs, carryon:block_whitelist, minecraft:guarded_by_piglins, forge:ores/emerald, forge:sand/colorless, minecraft:trapdoors, forge:glass/cyan, minecraft:corals, minecraft:buttons, minecraft:flowers, forge:glass, minecraft:planks, forge:cobblestone, minecraft:soul_speed_blocks, minecraft:rails, forge:barrels/wooden, minecraft:leaves, minecraft:walls, minecraft:coral_blocks, minecraft:strider_warm_blocks, forge:storage_blocks/gold, forge:glass/green, minecraft:fence_gates, forge:ores, forge:glass_panes/gray, minecraft:bee_growables, minecraft:wooden_pressure_plates, minecraft:wither_immune, minecraft:acacia_logs, minecraft:tall_flowers, forge:stained_glass_panes, minecraft:underwater_bonemeals, forge:fences, minecraft:stone_pressure_plates, forge:sand/red, forge:storage_blocks/diamond, minecraft:impermeable, minecraft:sand, minecraft:nylium, forge:end_stones, minecraft:gold_ores, forge:glass/brown, forge:glass_panes/pink, minecraft:logs_that_burn, forge:netherrack, forge:fences/wooden]
+[02Mar2025 14:53:29.336] [Thread-0/INFO] [STDOUT/]: [tschipp.carryon.common.handler.ListHandler:initConfigLists:282]: [minecraft:soul_fire_base_blocks, forge:glass/gray, minecraft:campfires, forge:storage_blocks, forge:glass_panes/magenta, minecraft:infiniburn_nether, forge:glass_panes/orange, forge:glass/light_gray, forge:ores/quartz, minecraft:wooden_slabs, forge:glass/blue, minecraft:small_flowers, minecraft:wooden_trapdoors, forge:storage_blocks/netherite, forge:storage_blocks/coal, forge:glass_panes/white, forge:glass_panes/black, forge:glass/light_blue, forge:gravel, forge:glass_panes/cyan, jade:pick, forge:storage_blocks/redstone, paraglider:statues, forge:glass_panes/light_gray, minecraft:wool, forge:glass/colorless, forge:glass_panes/blue, minecraft:stairs, minecraft:logs, forge:glass_panes/light_blue, minecraft:beehives, minecraft:ice, forge:ores/netherite_scrap, minecraft:dragon_immune, minecraft:crops, forge:stained_glass, forge:glass/pink, forge:chests, forge:storage_blocks/emerald, forge:stone, forge:ores/redstone, minecraft:valid_spawn, minecraft:mushroom_grow_block, minecraft:wooden_doors, minecraft:warped_stems, minecraft:standing_signs, forge:glass/red, minecraft:infiniburn_end, forge:glass_panes/yellow, forge:glass/purple, forge:storage_blocks/iron, forge:glass_panes/brown, minecraft:crimson_stems, forge:glass_panes/green, carryon:block_blacklist, minecraft:prevent_mob_spawning_inside, minecraft:wart_blocks, minecraft:climbable, forge:chests/trapped, forge:fence_gates, minecraft:dark_oak_logs, minecraft:coral_plants, forge:glass_panes, minecraft:non_flammable_wood, forge:sandstone, forge:glass_panes/colorless, minecraft:beacon_base_blocks, minecraft:shulker_boxes, minecraft:anvil, minecraft:birch_logs, paraglider:statues/goddess, forge:sand, minecraft:wall_corals, forge:glass_panes/purple, forge:glass/yellow, minecraft:fences, minecraft:saplings, forge:storage_blocks/lapis, forge:ores/copper, minecraft:beds, forge:ores/diamond, minecraft:oak_logs, minecraft:unstable_bottom_center, forge:ores/gold, minecraft:doors, minecraft:enderman_holdable, minecraft:banners, forge:barrels, minecraft:infiniburn_overworld, minecraft:flower_pots, minecraft:wooden_fences, minecraft:piglin_repellents, forge:ores/lapis, forge:glass/black, minecraft:wall_post_override, minecraft:portals, forge:obsidian, forge:enderman_place_on_blacklist, forge:dirt, minecraft:bamboo_plantable_on, forge:fences/nether_brick, forge:glass/lime, forge:chests/wooden, forge:ores/iron, minecraft:pressure_plates, minecraft:jungle_logs, forge:chests/ender, forge:glass/white, minecraft:wooden_stairs, minecraft:spruce_logs, forge:glass_panes/red, minecraft:signs, minecraft:carpets, minecraft:base_stone_overworld, minecraft:wooden_buttons, minecraft:wither_summon_base_blocks, forge:glass/magenta, forge:fence_gates/wooden, minecraft:stone_bricks, forge:ores/coal, minecraft:hoglin_repellents, forge:storage_blocks/quartz, minecraft:fire, forge:glass/orange, forge:glass_panes/lime, minecraft:base_stone_nether, minecraft:wall_signs, minecraft:slabs, carryon:block_whitelist, minecraft:guarded_by_piglins, forge:ores/emerald, forge:sand/colorless, minecraft:trapdoors, forge:glass/cyan, minecraft:corals, minecraft:buttons, minecraft:flowers, forge:glass, minecraft:planks, forge:cobblestone, minecraft:soul_speed_blocks, minecraft:rails, forge:barrels/wooden, minecraft:leaves, minecraft:walls, minecraft:coral_blocks, minecraft:strider_warm_blocks, forge:storage_blocks/gold, forge:glass/green, minecraft:fence_gates, forge:ores, forge:glass_panes/gray, minecraft:bee_growables, minecraft:wooden_pressure_plates, minecraft:wither_immune, minecraft:acacia_logs, minecraft:tall_flowers, forge:stained_glass_panes, minecraft:underwater_bonemeals, forge:fences, minecraft:stone_pressure_plates, forge:sand/red, forge:storage_blocks/diamond, minecraft:impermeable, minecraft:sand, minecraft:nylium, forge:end_stones, minecraft:gold_ores, forge:glass/brown, forge:glass_panes/pink, minecraft:logs_that_burn, forge:netherrack, forge:fences/wooden]
+[02Mar2025 14:53:29.349] [Thread-0/INFO] [STDOUT/]: [tschipp.carryon.common.handler.ListHandler:initConfigLists:282]: [minecraft:soul_fire_base_blocks, forge:glass/gray, minecraft:campfires, forge:storage_blocks, forge:glass_panes/magenta, minecraft:infiniburn_nether, forge:glass_panes/orange, forge:glass/light_gray, forge:ores/quartz, minecraft:wooden_slabs, forge:glass/blue, minecraft:small_flowers, minecraft:wooden_trapdoors, forge:storage_blocks/netherite, forge:storage_blocks/coal, forge:glass_panes/white, forge:glass_panes/black, forge:glass/light_blue, forge:gravel, forge:glass_panes/cyan, jade:pick, forge:storage_blocks/redstone, paraglider:statues, forge:glass_panes/light_gray, minecraft:wool, forge:glass/colorless, forge:glass_panes/blue, minecraft:stairs, minecraft:logs, forge:glass_panes/light_blue, minecraft:beehives, minecraft:ice, forge:ores/netherite_scrap, minecraft:dragon_immune, minecraft:crops, forge:stained_glass, forge:glass/pink, forge:chests, forge:storage_blocks/emerald, forge:stone, forge:ores/redstone, minecraft:valid_spawn, minecraft:mushroom_grow_block, minecraft:wooden_doors, minecraft:warped_stems, minecraft:standing_signs, forge:glass/red, minecraft:infiniburn_end, forge:glass_panes/yellow, forge:glass/purple, forge:storage_blocks/iron, forge:glass_panes/brown, minecraft:crimson_stems, forge:glass_panes/green, carryon:block_blacklist, minecraft:prevent_mob_spawning_inside, minecraft:wart_blocks, minecraft:climbable, forge:chests/trapped, forge:fence_gates, minecraft:dark_oak_logs, minecraft:coral_plants, forge:glass_panes, minecraft:non_flammable_wood, forge:sandstone, forge:glass_panes/colorless, minecraft:beacon_base_blocks, minecraft:shulker_boxes, minecraft:anvil, minecraft:birch_logs, paraglider:statues/goddess, forge:sand, minecraft:wall_corals, forge:glass_panes/purple, forge:glass/yellow, minecraft:fences, minecraft:saplings, forge:storage_blocks/lapis, forge:ores/copper, minecraft:beds, forge:ores/diamond, minecraft:oak_logs, minecraft:unstable_bottom_center, forge:ores/gold, minecraft:doors, minecraft:enderman_holdable, minecraft:banners, forge:barrels, minecraft:infiniburn_overworld, minecraft:flower_pots, minecraft:wooden_fences, minecraft:piglin_repellents, forge:ores/lapis, forge:glass/black, minecraft:wall_post_override, minecraft:portals, forge:obsidian, forge:enderman_place_on_blacklist, forge:dirt, minecraft:bamboo_plantable_on, forge:fences/nether_brick, forge:glass/lime, forge:chests/wooden, forge:ores/iron, minecraft:pressure_plates, minecraft:jungle_logs, forge:chests/ender, forge:glass/white, minecraft:wooden_stairs, minecraft:spruce_logs, forge:glass_panes/red, minecraft:signs, minecraft:carpets, minecraft:base_stone_overworld, minecraft:wooden_buttons, minecraft:wither_summon_base_blocks, forge:glass/magenta, forge:fence_gates/wooden, minecraft:stone_bricks, forge:ores/coal, minecraft:hoglin_repellents, forge:storage_blocks/quartz, minecraft:fire, forge:glass/orange, forge:glass_panes/lime, minecraft:base_stone_nether, minecraft:wall_signs, minecraft:slabs, carryon:block_whitelist, minecraft:guarded_by_piglins, forge:ores/emerald, forge:sand/colorless, minecraft:trapdoors, forge:glass/cyan, minecraft:corals, minecraft:buttons, minecraft:flowers, forge:glass, minecraft:planks, forge:cobblestone, minecraft:soul_speed_blocks, minecraft:rails, forge:barrels/wooden, minecraft:leaves, minecraft:walls, minecraft:coral_blocks, minecraft:strider_warm_blocks, forge:storage_blocks/gold, forge:glass/green, minecraft:fence_gates, forge:ores, forge:glass_panes/gray, minecraft:bee_growables, minecraft:wooden_pressure_plates, minecraft:wither_immune, minecraft:acacia_logs, minecraft:tall_flowers, forge:stained_glass_panes, minecraft:underwater_bonemeals, forge:fences, minecraft:stone_pressure_plates, forge:sand/red, forge:storage_blocks/diamond, minecraft:impermeable, minecraft:sand, minecraft:nylium, forge:end_stones, minecraft:gold_ores, forge:glass/brown, forge:glass_panes/pink, minecraft:logs_that_burn, forge:netherrack, forge:fences/wooden]
+[02Mar2025 14:53:29.349] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/paraglider-server.toml is not correct. Correcting
+[02Mar2025 14:53:29.350] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key ascendingWinds was corrected from null to its default, true. 
+[02Mar2025 14:53:29.357] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key windSources was corrected from null to its default, [fire, soul_fire, campfire#lit=true, soul_campfire#lit=true]. 
+[02Mar2025 14:53:29.357] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key paraglidingSpeed was corrected from null to its default, 1.0. 
+[02Mar2025 14:53:29.358] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key paragliderDurability was corrected from null to its default, 0. 
+[02Mar2025 14:53:29.358] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key spiritOrbs was corrected from null to its default, SimpleCommentedConfig:{}. 
+[02Mar2025 14:53:29.359] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key spiritOrbs.enderDragonDropsVessel was corrected from null to its default, true. 
+[02Mar2025 14:53:29.359] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key spiritOrbs.raidGivesVessel was corrected from null to its default, true. 
+[02Mar2025 14:53:29.359] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key vessels was corrected from null to its default, SimpleCommentedConfig:{}. 
+[02Mar2025 14:53:29.359] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key vessels.startingHearts was corrected from null to its default, 10. 
+[02Mar2025 14:53:29.359] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key vessels.maxHeartContainers was corrected from null to its default, 20. 
+[02Mar2025 14:53:29.360] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key vessels.maxStamina was corrected from null to its default, 3000. 
+[02Mar2025 14:53:29.360] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key vessels.startingStamina was corrected from null to its default, 1000. 
+[02Mar2025 14:53:29.360] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key vessels.maxStaminaVessels was corrected from null to its default, 10. 
+[02Mar2025 14:53:29.361] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key paragliderInTowersOfTheWild was corrected from null to its default, DEFAULT. 
+[02Mar2025 14:53:29.363] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key stamina was corrected from null to its default, SimpleCommentedConfig:{}. 
+[02Mar2025 14:53:29.363] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key stamina.paraglidingConsumesStamina was corrected from null to its default, true. 
+[02Mar2025 14:53:29.363] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key stamina.runningAndSwimmingConsumesStamina was corrected from null to its default, false. 
+[02Mar2025 14:53:29.363] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key stamina.consumptions was corrected from null to its default, SimpleCommentedConfig:{}. 
+[02Mar2025 14:53:29.363] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key stamina.consumptions.idleStaminaConsumption was corrected from null to its default, 20. 
+[02Mar2025 14:53:29.364] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key stamina.consumptions.midairStaminaConsumption was corrected from null to its default, 0. 
+[02Mar2025 14:53:29.364] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key stamina.consumptions.runningStaminaConsumption was corrected from null to its default, -10. 
+[02Mar2025 14:53:29.364] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key stamina.consumptions.swimmingStaminaConsumption was corrected from null to its default, -6. 
+[02Mar2025 14:53:29.365] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key stamina.consumptions.underwaterStaminaConsumption was corrected from null to its default, 3. 
+[02Mar2025 14:53:29.366] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key stamina.consumptions.breathingUnderwaterStaminaConsumption was corrected from null to its default, 10. 
+[02Mar2025 14:53:29.367] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key stamina.consumptions.ridingStaminaConsumption was corrected from null to its default, 20. 
+[02Mar2025 14:53:29.367] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key stamina.consumptions.paraglidingStaminaConsumption was corrected from null to its default, -3. 
+[02Mar2025 14:53:29.370] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key stamina.consumptions.ascendingStaminaConsumption was corrected from null to its default, -3. 
+[02Mar2025 14:53:29.392] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Configuration file ./world/serverconfig/jei-server.toml is not correct. Correcting
+[02Mar2025 14:53:29.393] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cheat mode was corrected from null to its default, SimpleCommentedConfig:{}. 
+[02Mar2025 14:53:29.394] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cheat mode.enableCheatModeForOp was corrected from null to its default, true. 
+[02Mar2025 14:53:29.395] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cheat mode.enableCheatModeForCreative was corrected from null to its default, true. 
+[02Mar2025 14:53:29.396] [Server thread/WARN] [net.minecraftforge.common.ForgeConfigSpec/CORE]: Incorrect key cheat mode.enableCheatModeForGive was corrected from null to its default, false. 
+[02Mar2025 14:53:29.427] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world"
+[02Mar2025 14:53:29.458] [Server thread/INFO] [Arclight/]: 注册了 1 个新的世界类型
+[02Mar2025 14:53:29.461] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world] --------
+[02Mar2025 14:53:29.472] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+[02Mar2025 14:53:29.473] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+[02Mar2025 14:53:29.473] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+[02Mar2025 14:53:29.474] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[02Mar2025 14:53:29.474] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+[02Mar2025 14:53:29.474] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+[02Mar2025 14:53:29.475] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+[02Mar2025 14:53:29.475] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+[02Mar2025 14:53:29.476] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+[02Mar2025 14:53:29.476] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+[02Mar2025 14:53:29.476] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+[02Mar2025 14:53:29.477] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+[02Mar2025 14:53:29.477] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+[02Mar2025 14:53:29.477] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+[02Mar2025 14:53:29.478] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+[02Mar2025 14:53:29.478] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+[02Mar2025 14:53:29.478] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+[02Mar2025 14:53:29.479] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+[02Mar2025 14:53:29.479] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+[02Mar2025 14:53:29.479] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+[02Mar2025 14:53:29.480] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+[02Mar2025 14:53:29.481] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+[02Mar2025 14:53:29.481] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[02Mar2025 14:53:29.481] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[02Mar2025 14:53:29.482] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[02Mar2025 14:53:29.482] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[02Mar2025 14:53:29.483] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+[02Mar2025 14:53:29.483] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[02Mar2025 14:53:29.483] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+[02Mar2025 14:53:29.484] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+[02Mar2025 14:53:29.484] [Server thread/INFO] [Minecraft/]: View Distance: 10
+[02Mar2025 14:53:29.912] [Server thread/ERROR] [Minecraft/]: Could not set generator for default world 'world': Plugin 'TerraformGenerator' does not exist
+[02Mar2025 14:53:29.957] [Server thread/INFO] [voicechat/]: [voicechat] Successfully migrated config voicechat-server.toml
+[02Mar2025 14:53:29.969] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world] --------
+[02Mar2025 14:53:29.969] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+[02Mar2025 14:53:29.970] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+[02Mar2025 14:53:29.970] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+[02Mar2025 14:53:29.970] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[02Mar2025 14:53:29.971] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+[02Mar2025 14:53:29.971] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+[02Mar2025 14:53:29.971] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+[02Mar2025 14:53:29.972] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+[02Mar2025 14:53:29.972] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+[02Mar2025 14:53:29.972] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+[02Mar2025 14:53:29.973] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+[02Mar2025 14:53:29.973] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+[02Mar2025 14:53:29.973] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+[02Mar2025 14:53:29.974] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+[02Mar2025 14:53:29.974] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+[02Mar2025 14:53:29.974] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+[02Mar2025 14:53:29.975] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+[02Mar2025 14:53:29.975] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+[02Mar2025 14:53:29.975] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+[02Mar2025 14:53:29.976] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+[02Mar2025 14:53:29.976] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+[02Mar2025 14:53:29.976] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+[02Mar2025 14:53:29.977] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[02Mar2025 14:53:29.977] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[02Mar2025 14:53:29.977] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[02Mar2025 14:53:29.978] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[02Mar2025 14:53:29.978] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+[02Mar2025 14:53:29.979] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[02Mar2025 14:53:29.979] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+[02Mar2025 14:53:29.979] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+[02Mar2025 14:53:29.980] [Server thread/INFO] [Minecraft/]: View Distance: 10
+[02Mar2025 14:53:30.001] [Server thread/INFO] [Minecraft/]: -------- World Settings For [world] --------
+[02Mar2025 14:53:30.002] [Server thread/INFO] [Minecraft/]: Item Merge Radius: 2.5
+[02Mar2025 14:53:30.003] [Server thread/INFO] [Minecraft/]: Experience Merge Radius: 3.0
+[02Mar2025 14:53:30.004] [Server thread/INFO] [Minecraft/]: Mob Spawn Range: 6
+[02Mar2025 14:53:30.004] [Server thread/INFO] [Minecraft/]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[02Mar2025 14:53:30.005] [Server thread/INFO] [Minecraft/]: Zombie Aggressive Towards Villager: true
+[02Mar2025 14:53:30.005] [Server thread/INFO] [Minecraft/]: Allow Zombie Pigmen to spawn from portal blocks: true
+[02Mar2025 14:53:30.006] [Server thread/INFO] [Minecraft/]: Cactus Growth Modifier: 100%
+[02Mar2025 14:53:30.007] [Server thread/INFO] [Minecraft/]: Cane Growth Modifier: 100%
+[02Mar2025 14:53:30.009] [Server thread/INFO] [Minecraft/]: Melon Growth Modifier: 100%
+[02Mar2025 14:53:30.009] [Server thread/INFO] [Minecraft/]: Mushroom Growth Modifier: 100%
+[02Mar2025 14:53:30.010] [Server thread/INFO] [Minecraft/]: Pumpkin Growth Modifier: 100%
+[02Mar2025 14:53:30.011] [Server thread/INFO] [Minecraft/]: Sapling Growth Modifier: 100%
+[02Mar2025 14:53:30.012] [Server thread/INFO] [Minecraft/]: Beetroot Growth Modifier: 100%
+[02Mar2025 14:53:30.012] [Server thread/INFO] [Minecraft/]: Carrot Growth Modifier: 100%
+[02Mar2025 14:53:30.013] [Server thread/INFO] [Minecraft/]: Potato Growth Modifier: 100%
+[02Mar2025 14:53:30.014] [Server thread/INFO] [Minecraft/]: Wheat Growth Modifier: 100%
+[02Mar2025 14:53:30.015] [Server thread/INFO] [Minecraft/]: NetherWart Growth Modifier: 100%
+[02Mar2025 14:53:30.015] [Server thread/INFO] [Minecraft/]: Vine Growth Modifier: 100%
+[02Mar2025 14:53:30.016] [Server thread/INFO] [Minecraft/]: Cocoa Growth Modifier: 100%
+[02Mar2025 14:53:30.016] [Server thread/INFO] [Minecraft/]: Bamboo Growth Modifier: 100%
+[02Mar2025 14:53:30.018] [Server thread/INFO] [Minecraft/]: SweetBerry Growth Modifier: 100%
+[02Mar2025 14:53:30.018] [Server thread/INFO] [Minecraft/]: Kelp Growth Modifier: 100%
+[02Mar2025 14:53:30.019] [Server thread/INFO] [Minecraft/]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true
+[02Mar2025 14:53:30.020] [Server thread/INFO] [Minecraft/]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[02Mar2025 14:53:30.023] [Server thread/INFO] [Minecraft/]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1
+[02Mar2025 14:53:30.024] [Server thread/INFO] [Minecraft/]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Bastion: 30084232 Fortress: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[02Mar2025 14:53:30.025] [Server thread/INFO] [Minecraft/]: Max TNT Explosions: 100
+[02Mar2025 14:53:30.025] [Server thread/INFO] [Minecraft/]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[02Mar2025 14:53:30.025] [Server thread/INFO] [Minecraft/]: Nerfing mobs spawned from spawners: false
+[02Mar2025 14:53:30.026] [Server thread/INFO] [Minecraft/]: Item Despawn Rate: 6000
+[02Mar2025 14:53:30.026] [Server thread/INFO] [Minecraft/]: View Distance: 10
+[02Mar2025 14:53:30.085] [Server thread/INFO] [AnimationsCore/]: Enabling AnimationsCore v0.1-SNAPSHOT
+[02Mar2025 14:53:30.401] [Server thread/INFO] [Essentials/]: Enabling Essentials v2.21.0-dev+183-b5748eb
+[02Mar2025 14:53:31.125] [Server thread/ERROR] [Essentials/]: You are running a server that does not properly support Bukkit plugins. Bukkit plugins should not be used with Forge/Fabric mods! For Forge: Consider using ForgeEssentials, or SpongeForge + Nucleus.
+[02Mar2025 14:53:31.149] [Server thread/INFO] [Essentials/]: Status determining class: net.minecraftforge.common.MinecraftForge
+[02Mar2025 14:53:31.283] [Server thread/INFO] [Essentials/]: Attempting to convert old kits in config.yml to new kits.yml
+[02Mar2025 14:53:31.283] [Server thread/INFO] [Essentials/]: No kits found to migrate.
+[02Mar2025 14:53:31.347] [Server thread/INFO] [Essentials/]: No provider found for TickCountProvider, but it is nullable
+[02Mar2025 14:53:31.355] [Server thread/INFO] [Essentials/]: Selected 1.12+ Spawner Block Provider as the provider for SpawnerBlockProvider
+[02Mar2025 14:53:31.356] [Server thread/INFO] [Essentials/]: No provider found for SerializationProvider, but it is nullable
+[02Mar2025 14:53:31.357] [Server thread/INFO] [Essentials/]: Selected 1.20.5+ Banner Data Provider as the provider for BannerDataProvider
+[02Mar2025 14:53:31.360] [Server thread/INFO] [Essentials/]: Selected 1.9-1.20.4 Potion Meta Provider as the provider for PotionMetaProvider
+[02Mar2025 14:53:31.362] [Server thread/INFO] [Essentials/]: No provider found for ContainerProvider, but it is nullable
+[02Mar2025 14:53:31.384] [Server thread/INFO] [Essentials/]: No provider found for BiomeKeyProvider, but it is nullable
+[02Mar2025 14:53:31.385] [Server thread/INFO] [Essentials/]: Selected Legacy InventoryView Abstract Class ABI Provider as the provider for InventoryViewProvider
+[02Mar2025 14:53:31.387] [Server thread/INFO] [Essentials/]: Selected 1.12.2+ Player Locale Provider as the provider for PlayerLocaleProvider
+[02Mar2025 14:53:31.389] [Server thread/INFO] [Essentials/]: Selected Reflection Sync Commands Provider as the provider for SyncCommandsProvider
+[02Mar2025 14:53:31.396] [Server thread/INFO] [Essentials/]: Selected 1.14+ Sign Data Provider as the provider for SignDataProvider
+[02Mar2025 14:53:31.402] [Server thread/INFO] [Essentials/]: Selected 1.11+ Item Unbreakable Provider as the provider for ItemUnbreakableProvider
+[02Mar2025 14:53:31.403] [Server thread/INFO] [Essentials/]: Selected Reflection Server State Provider as the provider for ServerStateProvider
+[02Mar2025 14:53:31.407] [Server thread/INFO] [Essentials/]: Selected 1.13+ Spawn Egg Provider as the provider for SpawnEggProvider
+[02Mar2025 14:53:31.423] [Server thread/INFO] [Essentials/]: Selected Bukkit Material Tag Provider as the provider for MaterialTagProvider
+[02Mar2025 14:53:31.435] [Server thread/INFO] [Essentials/]: Selected Legacy Damage Event Provider as the provider for DamageEventProvider
+[02Mar2025 14:53:31.436] [Server thread/INFO] [Essentials/]: Selected 1.8.3+ Spawner Item Provider as the provider for SpawnerItemProvider
+[02Mar2025 14:53:31.438] [Server thread/INFO] [Essentials/]: Selected Reflection Formatted Command Alias Provider as the provider for FormattedCommandAliasProvider
+[02Mar2025 14:53:31.450] [Server thread/INFO] [Essentials/]: Selected Fixed Height World Info Provider as the provider for WorldInfoProvider
+[02Mar2025 14:53:31.451] [Server thread/INFO] [Essentials/]: Selected Reflection Online Mode Provider as the provider for OnlineModeProvider
+[02Mar2025 14:53:31.473] [Server thread/INFO] [Essentials/]: Selected 1.14.4+ Persistent Data Container Provider as the provider for PersistentDataProvider
+[02Mar2025 14:53:31.474] [Server thread/INFO] [Essentials/]: Selected Reflection Known Commands Provider as the provider for KnownCommandsProvider
+[02Mar2025 14:53:31.853] [Server thread/INFO] [Essentials/]: Loaded 43465 items from items.json.
+[02Mar2025 14:53:31.883] [Server thread/INFO] [Essentials/]: Using locale en
+[02Mar2025 14:53:32.089] [Server thread/INFO] [Essentials/]: ServerListPingEvent: Spigot iterator API
+[02Mar2025 14:53:32.942] [Server thread/INFO] [Essentials/]: Starting Metrics. Opt-out using the global bStats config.
+[02Mar2025 14:53:32.954] [Server thread/INFO] [Essentials/]: Using superperms-based permissions.
+[02Mar2025 14:53:32.961] [Server thread/INFO] [TAB/]: Enabling TAB v4.1.6
+[02Mar2025 14:53:34.255] [Server thread/INFO] [Console/]: [TAB] Loaded NMS hook in 1021ms
+[02Mar2025 14:53:34.857] [Server thread/INFO] [Console/]: [TAB] Enabled in 547ms
+[02Mar2025 14:53:34.871] [Server thread/INFO] [AutoUpdatePlugins/]: Enabling AutoUpdatePlugins v11.5
+[02Mar2025 14:53:34.916] [Server thread/INFO] [OnePlayerSleep/]: Enabling OnePlayerSleep v1.3
+[02Mar2025 14:53:34.924] [Server thread/INFO] [NBTAPI/]: Enabling NBTAPI v2.14.1
+[02Mar2025 14:53:34.930] [Server thread/INFO] [NBTAPI/]: Checking bindings...
+[02Mar2025 14:53:34.956] [Server thread/INFO] [NBTAPI/]: All Classes were able to link!
+[02Mar2025 14:53:35.123] [Server thread/INFO] [NBTAPI/]: All Methods were able to link!
+[02Mar2025 14:53:35.123] [Server thread/INFO] [NBTAPI/]: Running NBT reflection test...
+[02Mar2025 14:53:36.567] [Server thread/INFO] [NBTAPI/]: Success! This version of NBT-API is compatible with your server.
+[02Mar2025 14:53:36.582] [Server thread/INFO] [EssentialsSpawn/]: Enabling EssentialsSpawn v2.21.0-dev+183-b5748eb
+[02Mar2025 14:53:36.603] [Server thread/INFO] [EssentialsSpawn/]: Starting Metrics. Opt-out using the global bStats config.
+[02Mar2025 14:53:36.609] [Server thread/INFO] [Multiverse-Core/]: Enabling Multiverse-Core v4.3.14
+[02Mar2025 14:53:36.619] [Server thread/WARN] [Multiverse-Core/]: "Multiverse-Core v4.3.14" has registered a listener for org.bukkit.event.entity.EntityCreatePortalEvent on method "public void com.onarandombox.MultiverseCore.listeners.MVPortalListener.entityPortalCreate(org.bukkit.event.entity.EntityCreatePortalEvent)", but the event is Deprecated. "Server performance will be affected"; please notify the authors [dumptruckman, Rigby, fernferret, lithium3141, main--].
+[02Mar2025 14:53:36.621] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] We are aware of the warning about the deprecated event. There is no alternative that allows us to do what we need to do and performance impact is negligible. It is safe to ignore.
+[02Mar2025 14:53:36.803] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] 3 - World(s) loaded.
+[02Mar2025 14:53:36.820] [Server thread/INFO] [STDERR/]: [jdk.nashorn.api.scripting.NashornScriptEngine:<init>:143]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[02Mar2025 14:53:36.865] [Server thread/INFO] [Minecraft/]: [Multiverse-Core] Version 4.3.14 (API v24) Enabled - By dumptruckman, Rigby, fernferret, lithium3141 and main--
+[02Mar2025 14:53:36.872] [Server thread/INFO] [BetterRevive/]: Enabling BetterRevive v0.9.1-BETA
+[02Mar2025 14:53:36.887] [Server thread/INFO] [Console/]: [BetterRevive] Inventory title with support for more than 32 characters. Skipping..
+[02Mar2025 14:53:36.918] [Server thread/INFO] [Console/]: [BetterRevive] Hex colors are available! Ready for RGB..
+[02Mar2025 14:53:36.922] [Server thread/INFO] [Console/]: [BetterRevive] Old constructor for HoverEvent found! Using it..
+[02Mar2025 14:53:36.923] [Server thread/INFO] [Console/]: [BetterRevive] New sendTitle method found! Using it..
+[02Mar2025 14:53:36.924] [Server thread/INFO] [Console/]: [BetterRevive] New setUnbreakable method found! Using it..
+[02Mar2025 14:53:36.925] [Server thread/INFO] [Console/]: [BetterRevive] New isUnbreakable method found! Using it..
+[02Mar2025 14:53:36.972] [Server thread/INFO] [Console/]:   ___      _   _           ___         _         
+[02Mar2025 14:53:36.972] [Server thread/INFO] [Console/]:  | _ ) ___| |_| |_ ___ _ _| _ \_____ _(_)_ _____ 
+[02Mar2025 14:53:36.973] [Server thread/INFO] [Console/]:  | _ \/ -_)  _|  _/ -_) '_|   / -_) V / \ V / -_)
+[02Mar2025 14:53:36.973] [Server thread/INFO] [Console/]:  |___/\___|\__|\__\___|_| |_|_\___|\_/|_|\_/\___|
+[02Mar2025 14:53:36.974] [Server thread/INFO] [Console/]: 
+[02Mar2025 14:53:36.974] [Server thread/INFO] [Console/]:    Running plugin BetterRevive v0.9.1-BETA (v1_16)
+[02Mar2025 14:53:36.975] [Server thread/INFO] [Console/]:    Server running Arclight version arclight-1.16.5-1.0.25-7cf92be3 (MC: 1.16.5)
+[02Mar2025 14:53:36.975] [Server thread/INFO] [Console/]:    (Implementing API version arclight-1.16.5-1.0.25-7cf92be3 (MC: 1.16.5))
+[02Mar2025 14:53:36.976] [Server thread/INFO] [Console/]:    (Developed by  AlonsoAliaga - Thanks for using my plugin ❤)
+[02Mar2025 14:53:36.976] [Server thread/INFO] [Console/]:    If you loved the plugin consider leaving a review and mentioning your server IP in it!
+[02Mar2025 14:53:36.977] [Server thread/INFO] [Console/]: 
+[02Mar2025 14:53:36.978] [Server thread/INFO] [Console/]: ==============================================================================================
+[02Mar2025 14:53:36.978] [Server thread/INFO] [Console/]: [BetterRevive] You are using a Spigot or a Spigot fork (Arclight), plugin should work fine!
+[02Mar2025 14:53:36.978] [Server thread/INFO] [Console/]: [BetterRevive] If you have issues, join us on our official support server on alonsoaliaga.com/discord
+[02Mar2025 14:53:36.979] [Server thread/INFO] [Console/]: ==============================================================================================
+[02Mar2025 14:53:36.979] [Server thread/INFO] [Console/]: 
+[02Mar2025 14:53:36.984] [Server thread/INFO] [Console/]: [BetterRevive] BungeeCord action bar available. Hooking..
+[02Mar2025 14:53:36.984] [Server thread/INFO] [Console/]: [BetterRevive] ProtocolLib found! Checking..
+[02Mar2025 14:53:36.998] [Server thread/INFO] [Console/]: [Auto-update] Configuration config.yml is up-to-date!
+[02Mar2025 14:53:37.000] [Server thread/INFO] [Console/]: [BetterRevive] Factions hook is enabled but couldn't find any supported faction plugin were found. Disabling hook..
+[02Mar2025 14:53:37.001] [Server thread/INFO] [Console/]: [BetterRevive] Finish off feature has been enabled! Players can finish off other player!
+[02Mar2025 14:53:37.001] [Server thread/INFO] [Console/]: [BetterRevive] Finish off health: 20 | Finish off damage multiplier: 0.5
+[02Mar2025 14:53:37.004] [Server thread/INFO] [Console/]: [BetterRevive] DamageCause for finish off is empty! All damage cause will be allowed to finish off players. (Includes DROWING, FIRE, LAVA, etc)
+[02Mar2025 14:53:37.005] [Server thread/INFO] [Console/]: [BetterRevive] Bleeding mode is 0! Plugin will select the best option for your server!
+[02Mar2025 14:53:37.005] [Server thread/INFO] [Console/]: [BetterRevive] Server version is v1_16. Players will look like swimming while bleeding! (Mode 2)
+[02Mar2025 14:53:37.007] [Server thread/INFO] [Console/]: [BetterRevive] Loaded 1 bleeding effects.
+[02Mar2025 14:53:37.008] [Server thread/INFO] [Console/]: [BetterRevive] Loaded 1 revived effect.
+[02Mar2025 14:53:37.128] [Server thread/INFO] [YamipaPlugin/]: Enabling YamipaPlugin v1.3.2
+[02Mar2025 14:53:37.161] [Server thread/INFO] [YamipaPlugin/]: Enabled image animation support
+[02Mar2025 14:53:37.165] [Server thread/INFO] [YamipaPlugin/]: [ImageRenderer] No placed fake images configuration file found
+[02Mar2025 14:53:37.205] [Thread-11/WARN] [YamipaPlugin/]: [FileSystemWatcher] Device does not support inotify, detection of file changes will be slower
+[02Mar2025 14:53:37.297] [Server thread/INFO] [Images/]: Enabling Images v2.5.3
+[02Mar2025 14:53:37.303] [Server thread/INFO] [Images/]: ProtocolLib detected. Enabling generic packet handling...
+[02Mar2025 14:53:37.539] [Server thread/INFO] [Graves/]: Enabling Graves v4.9
+[02Mar2025 14:53:37.557] [Server thread/INFO] [Graves/]: Integration: Hooked into ProtocolLib 5.3.0.
+[02Mar2025 14:53:37.568] [Server thread/INFO] [Graves/]: Compatibility: Essentials Detected, make sure you don't have the essentials.keepinv or essentials.keepxp permissions.
+[02Mar2025 14:53:37.794] [Server thread/INFO] [ConditionalEvents/]: Enabling ConditionalEvents v4.60.2
+[02Mar2025 14:53:37.983] [Server thread/INFO] [Console/]: [ConditionalEvents] Has been enabled! Version: 4.60.2
+[02Mar2025 14:53:37.984] [Server thread/INFO] [Console/]: [ConditionalEvents] Thanks for using my plugin!   ~Ajneb97
+[02Mar2025 14:53:38.115] [Server thread/INFO] [Minecraft/]: Server permissions file permissions.yml is empty, ignoring it
+[02Mar2025 14:53:38.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[02Mar2025 14:53:39.915] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[02Mar2025 14:53:39.916] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[02Mar2025 14:53:39.916] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[02Mar2025 14:53:39.916] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 0%
+[02Mar2025 14:53:40.339] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 47%
+[02Mar2025 14:53:41.243] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[02Mar2025 14:53:41.250] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 83%
+[02Mar2025 14:53:41.753] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 100%
+[02Mar2025 14:53:42.334] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 100%
+[02Mar2025 14:53:42.754] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 100%
+[02Mar2025 14:53:43.249] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 100%
+[02Mar2025 14:53:43.751] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 100%
+[02Mar2025 14:53:44.250] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 100%
+[02Mar2025 14:53:44.751] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 100%
+[02Mar2025 14:53:45.261] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 100%
+[02Mar2025 14:53:45.751] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 100%
+[02Mar2025 14:53:46.249] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 100%
+[02Mar2025 14:53:46.749] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 100%
+[02Mar2025 14:53:47.255] [Worker-Main-4/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 100%
+[02Mar2025 14:53:47.749] [Worker-Main-5/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 100%
+[02Mar2025 14:53:48.252] [Worker-Main-6/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 100%
+[02Mar2025 14:53:48.768] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Preparing spawn area: 100%
+[02Mar2025 14:53:48.771] [Server thread/INFO] [net.minecraft.world.chunk.listener.LoggingChunkStatusListener/]: Time elapsed: 10523 ms
+[02Mar2025 14:53:48.772] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (19.519s)! For help, type "help"
+[02Mar2025 14:53:48.798] [Server thread/WARN] [voicechat/]: [voicechat] Running in offline mode - Voice chat encryption is not secure!
+[02Mar2025 14:53:48.821] [VoiceChatServerThread/INFO] [voicechat/]: [voicechat] Voice chat server started at port 24454
+[02Mar2025 14:53:48.856] [Craft Scheduler Thread - 0/INFO] [Essentials/]: Fetching version information...
+[02Mar2025 14:53:48.948] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[02Mar2025 14:53:48.948] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[02Mar2025 14:53:48.949] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |   SkinsRestorer  |[0;39m
+[02Mar2025 14:53:48.949] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |------------------|[0;39m
+[02Mar2025 14:53:48.950] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    |  [34;1m[4m[21mStandalone Mode[0;39m[32;1m |[0;39m
+[02Mar2025 14:53:48.950] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    +==================+[0;39m
+[02Mar2025 14:53:48.950] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[02Mar2025 14:53:48.950] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Version: [32;1m15.5.3[0;39m
+[02Mar2025 14:53:48.951] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[36;1m    Commit: [32;1m86e796c[0;39m
+[02Mar2025 14:53:48.951] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m    This is the latest version![0;39m
+[02Mar2025 14:53:48.952] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[32;1m----------------------------------------------[0;39m
+[02Mar2025 14:53:48.952] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mDo you have issues? Read our troubleshooting guide: [33;1mhttps://skinsrestorer.net/docs/troubleshooting[0;39m
+[02Mar2025 14:53:48.952] [Craft Scheduler Thread - 1/INFO] [Console/]: [33;1m[[32;22mSkinsRestorer[33;1m] [0;39m[34;1mWant to support SkinsRestorer? Consider donating: [33;1mhttps://skinsrestorer.net/donate[0;39m
+[02Mar2025 14:53:49.026] [Craft Scheduler Thread - 0/WARN] [Essentials/]: You're 2 EssentialsX dev build(s) out of date!
+[02Mar2025 14:53:49.026] [Craft Scheduler Thread - 0/WARN] [Essentials/]: Download it here: https://essentialsx.net/downloads.html
+[02Mar2025 14:53:49.418] [Craft Scheduler Thread - 0/INFO] [Console/]: [BetterRevive] Checking for updates...
+[02Mar2025 14:53:49.418] [Craft Scheduler Thread - 0/INFO] [Console/]: [BetterRevive] Plugin up-to-date! You have the latest version!
+[02Mar2025 14:53:50.717] [Craft Scheduler Thread - 2/INFO] [Images/]: Loaded 0 images...
+[02Mar2025 14:54:10.914] [User Authenticator #1/INFO] [net.minecraft.network.login.ServerLoginNetHandler/]: UUID of player Liliana_YT03 is b65176fe-4ca5-3f8e-bf51-299abb31c346
+[02Mar2025 14:54:13.140] [Server thread/INFO] [net.minecraftforge.common.AdvancementLoadFix/]: Using new advancement loading for net.minecraft.advancements.PlayerAdvancements@4c593c72
+[02Mar2025 14:54:13.216] [Server thread/INFO] [net.minecraft.server.management.PlayerList/]: Liliana_YT03[/127.103.138.173:37281] logged in with entity id 157 at (104.5, 69.0, -212.5)
+[02Mar2025 14:54:13.522] [TAB Processing Thread/INFO] [Console/]: [TAB] [WARN] Player Liliana_YT03's group (none) is not in sorting list! Sorting list: owner,admin,mod,helper,builder,vip,default. Player will be sorted on the bottom.
+[02Mar2025 14:54:13.619] [Server thread/INFO] [Waila/]: Syncing config to Liliana_YT03 (b65176fe-4ca5-3f8e-bf51-299abb31c346)
+[02Mar2025 14:54:15.333] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Liliana_YT03 has made the advancement [Getting an Upgrade]
+[02Mar2025 14:54:15.357] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2041ms or 40 ticks behind
+[02Mar2025 14:54:16.451] [Server thread/INFO] [voicechat/]: [voicechat] Received secret request of Liliana_YT03 (18)
+[02Mar2025 14:54:16.453] [Server thread/INFO] [voicechat/]: [voicechat] Sent secret to Liliana_YT03
+[02Mar2025 14:54:40.716] [ForkJoinPool.commonPool-worker-3/INFO] [AutoUpdatePlugins/]: File is empty. Please put FileSaveName: [link to plugin]
+[02Mar2025 14:55:22.958] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Liliana_YT03 issued server command: /plugins
+[02Mar2025 14:55:50.770] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Liliana_YT03 lost connection: Disconnected
+[02Mar2025 14:55:50.773] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Liliana_YT03
+[02Mar2025 14:55:50.788] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Liliana_YT03 left the game
+[02Mar2025 14:55:59.867] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[02Mar2025 14:55:59.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[02Mar2025 14:55:59.917] [Server thread/INFO] [ConditionalEvents/]: Disabling ConditionalEvents v4.60.2
+[02Mar2025 14:55:59.920] [Server thread/INFO] [Console/]: [ConditionalEvents] Has been disabled! Version: 4.60.2
+[02Mar2025 14:55:59.921] [Server thread/INFO] [Graves/]: Disabling Graves v4.9
+[02Mar2025 14:55:59.934] [Server thread/INFO] [Images/]: Disabling Images v2.5.3
+[02Mar2025 14:55:59.937] [Server thread/INFO] [YamipaPlugin/]: Disabling YamipaPlugin v1.3.2
+[02Mar2025 14:55:59.942] [Server thread/INFO] [BetterRevive/]: Disabling BetterRevive v0.9.1-BETA
+[02Mar2025 14:55:59.944] [Server thread/INFO] [Console/]:  
+[02Mar2025 14:55:59.945] [Server thread/INFO] [Console/]: [BetterRevive] Plugin has been disabled!
+[02Mar2025 14:55:59.945] [Server thread/INFO] [Console/]: [BetterRevive] Thank you for using my plugin!
+[02Mar2025 14:55:59.945] [Server thread/INFO] [Console/]:  
+[02Mar2025 14:55:59.945] [Server thread/INFO] [SkinsRestorer/]: Disabling SkinsRestorer v15.5.3
+[02Mar2025 14:55:59.950] [Server thread/INFO] [Multiverse-Core/]: Disabling Multiverse-Core v4.3.14
+[02Mar2025 14:55:59.956] [Server thread/INFO] [ProtocolLib/]: Disabling ProtocolLib v5.3.0
+[02Mar2025 14:55:59.959] [Server thread/INFO] [EssentialsSpawn/]: Disabling EssentialsSpawn v2.21.0-dev+183-b5748eb
+[02Mar2025 14:55:59.961] [Server thread/INFO] [NBTAPI/]: Disabling NBTAPI v2.14.1
+[02Mar2025 14:55:59.962] [Server thread/INFO] [OnePlayerSleep/]: Disabling OnePlayerSleep v1.3
+[02Mar2025 14:55:59.964] [Server thread/INFO] [AutoUpdatePlugins/]: Disabling AutoUpdatePlugins v11.5
+[02Mar2025 14:55:59.965] [Server thread/INFO] [TAB/]: Disabling TAB v4.1.6
+[02Mar2025 14:55:59.966] [Server thread/INFO] [Console/]: [TAB] Disabled in 0ms
+[02Mar2025 14:55:59.967] [Server thread/INFO] [Essentials/]: Disabling Essentials v2.21.0-dev+183-b5748eb
+[02Mar2025 14:55:59.970] [Server thread/INFO] [AnimationsCore/]: Disabling AnimationsCore v0.1-SNAPSHOT
+[02Mar2025 14:55:59.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[02Mar2025 14:55:59.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[02Mar2025 14:55:59.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02Mar2025 14:56:01.066] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02Mar2025 14:56:01.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/DIM-1]'/minecraft:the_nether
+[02Mar2025 14:56:01.826] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02Mar2025 14:56:01.826] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/DIM1]'/minecraft:the_end
+[02Mar2025 14:56:02.195] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02Mar2025 14:56:02.198] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02Mar2025 14:56:02.205] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02Mar2025 14:56:02.207] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02Mar2025 14:56:02.212] [Thread-0/INFO] [STDOUT/]: [tschipp.carryon.common.handler.ListHandler:initConfigLists:282]: [minecraft:soul_fire_base_blocks, forge:glass/gray, minecraft:campfires, forge:storage_blocks, forge:glass_panes/magenta, minecraft:infiniburn_nether, forge:glass_panes/orange, forge:glass/light_gray, forge:ores/quartz, minecraft:wooden_slabs, forge:glass/blue, minecraft:small_flowers, minecraft:wooden_trapdoors, forge:storage_blocks/netherite, forge:storage_blocks/coal, forge:glass_panes/white, forge:glass_panes/black, forge:glass/light_blue, forge:gravel, forge:glass_panes/cyan, jade:pick, forge:storage_blocks/redstone, paraglider:statues, forge:glass_panes/light_gray, minecraft:wool, forge:glass/colorless, forge:glass_panes/blue, minecraft:stairs, minecraft:logs, forge:glass_panes/light_blue, minecraft:beehives, minecraft:ice, forge:ores/netherite_scrap, minecraft:dragon_immune, minecraft:crops, forge:stained_glass, forge:glass/pink, forge:chests, forge:storage_blocks/emerald, forge:stone, forge:ores/redstone, minecraft:valid_spawn, minecraft:mushroom_grow_block, minecraft:wooden_doors, minecraft:warped_stems, minecraft:standing_signs, forge:glass/red, minecraft:infiniburn_end, forge:glass_panes/yellow, forge:glass/purple, forge:storage_blocks/iron, forge:glass_panes/brown, minecraft:crimson_stems, forge:glass_panes/green, carryon:block_blacklist, minecraft:prevent_mob_spawning_inside, minecraft:wart_blocks, minecraft:climbable, forge:chests/trapped, forge:fence_gates, minecraft:dark_oak_logs, minecraft:coral_plants, forge:glass_panes, minecraft:non_flammable_wood, forge:sandstone, forge:glass_panes/colorless, minecraft:beacon_base_blocks, minecraft:shulker_boxes, minecraft:anvil, minecraft:birch_logs, paraglider:statues/goddess, forge:sand, minecraft:wall_corals, forge:glass_panes/purple, forge:glass/yellow, minecraft:fences, minecraft:saplings, forge:storage_blocks/lapis, forge:ores/copper, minecraft:beds, forge:ores/diamond, minecraft:oak_logs, minecraft:unstable_bottom_center, forge:ores/gold, minecraft:doors, minecraft:enderman_holdable, minecraft:banners, forge:barrels, minecraft:infiniburn_overworld, minecraft:flower_pots, minecraft:wooden_fences, minecraft:piglin_repellents, forge:ores/lapis, forge:glass/black, minecraft:wall_post_override, minecraft:portals, forge:obsidian, forge:enderman_place_on_blacklist, forge:dirt, minecraft:bamboo_plantable_on, forge:fences/nether_brick, forge:glass/lime, forge:chests/wooden, forge:ores/iron, minecraft:pressure_plates, minecraft:jungle_logs, forge:chests/ender, forge:glass/white, minecraft:wooden_stairs, minecraft:spruce_logs, forge:glass_panes/red, minecraft:signs, minecraft:carpets, minecraft:base_stone_overworld, minecraft:wooden_buttons, minecraft:wither_summon_base_blocks, forge:glass/magenta, forge:fence_gates/wooden, minecraft:stone_bricks, forge:ores/coal, minecraft:hoglin_repellents, forge:storage_blocks/quartz, minecraft:fire, forge:glass/orange, forge:glass_panes/lime, minecraft:base_stone_nether, minecraft:wall_signs, minecraft:slabs, carryon:block_whitelist, minecraft:guarded_by_piglins, forge:ores/emerald, forge:sand/colorless, minecraft:trapdoors, forge:glass/cyan, minecraft:corals, minecraft:buttons, minecraft:flowers, forge:glass, minecraft:planks, forge:cobblestone, minecraft:soul_speed_blocks, minecraft:rails, forge:barrels/wooden, minecraft:leaves, minecraft:walls, minecraft:coral_blocks, minecraft:strider_warm_blocks, forge:storage_blocks/gold, forge:glass/green, minecraft:fence_gates, forge:ores, forge:glass_panes/gray, minecraft:bee_growables, minecraft:wooden_pressure_plates, minecraft:wither_immune, minecraft:acacia_logs, minecraft:tall_flowers, forge:stained_glass_panes, minecraft:underwater_bonemeals, forge:fences, minecraft:stone_pressure_plates, forge:sand/red, forge:storage_blocks/diamond, minecraft:impermeable, minecraft:sand, minecraft:nylium, forge:end_stones, minecraft:gold_ores, forge:glass/brown, forge:glass_panes/pink, minecraft:logs_that_burn, forge:netherrack, forge:fences/wooden]
+[02Mar2025 14:56:07.216] [Exit Thread/WARN] [Arclight/]: 9 threads not shutting down correctly, force exiting
