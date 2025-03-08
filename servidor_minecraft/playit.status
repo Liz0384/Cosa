@@ -1,352 +1,772 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1741449147051 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1741449390417 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741449151021 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741449394120 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741449154118 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741449399022 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741449157294 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741449402826 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741449161419 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741449406308 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741449165164 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741449409452 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741449168871 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741449413317 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741449174085 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741449416692 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741449177213 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741449421572 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741449181206 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741449427780 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741449184328 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741449431645 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741449187417 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741449436507 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741449190878 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741449439609 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741449194066 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741449442746 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741449197710 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741449445850 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741449201528 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741449449607 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741449205173 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741449452750 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741449210748 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741449456635 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741449215990 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741449460265 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741449219603 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741449463616 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741449223830 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741449467397 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741449227373 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741449470922 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741449230994 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741449474249 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741449234256 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741449478193 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741449237400 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741449481430 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741449241055 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741449485427 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741449244976 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741449489458 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741449248555 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741449493569 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741449253301 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741449497507 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741449257191 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741449501323 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741449260325 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741449505042 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741449264066 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741449508231 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741449267842 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741449511777 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741449271569 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741449515391 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741449275299 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741449519176 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741449278795 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741449522288 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741449281936 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741449525460 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741449285102 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741449529200 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741449288672 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741449532953 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741449292662 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741449536821 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741449296511 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741449541401 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741449300168 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741449544746 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741449303943 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741449547834 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741449307237 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741449552169 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741449310316 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741449555294 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741449314167 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741449558916 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741449317843 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741449562162 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741449321787 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741449565264 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741449325349 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741449568371 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741449328974 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741449571457 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741449332159 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741449574558 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741449335774 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741449578465 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741449339359 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741449582330 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741449342985 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741449585422 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741449346795 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741449589308 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741449350360 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741449593208 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741449354266 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741449598378 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741449358277 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741449601541 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741449361372 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741449605304 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741449609090 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741449612804 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741449615940 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741449619079 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741449622794 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741449626601 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741449630233 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741449633345 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741449636505 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741449640531 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741449644359 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741449647499 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741449650639 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741449653767 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741449657838 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741449662109 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741449665309 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741449668569 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741449673000 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741449676133 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741449680064 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741449683941 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741449689033 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741449692196 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741449696608 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741449701064 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741449705512 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741449708766 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741449712143 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741449716231 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741449720578 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741449725347 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741449729375 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741449734571 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741449739518 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741449744210 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741449747315 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741449750473 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741449754544 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741449758913 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741449762087 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741449766484 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741449769704 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741449772824 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741449777431 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741449782353 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741449785578 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741449788666 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741449791822 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741449794987 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741449798558 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741449802290 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741449805426 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741449809109 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741449812768 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741449816300 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741449819882 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741449823742 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741449827409 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741449831012 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741449834778 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741449838401 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741449842010 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741449845200 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741449848312 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741449851425 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741449855285 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741449859233 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741449863067 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+virginia-grande.gl.at.ply.gg:4284 => 127.0.0.1:4284 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741449866905 tunnel running, 2 tunnels registered
 
 
 TUNNELS
