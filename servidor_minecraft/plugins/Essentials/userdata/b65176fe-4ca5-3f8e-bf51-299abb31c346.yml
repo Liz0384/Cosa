@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1741450269437
-  login: 1741450264033
+  logout: 1741450529313
+  login: 1741450496054
 money: '0'
 last-account-name: Liliana_YT03
 lastlocation:
@@ -31,8 +31,8 @@ lastlocation:
 logoutlocation:
   world: 35613967-4132-4ee0-bd3c-e95192f0b709
   world-name: mundo
-  x: -27.56332207561972
+  x: -26.554081490758097
   y: 70.0
-  z: 24.664553235388247
-  yaw: 238.95684814453125
-  pitch: 4.173784255981445
+  z: 22.125527802478093
+  yaw: 202.3096923828125
+  pitch: 7.51689338684082

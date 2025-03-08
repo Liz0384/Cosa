@@ -56,16 +56,16 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "virginia-grande.gl.at.ply.gg",
+          "assigned_domain": "u-microsoft.gl.at.ply.gg",
           "assigned_srv": null,
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "a51b3fd3-19e1-4c87-b310-e3ed29b5f467",
+          "id": "81b2aaa8-1a0e-41cf-a60d-abff65da8dac",
           "ip_hostname": "25.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 4285,
-          "port_start": 4284,
+          "port_end": 4291,
+          "port_start": 4290,
           "region": "global",
           "static_ip4": "147.185.221.25",
           "static_ip6": "2602:fbaf:0:1::19",
@@ -73,19 +73,19 @@
         },
         "status": "allocated"
       },
-      "created_at": "2025-03-08T16:06:09.897691Z",
+      "created_at": "2025-03-08T16:11:50.690934Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "352fcf65-69b2-4068-8bbd-26d25e71eba6",
+      "id": "593c8c1e-3738-4639-88f7-f3897c54c4f9",
       "name": "unnamed",
       "origin": {
         "data": {
           "agent_id": "c6456374-dbb2-41f3-b413-31e29e61abfd",
           "agent_name": "from-key-e7eb",
           "local_ip": "127.0.0.1",
-          "local_port": 4284
+          "local_port": 24454
         },
         "type": "agent"
       },
