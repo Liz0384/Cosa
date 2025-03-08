@@ -3717,3 +3717,12 @@ Download a new version here: https://www.spigotmc.org/resources/104484/
 [08Mar2025 14:30:55.255] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
 [08Mar2025 14:30:56.033] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Skipped ID Map collection for mundo
 [08Mar2025 14:33:32.890] [Server thread/DEBUG] [mixin/]: Mixing entity.ai.brain.BrainUtilMixin from mixins.arclight.core.json into net.minecraft.entity.ai.brain.BrainUtil
+[08Mar2025 14:35:54.866] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[08Mar2025 14:35:54.871] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[08Mar2025 14:35:55.027] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Skipped ID Map collection for mundo
+[08Mar2025 14:40:54.864] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Gathering id map for writing to world save world
+[08Mar2025 14:40:54.870] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: ID Map collection complete world
+[08Mar2025 14:40:55.068] [Server thread/DEBUG] [net.minecraftforge.fml.FMLWorldPersistenceHook/WP]: Skipped ID Map collection for mundo
+[08Mar2025 14:44:19.494] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Liliana_YT03 issued server command: /mv tp mundo
+[08Mar2025 14:44:37.593] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Liliana_YT03 issued server command: /mv setspawn mundo
+[08Mar2025 14:44:43.756] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Liliana_YT03 issued server command: /mv setspawn

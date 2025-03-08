@@ -597,3 +597,6 @@ Download a new version here: https://www.spigotmc.org/resources/104484/
 [08Mar2025 14:28:30.998] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Liliana_YT03 issued server command: /gamemode c
 [08Mar2025 14:28:45.560] [Server thread/INFO] [Quests/]: Loaded language es-ES. Translations via Crowdin
 [08Mar2025 14:28:54.080] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Liliana_YT03 issued server command: /time set day
+[08Mar2025 14:44:19.494] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Liliana_YT03 issued server command: /mv tp mundo
+[08Mar2025 14:44:37.593] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Liliana_YT03 issued server command: /mv setspawn mundo
+[08Mar2025 14:44:43.756] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Liliana_YT03 issued server command: /mv setspawn
