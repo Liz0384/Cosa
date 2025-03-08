@@ -1,286 +1,4462 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1741450417655 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741450420770 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741450423850 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741450427890 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741450431786 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741450435745 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741450439984 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741450444008 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741450447970 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741450451755 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741450455485 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741450458676 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741450462047 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741450465161 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741450468299 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741450471466 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741450476522 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741450480245 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741450483743 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741450487379 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741450490637 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741450493852 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741450496945 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741450500990 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741450504604 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741450508263 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741450512301 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741450515966 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741450519305 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741450523039 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741450528338 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741450531450 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741450535102 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741450538748 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741450542496 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741450546431 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741450549540 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741450553169 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741450557321 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:24454 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741450561052 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.26): 1741450625436 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741450565725 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741450628544 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741450569937 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741450631685 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741450573098 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741450634780 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741450577163 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741450638645 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741450582342 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741450641792 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741450588248 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741450644941 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741450591352 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741450648498 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.26): 1741450594476 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.26): 1741450652544 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450656588 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450660182 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450663860 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450667148 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450670256 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450675332 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450679578 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450683514 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450687612 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450691377 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450697161 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450700481 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450704273 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450708201 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450712890 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450717355 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450721117 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450724494 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450727672 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450731649 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450735295 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450738641 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450742367 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450746058 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450749324 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450752480 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450756107 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450760014 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450763355 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450767048 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450770708 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450773881 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450776985 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450781144 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450784826 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450787992 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450791120 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450794810 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450798740 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450801838 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450804974 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450810869 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450813959 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450817683 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450821203 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450824966 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450828852 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450832812 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450836431 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450839594 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450842758 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450848223 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450851911 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450855386 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450858514 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450862148 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450866059 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450870313 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450874192 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450878105 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450882056 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450887294 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450891445 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450895249 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450898407 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450902550 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450905745 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450909578 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450913687 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450917893 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450921093 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450925226 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450929266 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450935089 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450939108 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450943054 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450946902 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450951064 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450955256 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450959406 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450963889 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450968889 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450972861 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450976042 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450979219 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450982426 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450986474 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450990402 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450995440 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741450999047 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451002809 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451006508 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451009610 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451012686 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451015767 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451018893 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451023247 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451027178 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451030970 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451034638 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451038254 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451041390 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451044723 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451048663 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451052573 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451056422 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451059565 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451063260 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451066945 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451070242 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451074123 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451077890 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451081285 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451084497 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451087829 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451091686 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451095445 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451099180 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451102293 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451105485 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451109430 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451112558 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451116569 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451119939 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451125775 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451129080 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451132178 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451135992 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451139164 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451142317 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451146177 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451149977 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451153553 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451157295 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451160402 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451163942 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451167339 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451171272 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451175086 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451179063 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451182736 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451185960 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451190037 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451193684 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451197183 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451201021 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451205740 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451209482 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451213281 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451216856 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451220538 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451224195 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451228008 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451231154 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451234937 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451238809 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451242396 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451245770 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451249725 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451255416 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451258744 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451261903 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451265546 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451268663 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451271790 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451275455 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451279368 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451283304 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451286408 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451289584 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451293439 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451297273 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451301058 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451304314 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451307829 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451311620 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451315101 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451318757 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451322780 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451326283 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451330353 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451334445 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451337551 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451340717 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451344466 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451348148 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451351822 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451354942 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451358064 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451361620 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451365199 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451368339 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451371516 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451375303 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451379018 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451385252 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451388373 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451391528 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451395239 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451399005 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451402573 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451405802 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451408928 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451413057 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451417249 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451421012 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451424454 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451428240 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451431741 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451435431 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451439082 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451442799 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451446372 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451451850 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451455497 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451459129 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451464073 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451469957 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451474783 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451478482 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451482308 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451486001 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451489411 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451493762 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451497337 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451501095 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451506392 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451510166 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451514099 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451517896 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451521617 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451525519 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451528803 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451532014 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451535641 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451540722 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451545789 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451549200 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451553131 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451556819 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451560603 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451564403 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451569448 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451573059 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451579105 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451582965 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451586709 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451590289 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451594011 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451599389 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451603120 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451606346 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451611340 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451616564 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451620101 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451623994 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451627080 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451630626 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451635031 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451638225 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451641872 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451645019 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451648445 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451652162 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451655932 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451659100 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451662997 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451666647 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451670344 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451674171 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451677364 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451680481 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451683783 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451686881 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451690918 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451694892 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451698755 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451702549 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451706244 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451709408 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451713175 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451716823 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451720674 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451724349 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451727494 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451731839 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451735225 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451738326 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451741701 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451745482 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451748590 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451751677 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451755507 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451759150 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451762958 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451766055 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451770034 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451773827 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451777467 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451780597 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451783797 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451786907 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451790110 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451794008 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451797782 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451801269 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451804415 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451808239 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451812128 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451815826 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451819485 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451822574 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451826409 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451830127 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451833895 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451837777 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451840900 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451844229 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451847981 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451851155 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451854684 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451857949 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451861241 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451864778 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451868580 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451872413 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451876083 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451879531 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451882699 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451886556 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451889717 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451892936 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451896181 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451900127 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451903905 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451909448 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451912610 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451916032 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451919143 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451922271 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451926005 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451929807 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451933616 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451937243 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451942535 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451946958 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451950570 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451954192 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451957937 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451961598 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451964687 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451967760 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451970903 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451974706 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451978504 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451982056 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451986053 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451989250 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451992814 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741451996526 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452000580 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452004610 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452008332 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452011672 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452014925 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452018045 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452021397 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452024501 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452027585 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452030855 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452034745 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452038736 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452042360 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452046595 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452050494 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452054491 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452058936 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452062988 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452068946 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452072111 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452075285 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452079351 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452083475 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452088604 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452093169 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452097882 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452101045 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452105546 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452108768 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452112973 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452117044 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452122797 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452127322 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452131689 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452136638 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452141308 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452144546 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452149555 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452153758 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452156947 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452160164 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452164252 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452167429 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452170578 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452175233 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452179448 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452183565 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452187174 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452190965 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452195176 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452199047 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452202958 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452207700 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452211709 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452215534 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452219841 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452223023 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452227098 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452231098 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452234220 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452238119 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452242022 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452245541 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452249479 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452253381 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452257055 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452261102 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452264916 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452268681 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452271782 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452275658 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452278949 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452282803 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452286567 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452289782 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452294991 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452298802 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452302608 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452306259 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452309346 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452313182 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452316787 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452320415 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452324266 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452330148 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452333877 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452337025 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452340207 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452344007 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452348065 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452351945 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452355541 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452359223 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452364146 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452367789 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452370944 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452374169 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452379644 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452383546 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452386753 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452390675 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452394483 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452398682 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452402899 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452406007 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452409146 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452412329 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452415472 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452419179 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452422263 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452426073 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452429223 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452432360 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452437411 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452441175 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452444951 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452448093 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452451258 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452455212 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452459041 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452463036 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452466969 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452470783 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452473913 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452477006 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452483140 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452486361 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452489598 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452492724 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452496641 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452500618 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452504589 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452507718 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452510906 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452514514 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452518515 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452524190 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452527321 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452530667 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452533808 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452539613 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452543297 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452546879 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452550640 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452553754 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452557416 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452561201 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452564342 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452567504 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452573609 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452577413 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452581185 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452584726 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452587893 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452590995 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452594103 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452598842 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452602587 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452606334 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452610028 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452613799 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452617509 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452621234 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452624460 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452628102 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452631959 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452635690 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452639236 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452643024 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452647291 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452650779 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452654578 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452657922 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452661168 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452665417 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452668585 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452671687 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452675567 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452678688 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452681815 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452685717 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452689669 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452693427 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452697302 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452701074 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452704226 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452707389 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452711255 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452714942 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452718629 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452722432 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452725595 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452729157 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452732988 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452736720 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452740518 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452744216 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452748016 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452751245 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452756664 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452760557 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452764044 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452767653 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452771591 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452774852 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452777962 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452781791 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452785637 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452788763 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452792710 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452798720 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452803995 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452807165 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452810292 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452813988 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452817734 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452821266 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452824979 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452830215 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452833974 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452837681 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452840881 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452844710 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452848546 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452851958 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452855680 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452859522 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452863508 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452867593 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452871365 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452874908 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452878678 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452882468 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452886467 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452889980 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452894266 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452898158 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452902013 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452905796 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452908968 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452912486 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452918626 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452922355 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452926665 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452930891 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452934499 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452938260 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452941989 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452945778 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452949714 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452953515 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452957373 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452961003 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452964574 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452968893 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452974155 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452977265 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452981183 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452985880 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452990566 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452994227 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741452998125 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453001299 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453004454 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453008140 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453012436 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453017916 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453021835 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453025038 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453028244 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453031807 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453035320 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453038459 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453042238 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453045825 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453052029 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453055766 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453059107 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453062262 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453066014 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453070421 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453074076 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453077755 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453081398 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453085086 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453090934 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453094768 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453098410 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453101847 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453105739 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453109706 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453113118 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453116228 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453119428 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453123046 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453126834 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453130089 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453135064 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453138673 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453142515 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453146264 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453152438 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453156207 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453159330 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453162460 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453165811 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453169671 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453172793 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453176559 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453179692 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453182806 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453188070 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453191838 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453195625 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453199545 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453202657 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453205860 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453208963 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453212061 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453215213 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453218384 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453221998 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453225829 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453229080 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453232969 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453236430 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453240694 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453243792 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453248407 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453251541 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453255249 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453258564 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453262760 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453266587 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453272362 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453276180 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453280197 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453284172 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453288372 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453293923 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453298618 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453302774 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453306035 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453310602 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453313700 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453317534 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453322040 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453325815 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453330272 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453335081 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453339110 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453342403 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453346804 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453350642 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453354623 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453358726 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453362059 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453366363 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453370536 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453375028 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453379969 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453384950 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453388129 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453391235 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453395166 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453399167 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453402356 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453406434 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453410563 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453414405 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453418023 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453422368 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453426367 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453430282 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+committee-francisco.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+u-microsoft.gl.at.ply.gg:4290 => 127.0.0.1:4290 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.26): 1741453434208 tunnel running, 2 tunnels registered
 
 
 TUNNELS
