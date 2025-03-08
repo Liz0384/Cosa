@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: 127.103.138.173
+ip-address: 127.192.216.89
 afk: false
 socialspy: false
 npc: false
@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1740932613503
-  login: 1740932611864
+  logout: 1741443451660
+  login: 1741443445617
 money: '0'
 last-account-name: Liliana_YT03
 lastlocation:
@@ -31,8 +31,8 @@ lastlocation:
 logoutlocation:
   world: 35613967-4132-4ee0-bd3c-e95192f0b709
   world-name: mundo
-  x: -29.243362449429704
-  y: 70.0
-  z: 33.5461062504357
-  yaw: 192.0087890625
-  pitch: 5.336526870727539
+  x: -53.44997030908313
+  y: 68.0
+  z: 150.08160892775734
+  yaw: 287.2975158691406
+  pitch: 11.249981880187988
