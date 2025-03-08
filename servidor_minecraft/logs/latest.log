@@ -600,3 +600,68 @@ Download a new version here: https://www.spigotmc.org/resources/104484/
 [08Mar2025 14:44:19.494] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Liliana_YT03 issued server command: /mv tp mundo
 [08Mar2025 14:44:37.593] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Liliana_YT03 issued server command: /mv setspawn mundo
 [08Mar2025 14:44:43.756] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Liliana_YT03 issued server command: /mv setspawn
+[08Mar2025 14:48:15.496] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Liliana_YT03 issued server command: /mv tp mundo
+[08Mar2025 14:48:22.969] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Liliana_YT03 issued server command: /kill
+[08Mar2025 14:48:28.207] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Liliana_YT03 issued server command: /killall
+[08Mar2025 14:48:37.638] [Server thread/INFO] [net.minecraft.network.play.ServerPlayNetHandler/]: Liliana_YT03 lost connection: Disconnected
+[08Mar2025 14:48:37.640] [Server thread/INFO] [voicechat/]: [voicechat] Disconnecting client Liliana_YT03
+[08Mar2025 14:48:37.648] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Liliana_YT03 left the game
+[08Mar2025 14:49:00.438] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Stopping the server
+[08Mar2025 14:49:00.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[08Mar2025 14:49:00.488] [Server thread/INFO] [ConditionalEvents/]: Disabling ConditionalEvents v4.60.2
+[08Mar2025 14:49:00.491] [Server thread/INFO] [Console/]: [ConditionalEvents] Has been disabled! Version: 4.60.2
+[08Mar2025 14:49:00.492] [Server thread/INFO] [Graves/]: Disabling Graves v4.9
+[08Mar2025 14:49:00.502] [Server thread/INFO] [NotBounties/]: Disabling NotBounties v1.21.6
+[08Mar2025 14:49:00.506] [Server thread/INFO] [Images/]: Disabling Images v2.5.3
+[08Mar2025 14:49:00.509] [Server thread/INFO] [YamipaPlugin/]: Disabling YamipaPlugin v1.3.2
+[08Mar2025 14:49:00.512] [Server thread/INFO] [BetterRevive/]: Disabling BetterRevive v0.9.1-BETA
+[08Mar2025 14:49:00.514] [Server thread/INFO] [Console/]:  
+[08Mar2025 14:49:00.514] [Server thread/INFO] [Console/]: [BetterRevive] Plugin has been disabled!
+[08Mar2025 14:49:00.515] [Server thread/INFO] [Console/]: [BetterRevive] Thank you for using my plugin!
+[08Mar2025 14:49:00.515] [Server thread/INFO] [Console/]:  
+[08Mar2025 14:49:00.515] [Server thread/INFO] [SkinsRestorer/]: Disabling SkinsRestorer v15.6.0
+[08Mar2025 14:49:00.519] [Server thread/INFO] [RealisticSeasons/]: Disabling RealisticSeasons v11.6.7
+[08Mar2025 14:49:00.522] [Server thread/ERROR] [Minecraft/]: Error occurred while disabling RealisticSeasons v11.6.7 (Is it up to date?)
+java.lang.NullPointerException: Cannot invoke "me.casperge.realisticseasons.data.DataHandler.save()" because "this.datareader" is null
+	at me.casperge.realisticseasons.RealisticSeasons.onDisable(RealisticSeasons.java:421) ~[?:?]
+	at org.bukkit.plugin.java.JavaPlugin.setEnabled(JavaPluginMixin.java:265) ~[arclight:arclight-1.16.5-1.0.25-7cf92be3]
+	at org.bukkit.plugin.java.JavaPluginLoader.disablePlugin(JavaPluginLoaderMixin.java:367) ~[arclight:arclight-1.16.5-1.0.25-7cf92be3]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugin(SimplePluginManager.java:501) ~[arclight:arclight-1.16.5-1.0.25-7cf92be3]
+	at org.bukkit.plugin.SimplePluginManager.disablePlugins(SimplePluginManager.java:493) ~[arclight:arclight-1.16.5-1.0.25-7cf92be3]
+	at org.bukkit.craftbukkit.v1_16_R3.CraftServer.disablePlugins(CraftServerMixin.java:426) ~[arclight:arclight-1.16.5-1.0.25-7cf92be3]
+	at net.minecraft.server.MinecraftServer.handler$baa000$arclight$unloadPlugins(MinecraftServerMixin.java:1988) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_71260_j(MinecraftServerMixin.java:549) ~[?:?]
+	at net.minecraft.server.dedicated.DedicatedServer.func_71260_j(DedicatedServerMixin.java:514) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240802_v_(MinecraftServerMixin.java:1959) ~[?:?]
+	at net.minecraft.server.MinecraftServer.func_240783_a_(MinecraftServerMixin.java:232) ~[?:?]
+	at java.lang.Thread.run(Thread.java:840) [?:?]
+[08Mar2025 14:49:00.523] [Server thread/INFO] [Multiverse-Core/]: Disabling Multiverse-Core v4.3.14
+[08Mar2025 14:49:00.529] [Server thread/INFO] [ProtocolLib/]: Disabling ProtocolLib v5.3.0
+[08Mar2025 14:49:00.532] [Server thread/INFO] [EssentialsSpawn/]: Disabling EssentialsSpawn v2.21.0-dev+183-b5748eb
+[08Mar2025 14:49:00.533] [Server thread/INFO] [NBTAPI/]: Disabling NBTAPI v2.14.1
+[08Mar2025 14:49:00.534] [Server thread/INFO] [OnePlayerSleep/]: Disabling OnePlayerSleep v1.3
+[08Mar2025 14:49:00.536] [Server thread/INFO] [AutoUpdatePlugins/]: Disabling AutoUpdatePlugins v11.5
+[08Mar2025 14:49:00.537] [Server thread/INFO] [TAB/]: Disabling TAB v4.1.6
+[08Mar2025 14:49:00.538] [Server thread/INFO] [Console/]: [TAB] Disabled in 0ms
+[08Mar2025 14:49:00.539] [Server thread/INFO] [Essentials/]: Disabling Essentials v2.21.0-dev+183-b5748eb
+[08Mar2025 14:49:00.541] [Server thread/INFO] [Quests/]: Disabling Quests v5.2.1-b528
+[08Mar2025 14:49:00.541] [Server thread/INFO] [Quests/]: Saving Quester data...
+[08Mar2025 14:49:00.542] [Server thread/INFO] [Quests/]: Closing storage...
+[08Mar2025 14:49:00.542] [Server thread/INFO] [AnimationsCore/]: Disabling AnimationsCore v0.1-SNAPSHOT
+[08Mar2025 14:49:00.546] [Server thread/INFO] [TerraformGenerator/]: Disabling TerraformGenerator v12.0.0
+[08Mar2025 14:49:00.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[08Mar2025 14:49:00.546] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[08Mar2025 14:49:00.547] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[08Mar2025 14:49:00.638] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08Mar2025 14:49:00.649] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/DIM-1]'/minecraft:the_nether
+[08Mar2025 14:49:00.673] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08Mar2025 14:49:00.674] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world/DIM1]'/minecraft:the_end
+[08Mar2025 14:49:00.687] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08Mar2025 14:49:00.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[mundo]'/minecraft:mundo
+[08Mar2025 14:49:01.200] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (mundo): All chunks are saved
+[08Mar2025 14:49:01.213] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[08Mar2025 14:49:01.219] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[08Mar2025 14:49:01.221] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[08Mar2025 14:49:01.223] [Server thread/INFO] [net.minecraft.world.server.ChunkManager/]: ThreadedAnvilChunkStorage (mundo): All chunks are saved
+[08Mar2025 14:49:01.231] [Thread-0/INFO] [STDOUT/]: [tschipp.carryon.common.handler.ListHandler:initConfigLists:282]: [minecraft:soul_fire_base_blocks, forge:glass/gray, minecraft:campfires, forge:storage_blocks, forge:glass_panes/magenta, minecraft:infiniburn_nether, forge:glass_panes/orange, forge:glass/light_gray, forge:ores/quartz, minecraft:wooden_slabs, forge:glass/blue, minecraft:small_flowers, minecraft:wooden_trapdoors, forge:storage_blocks/netherite, forge:storage_blocks/coal, forge:glass_panes/white, forge:glass_panes/black, forge:glass/light_blue, forge:gravel, forge:glass_panes/cyan, jade:pick, forge:storage_blocks/redstone, paraglider:statues, forge:glass_panes/light_gray, minecraft:wool, forge:glass/colorless, forge:glass_panes/blue, minecraft:stairs, minecraft:logs, forge:glass_panes/light_blue, minecraft:beehives, minecraft:ice, forge:ores/netherite_scrap, minecraft:dragon_immune, minecraft:crops, forge:stained_glass, forge:glass/pink, forge:chests, forge:storage_blocks/emerald, forge:stone, forge:ores/redstone, minecraft:valid_spawn, minecraft:mushroom_grow_block, minecraft:wooden_doors, minecraft:warped_stems, minecraft:standing_signs, forge:glass/red, minecraft:infiniburn_end, forge:glass_panes/yellow, forge:glass/purple, forge:storage_blocks/iron, forge:glass_panes/brown, minecraft:crimson_stems, forge:glass_panes/green, carryon:block_blacklist, minecraft:prevent_mob_spawning_inside, minecraft:wart_blocks, minecraft:climbable, forge:chests/trapped, forge:fence_gates, minecraft:dark_oak_logs, minecraft:coral_plants, forge:glass_panes, minecraft:non_flammable_wood, forge:sandstone, forge:glass_panes/colorless, minecraft:beacon_base_blocks, minecraft:shulker_boxes, minecraft:anvil, minecraft:birch_logs, paraglider:statues/goddess, forge:sand, minecraft:wall_corals, forge:glass_panes/purple, forge:glass/yellow, minecraft:fences, minecraft:saplings, forge:storage_blocks/lapis, forge:ores/copper, minecraft:beds, forge:ores/diamond, minecraft:oak_logs, minecraft:unstable_bottom_center, forge:ores/gold, minecraft:doors, minecraft:enderman_holdable, minecraft:banners, forge:barrels, minecraft:infiniburn_overworld, minecraft:flower_pots, minecraft:wooden_fences, minecraft:piglin_repellents, forge:ores/lapis, forge:glass/black, minecraft:wall_post_override, minecraft:portals, forge:obsidian, forge:enderman_place_on_blacklist, forge:dirt, minecraft:bamboo_plantable_on, forge:fences/nether_brick, forge:glass/lime, forge:chests/wooden, forge:ores/iron, minecraft:pressure_plates, minecraft:jungle_logs, forge:chests/ender, forge:glass/white, minecraft:wooden_stairs, minecraft:spruce_logs, forge:glass_panes/red, minecraft:signs, minecraft:carpets, minecraft:base_stone_overworld, minecraft:wooden_buttons, minecraft:wither_summon_base_blocks, forge:glass/magenta, forge:fence_gates/wooden, minecraft:stone_bricks, forge:ores/coal, minecraft:hoglin_repellents, forge:storage_blocks/quartz, minecraft:fire, forge:glass/orange, forge:glass_panes/lime, minecraft:base_stone_nether, minecraft:wall_signs, minecraft:slabs, carryon:block_whitelist, minecraft:guarded_by_piglins, forge:ores/emerald, forge:sand/colorless, minecraft:trapdoors, forge:glass/cyan, minecraft:corals, minecraft:buttons, minecraft:flowers, forge:glass, minecraft:planks, forge:cobblestone, minecraft:soul_speed_blocks, minecraft:rails, forge:barrels/wooden, minecraft:leaves, minecraft:walls, minecraft:coral_blocks, minecraft:strider_warm_blocks, forge:storage_blocks/gold, forge:glass/green, minecraft:fence_gates, forge:ores, forge:glass_panes/gray, minecraft:bee_growables, minecraft:wooden_pressure_plates, minecraft:wither_immune, minecraft:acacia_logs, minecraft:tall_flowers, forge:stained_glass_panes, minecraft:underwater_bonemeals, forge:fences, minecraft:stone_pressure_plates, forge:sand/red, forge:storage_blocks/diamond, minecraft:impermeable, minecraft:sand, minecraft:nylium, forge:end_stones, minecraft:gold_ores, forge:glass/brown, forge:glass_panes/pink, minecraft:logs_that_burn, forge:netherrack, forge:fences/wooden]
+[08Mar2025 14:49:06.234] [Exit Thread/WARN] [Arclight/]: 13 threads not shutting down correctly, force exiting
