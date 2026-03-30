@@ -1,0 +1,16 @@
+world:
+  keepSpawnInMemory: true
+  forceSaveOnWatchdog: true
+fakePlayer:
+  permissions:
+  - essentials.build
+  eventPass: false
+plugin:
+  patcher:
+    enableDynmapCompatible: true
+    enableEssentialsNewVersionCompatible: true
+    enableMythicMobsPatcherCompatible: true
+    enableWorldEditCompatible: true
+disableFMLStatusModInfo: false
+disableAsyncCatchWarn: false
+versionCheck: true
